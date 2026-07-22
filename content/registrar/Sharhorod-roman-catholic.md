@@ -4,6 +4,7 @@ aliases:
   - Костел Святого Флоріана (Шаргород)
 tags:
   - catholicism
+description: Католицька парафія Шаргорода та навколишніх сіл
 ---
 ## Парафія
 - [[settlement/Sharhorod|Шаргород]]
