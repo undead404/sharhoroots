@@ -2,6 +2,9 @@
 title: Шаргород
 aliases:
   - Шаргород
+tags:
+  - town
+  - city
 ---
 ## Реєстратори
 - [[Sharhorod-roman-catholic|Костел Святого Флоріана (Шаргород)]]

@@ -4,8 +4,6 @@ description: Генеалогічна база даних Шаргородщин
 aliases:
   - Головна
 tags:
-  - moc
-  - genealogy
 ---
 
 > [!abstract] Про проєкт
