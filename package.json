@@ -79,7 +79,8 @@
     "esbuild": "^0.27.2",
     "prettier": "^3.8.1",
     "tsx": "^4.21.0",
-    "typescript": "^5.9.3"
+    "typescript": "^5.9.3",
+    "wrangler": "^4.113.0"
   },
   "engines": {
     "node": ">=22",
@@ -107,7 +108,9 @@
     "format": "npx prettier . --write",
     "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1",
     "quartz": "./quartz/bootstrap-cli.mjs",
-    "test": "tsx --test"
+    "test": "tsx --test",
+    "deploy": "wrangler deploy",
+    "preview": "wrangler dev"
   },
   "type": "module",
   "version": "4.5.2"
