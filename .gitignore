@@ -1,1 +1,22 @@
-node_modules
+# Залежності середовища
+node_modules/
+
+# Артефакти збірки та кеш Quartz
+public/
+.quartz-cache/
+
+# Змінні середовища
+.env
+.env.local
+.env.*
+
+# Системні файли ОС
+.DS_Store
+Thumbs.db
+*.log
+
+# Локальний стан Obsidian (запобігання конфліктам)
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/log
