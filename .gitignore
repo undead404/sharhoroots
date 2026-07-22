@@ -16,7 +16,8 @@ Thumbs.db
 *.log
 
 # Локальний стан Obsidian (запобігання конфліктам)
-.obsidian/workspace
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
-.obsidian/log
+content/.obsidian/workspace
+content/.obsidian/workspace.json
+content/.obsidian/workspace-mobile.json
+content/.obsidian/log
+content/.obsidian/workspace.json
