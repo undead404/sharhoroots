@@ -1,0 +1,246 @@
+{
+  "main": {
+    "id": "ff5e775c486b8449",
+    "type": "split",
+    "children": [
+      {
+        "id": "d63599e4496d3774",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "266aef848d1fc14b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Нова вкладка"
+            }
+          }
+        ]
+      },
+      {
+        "id": "1416e8427fbaa6be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ce4c6e3356309cf",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3c077dc30138a1ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "23d6ff0572a1b5c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8b740bb57c91d01",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловий менеджер"
+            }
+          },
+          {
+            "id": "6b828a01a7f7fd92",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Пошук"
+            }
+          },
+          {
+            "id": "29881d550ae12dc8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f575615b102422d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca123feb975f8a95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12b924164db8b29a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Зворотні посилання"
+            }
+          },
+          {
+            "id": "b627dd835b8e39b9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Вихідні посилання"
+            }
+          },
+          {
+            "id": "b4f6e92035b231ed",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Мітки"
+            }
+          },
+          {
+            "id": "ea6339a262d314b7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Всі властивості"
+            }
+          },
+          {
+            "id": "f2eb88223b26e9c1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Вміст index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Відкрити провідник файлів": false,
+      "graph:Граф": false,
+      "canvas:Створити нове полотно": false,
+      "daily-notes:Сьогоднішня нотатка": false,
+      "templates:Вставити шаблон": false,
+      "command-palette:Відкрити меню команд": false,
+      "bases:Створити нову базу": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "b8b740bb57c91d01",
+  "lastOpenFiles": [
+    "content/administrative-division/Zhmerynka-raion.md",
+    "content/administrative-division/Без назви.md",
+    "content/administrative-division/Vinnytsia-oblast.md",
+    "content/administrative-division/Sharhorod-raion.md",
+    "content/administrative-division/Dzhuryn-raion.md",
+    "content/administrative-division/Mohyliv-okruha.md",
+    "content/administrative-division/Bratslav-viceroyalty.md",
+    "content/administrative-division/Mogilev-uezd.md",
+    "content/administrative-division/Yampol-uezd 1.md",
+    "content/administrative-division/Shargorod-volost.md",
+    "content/administrative-division/Sharhorod-volost.md",
+    "content/administrative-division/Sharhorod.md",
+    "content/administrative-division/Yampol-uezd.md",
+    "content/administrative-division/Podolia-governorate.md",
+    "content/administrative-division/index.md",
+    "content/administrative-division/Podolia governorate.md",
+    "content/administrative-division",
+    "content/Без назви",
+    "content/author.md",
+    "content/Без назви.md",
+    "content/registrar/Sharhorod-roman-catholic.md",
+    "content/registrar/index.md",
+    "content/registrar/index.md.md",
+    "content/registrar/Без назви.md",
+    "content/registrar/Sharhorod_rc.md",
+    "content/settlement/Sharhorod.md",
+    "content/settlement/Без назви.md",
+    "public/settlement/index-og-image.webp",
+    "public/index-og-image.webp",
+    "public/postscript.js",
+    "public/prescript.js",
+    "public/index.css",
+    "public/tags/index.html",
+    "public/static/giscus/light.css",
+    "public/static/giscus/dark.css",
+    "public/static/og-image.png",
+    "public/static/icon.png",
+    "public/static/giscus",
+    "public/static/contentIndex.json",
+    "content/index.md",
+    "node_modules/js-binary-schema-parser/example/horses.gif",
+    "node_modules/js-binary-schema-parser/example/box.gif",
+    "node_modules/js-binary-schema-parser/example/dog.gif",
+    "node_modules/gifuct-js/demo/jblack.gif",
+    "node_modules/gifuct-js/demo/horses.gif",
+    "node_modules/gifuct-js/demo/dog.gif"
+  ]
+}

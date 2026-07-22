@@ -6,7 +6,7 @@ tags:
   - catholicism
 ---
 ## Парафія
-- [[Sharhorod|Шаргород]]
+- [[settlement/Sharhorod|Шаргород]]
 - Будьки
 - Мишівське (хутір)
 - Козлівка
