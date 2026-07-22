@@ -180,12 +180,14 @@
       "daily-notes:Сьогоднішня нотатка": false,
       "templates:Вставити шаблон": false,
       "command-palette:Відкрити меню команд": false,
-      "bases:Створити нову базу": false
+      "bases:Створити нову базу": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "9ebe108546522e3f",
   "lastOpenFiles": [
     "settlement/Sharhorod.md",
+    "registrar/index.md",
     "registrar/Sharhorod_rc.md",
     "settlement/index.md",
     "index.md"
