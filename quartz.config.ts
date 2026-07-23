@@ -1,54 +1,49 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
-/**
- * Quartz 4 Configuration
- *
- * See https://quartz.jzhao.xyz/configuration for more information.
- */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "Генеалогія Шаргородщини та Джуринщини",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
-    locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    locale: "uk-UA",
+    baseUrl: "sharhoroots.pages.dev",
+    ignorePatterns: ["private", "templates", ".obsidian", "**/*.excalidraw.md"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        header: "Inter",
+        body: "Source Sans 3", // Виправлено на актуальну варіативну версію
         code: "IBM Plex Mono",
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
+          light: "#fcfcfc",
           lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          gray: "#a3a3a3",
+          darkgray: "#404040",
+          dark: "#171717",
+          secondary: "#2f5c7a",
+          tertiary: "#5a8c82",
+          highlight: "rgba(47, 92, 122, 0.08)",
+          textHighlight: "rgba(255, 242, 54, 0.5)",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
+          light: "#121212",
+          lightgray: "#262626",
+          gray: "#737373",
           darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
+          dark: "#f5f5f5",
+          secondary: "#8ab4f8",
           tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          highlight: "rgba(138, 180, 248, 0.15)",
+          textHighlight: "rgba(179, 170, 2, 0.5)",
         },
       },
     },
@@ -71,7 +66,7 @@ const config: QuartzConfig = {
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
-      Plugin.Latex({ renderEngine: "katex" }),
+      // Plugin.Latex() видалено.
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [
