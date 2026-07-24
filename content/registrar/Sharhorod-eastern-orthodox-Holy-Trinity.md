@@ -3,7 +3,7 @@ aliases:
   - Свято-Троїцька церква (Шаргород)
 title: Свято-Троїцька церква (Шаргород)
 tags:
-  - orthodoxy
+  - eastern-orthodox
 ---
 ## Парафія
 - [[Sharhorod|Шаргород]]

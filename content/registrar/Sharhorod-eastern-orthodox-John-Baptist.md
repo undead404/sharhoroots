@@ -3,7 +3,7 @@ aliases:
   - Церква Івана Хрестителя (Шаргород)
 title: Церква Івана Хрестителя (Шаргород)
 tags:
-  - orthodoxy
+  - eastern-orthodox
 ---
 ## Парафія
 - [[Sharhorod|Шаргород]]
