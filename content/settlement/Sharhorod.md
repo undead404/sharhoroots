@@ -22,7 +22,7 @@ tags:
 ## Реєстратори
 - [[Sharhorod-roman-catholic|Костел Святого Флоріана (Шаргород)]]
 - [[Sharhorod-eastern-orthodox-Michael|Церква Архістратига Михаїла (Шаргород)]]
-- [[Sharhorod-eastern-orthodox-John-Baptist|Церква Івана Хрестителя (Шаргород)]]
+- [[Sharhorod-eastern-orthodox-John-Forerunner|Церква Івана Предтечі (Шаргород)]]
 - [[Sharhorod-eastern-orthodox-Holy-Trinity|Свято-Троїцька церква (Шаргород)]]
 - [[Sharhorod-judaic|Шаргородський рабинат]]
 ## Переписи та ревізії
