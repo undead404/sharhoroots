@@ -196,14 +196,16 @@
   },
   "active": "b8b740bb57c91d01",
   "lastOpenFiles": [
+    "content/settlement/Pysarivka.md",
+    "content/settlement/Без назви.md",
+    "content/registrar/Sharhorod-eastern-orthodox-Holy-Trinity.md",
+    "content/registrar/Без назви.md",
     "content/723100477_18607086922044049_2875039901081514790_n.jpg",
     "content/registrar/Politanky-civil.md",
-    "content/registrar/Без назви.md",
     "content/registrar/Politanky-eastern-orthodox-Michael-miracle.md",
     "content/administrative-division/Chernovtsy-volost.md",
     "content/administrative-division/Без назви.md",
     "content/settlement/Politanky.md",
-    "content/settlement/Без назви.md",
     "content/registrar/Sharhorod-eastern-orthodox-Michael.md",
     "content/registrar/Sharhorod-eastern-orthodox-John-Baptist 1.md",
     "content/registrar/Sharhorod-eastern-orthodox-John-Baptist.md",
@@ -221,7 +223,6 @@
     "content/administrative-division/Yampol-uezd.md",
     "content/administrative-division/Podolia-governorate.md",
     "content/administrative-division/index.md",
-    "content/administrative-division/Podolia governorate.md",
     "content/administrative-division",
     "content/Без назви",
     "public/settlement/index-og-image.webp",
@@ -240,7 +241,6 @@
     "node_modules/js-binary-schema-parser/example/box.gif",
     "node_modules/js-binary-schema-parser/example/dog.gif",
     "node_modules/gifuct-js/demo/jblack.gif",
-    "node_modules/gifuct-js/demo/horses.gif",
-    "node_modules/gifuct-js/demo/dog.gif"
+    "node_modules/gifuct-js/demo/horses.gif"
   ]
 }
