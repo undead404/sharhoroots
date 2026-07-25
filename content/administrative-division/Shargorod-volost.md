@@ -26,6 +26,19 @@ tags:
 	- хутір Дияковського
 	- сільце Коропівня (Кропивня)
 - сільце Теклівка
+### На 1885 рік
+За виданням ["Волости и важнейшие селения Евр. России, вып. III" (1885)](https://archive.org/details/MostImportantVillagesEuropeanRussia/1885.Vivser_Vyp_3_Gubernii_Malorossiyskie_I_Yugo-Zapadnye_1885/page/n143/mode/2up):
+- містечко [[Sharhorod|Шаргород]]
+- село [[Hybalivka|Гибалівка]]
+- сільце [[Derevianky|Дерев'янки]]
+- село [[Kalynivka|Калинівка]]
+- сільце [[Kozlivka|Козлівка]]
+- сільце [[Kovbasna|Ковбасна]] (нині частина Шаргорода)
+- село [[Nosykivka|Носиківка]]
+- село [[Plebanivka|Плебанівка]]
+- село [[Khomenky|Хоменки]]
+- село [[Sloboda-Sharhorodska|Слобода-Шаргородська]]
+- сільце [[Shostakivka|Шостаківка]]
 ## Дотичні фонди
 
 | Архів | Номер | Назва                                                                                          | Час       | Кількість справ |
