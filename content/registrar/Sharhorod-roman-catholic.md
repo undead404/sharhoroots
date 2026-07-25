@@ -6,6 +6,11 @@ tags:
   - catholicism
 description: Католицька парафія Шаргорода та навколишніх сіл
 ---
+> [!figure]
+> ![[Pasted image 20260725171644.png]]
+> Костьол Святого Флоріана Шарого, вул. Героїв Майдану, 216. [Posterr](https://commons.wikimedia.org/wiki/File:%D0%9A%D0%BE%D1%81%D1%82%D1%8C%D0%BE%D0%BB_%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D0%B3%D0%BE_%D0%A4%D0%BB%D0%BE%D1%80%D1%96%D0%B0%D0%BD%D0%B0_%D0%A8%D0%B0%D1%80%D0%BE%D0%B3%D0%BE_P1530501.jpg)
+
+Більше про храм – на Вікіпедії: [Костел Святого Флоріана (Шаргород)](https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D1%82%D0%B5%D0%BB_%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D0%B3%D0%BE_%D0%A4%D0%BB%D0%BE%D1%80%D1%96%D0%B0%D0%BD%D0%B0_(%D0%A8%D0%B0%D1%80%D0%B3%D0%BE%D1%80%D0%BE%D0%B4)).
 ## Парафія
 - [[settlement/Sharhorod|Шаргород]]
 - Будьки
