@@ -5,6 +5,9 @@ aliases:
   - Головна
 tags:
 ---
+> [!figure]
+> ![[P54_S46_SZAROGROD_1930_LoC_G6520_s100_.P6_part.jpg]]
+> *Wojskowy Instytut Kartograficzny P54 S46 Szarogrod (1930, частина), за матеріалами 1908-1911 років. [Internet Archive](https://archive.org/details/wojskowy-instytut-kartograficzny-3d5533*
 
 > [!abstract] Про проєкт
 > **SharhoRoots** — база знань для дослідження родоводу, локалізації метричних книг та архівних документів історичної Шаргородщини та Джуринщини.
