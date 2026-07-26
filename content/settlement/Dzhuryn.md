@@ -4,7 +4,7 @@ aliases:
 tags:
   - town
   - village
-title: Джуринський район
+title: Джурин
 description: "?"
 ---
 ## Історія
