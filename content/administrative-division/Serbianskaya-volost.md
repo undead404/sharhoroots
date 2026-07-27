@@ -3,7 +3,7 @@ aliases:
   - Сербянська волость
 title: Сербянська волость
 tags:
-  - russian-empire
+  - volost
 ---
 ## Склад
 ## На 1885 рік

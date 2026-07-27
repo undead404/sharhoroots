@@ -4,7 +4,7 @@ aliases:
 title: Стрільники (Шпиківські)
 tags:
   - village
-description: "?"
+
 ---
 ## Історія
 

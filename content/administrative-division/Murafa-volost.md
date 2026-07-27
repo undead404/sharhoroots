@@ -3,8 +3,7 @@ aliases:
   - Мурафська волость
 title: Мурафська волость
 tags:
-  - russian-empire
-description: "?"
+  - volost
 ---
 ## Склад
 ## На 1885 рік

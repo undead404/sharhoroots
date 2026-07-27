@@ -3,8 +3,7 @@ aliases:
   - Рожнятівська волость
 title: Рожнятівська волость
 tags:
-  - russian-empire
-description: "?"
+  - volost
 ---
 ## Склад
 ## На 1885 рік

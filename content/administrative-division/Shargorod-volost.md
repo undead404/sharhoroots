@@ -3,8 +3,7 @@ aliases:
   - Шаргородська волость
 title: Шаргородська волость
 tags:
-  - russian-empire
-  - ussr
+  - volost
 ---
 ## Склад
 ### На 1873 рік

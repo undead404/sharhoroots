@@ -2,7 +2,7 @@
 aliases:
   - Юліямпіль
 title: Юліямпіль
-description: "?"
+
 tags:
   - village
   - hamlet

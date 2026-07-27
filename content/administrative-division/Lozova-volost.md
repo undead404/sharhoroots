@@ -3,7 +3,7 @@ aliases:
   - Лозівська волость
 title: Лозівська волость
 tags:
-  - russian-empire
+  - volost
 ---
 ## Склад
 ### На 1873 рік

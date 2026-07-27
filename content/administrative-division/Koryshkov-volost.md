@@ -2,7 +2,7 @@
 aliases:
   - Коришківська волость
 tags:
-  - russian-empire
+  - volost
 title: Коришківська волость
 ---
 ## Склад

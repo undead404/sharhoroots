@@ -2,7 +2,7 @@
 aliases:
   - Лопатинці
 title: Лопатинці (Шпиківські)
-description: "?"
+
 tags:
   - village
 ---

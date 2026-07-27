@@ -4,7 +4,7 @@ aliases:
 title: Федорівка (Мурафська)
 tags:
   - village
-description: "?"
+
 ---
 ## Історія
 

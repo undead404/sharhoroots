@@ -4,7 +4,7 @@ aliases:
 title: Сапіжанка
 tags:
   - village
-description: "?"
+
 ---
 ## Історія
 

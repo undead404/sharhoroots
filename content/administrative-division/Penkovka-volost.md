@@ -3,8 +3,7 @@ aliases:
   - Пеньківська волость
 title: Пеньківська волость
 tags:
-  - russian-empire
-description: "?"
+  - volost
 ---
 ## Склад
 ## На 1885 рік

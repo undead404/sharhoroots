@@ -4,7 +4,7 @@ aliases:
 tags:
   - village
 title: Покутине
-description: "?"
+
 ---
 ## Історія
 

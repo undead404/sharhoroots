@@ -5,7 +5,7 @@ title: Клекотина
 tags:
   - hamlet
   - village
-description: "?"
+
 ---
 ## Історія
 

@@ -4,7 +4,7 @@ aliases:
 title: Зведенівка
 tags:
   - village
-description: "?"
+
 ---
 ## Історія
 

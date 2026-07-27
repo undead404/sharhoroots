@@ -4,7 +4,7 @@ aliases:
 title: Садківці
 tags:
   - village
-description: "?"
+
 ---
 ## Історія
 

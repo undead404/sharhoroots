@@ -3,8 +3,7 @@ aliases:
   - Краснянська волость
 title: Краснянська волость
 tags:
-  - russian-empire
-description: "?"
+  - volost
 ---
 ## Склад
 ## На 1885 рік

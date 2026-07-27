@@ -5,7 +5,7 @@ tags:
   - town
   - village
 title: Джурин
-description: "?"
+
 ---
 ## Історія
 
