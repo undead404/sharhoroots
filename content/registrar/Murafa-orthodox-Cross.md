@@ -36,3 +36,11 @@ tags:
 | 1827 | ДАХмО-315-1-7298 | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/7298), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115083867)                                                   | Підшивка |
 | 1831 | ДАХмО-315-1-7359 | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/7359), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115086147)                                                   | Підшивка |
 | 1861 | ДАХмО-315-1-8563 | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/8563), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115459870)                                                   | Підшивка |
+
+## Дотичні справи
+
+| Час  | Архівна справа   | Назва                                                                                                                                              | Посилання                                                                                                 |
+| :--- | :--------------- | :------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------- |
+| 1846 | ДАХмО-315-1-1295 | Рапорт священника м. Старої Мурафи Ямпільського повіту Гавриловича, про перехід мешканців його парафії з православного віросповідання в католицизм | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=118773899) |
+
+

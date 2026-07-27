@@ -26,3 +26,10 @@ title: Свято-Вознесенська церква (Нова Мурафа)
 | 1820 | ДАХмО-315-1-7071 | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/7071), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115082085)                                                   |          |
 | 1823 | ДАХмО-315-1-7195 | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/7195), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115082120)                                                   |          |
 | 1827 | ДАХмО-315-1-7298 | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/7298), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115083867)                                                   |          |
+
+## Дотичні справи
+
+| Час       | Архівна справа   | Назва                                                                               | Посилання                                                                                                 |
+| :-------- | :--------------- | :---------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------- |
+| 1817-1822 | ДАХмО-315-1-1774 | Справа про рукоположення в священники м. Мурафи Ямпільського повіту Порубиновського | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=118774962) |
+
