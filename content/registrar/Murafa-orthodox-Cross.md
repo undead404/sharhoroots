@@ -5,6 +5,9 @@ title: Свято-Хрестовоздвиженська церква (Стар�
 tags:
   - eastern-orthodox
 ---
+> [!figure]
+> ![[Pasted image 20260727104006.png]]
+> *Здвиженська церква. [Андрій Бондаренко](https://ukrainaincognita.com/kostoly/murafa)*
 ## Парафія
 
 - [[Stara-Murafa|Стара Мурафа]]

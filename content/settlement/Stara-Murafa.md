@@ -1,12 +1,16 @@
 ---
 aliases:
   - Стара Мурафа
-title: Стара Мурафа (Мурафа)
+title: Стара Мурафа (Мурафа Жмеринська)
 tags:
   - town
   - village
   - defunct
+description: "?"
 ---
+> [!figure]
+> ![[Pasted image 20260727102541.png]]
+> *Murachwa (G. Podolska) 1875, Napoleon Orda. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Murachwa_(G._Podolska)_1875_(79208249).jpg)*
 ## Історія
 
 За виданням ["Волости и важнейшие селения Евр. России, вып. III" (1885)](https://archive.org/details/MostImportantVillagesEuropeanRussia/1885.Vivser_Vyp_3_Gubernii_Malorossiyskie_I_Yugo-Zapadnye_1885/page/n143/mode/2up) – № 1496:
@@ -17,9 +21,10 @@ tags:
 1949 року, згідно з [Указом ПВР УРСР від 29.9.1949 «Про ліквідацію Юридико-Шаргородської і Старомурафської сільрад Шаргородського району, Вінницької області»](https://uk.wikisource.org/wiki/%D0%A3%D0%BA%D0%B0%D0%B7_%D0%9F%D0%92%D0%A0_%D0%A3%D0%A0%D0%A1%D0%A0_%D0%B2%D1%96%D0%B4_29.9.1949_%C2%AB%D0%9F%D1%80%D0%BE_%D0%BB%D1%96%D0%BA%D0%B2%D1%96%D0%B4%D0%B0%D1%86%D1%96%D1%8E_%D0%AE%D1%80%D0%B8%D0%B4%D0%B8%D0%BA%D0%BE-%D0%A8%D0%B0%D1%80%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D1%8C%D0%BA%D0%BE%D1%97_%D1%96_%D0%A1%D1%82%D0%B0%D1%80%D0%BE%D0%BC%D1%83%D1%80%D0%B0%D1%84%D1%81%D1%8C%D0%BA%D0%BE%D1%97_%D1%81%D1%96%D0%BB%D1%8C%D1%80%D0%B0%D0%B4_%D0%A8%D0%B0%D1%80%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%D1%83,_%D0%92%D1%96%D0%BD%D0%BD%D0%B8%D1%86%D1%8C%D0%BA%D0%BE%D1%97_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%96%C2%BB), Стара Мурафа була об'єднана з [[Murafa|Мурафою]].
 ## Реєстратори
 
+- [[Murafa-orthodox-Christmas|Церква Різдва Богородиці]]
 - [[Murafa-orthodox-Cross|Свято-Хрестовоздвиженська церква]]
 - [[Murafa-orthodox-Nicholas|Церква Святого Миколая]]
-- [[Murafa-catholic|Костел Непорочного зачаття Пресвятої діви Марії]]
+- Католики відносилися до [[Murafa-catholic|Костелу Непорочного зачаття Пресвятої діви Марії]]
 - Рабинат
 - Мурафська сільрада
 

@@ -5,24 +5,40 @@ title: Свято-Успенська церква (Мурафа)
 tags:
   - eastern-orthodox
 ---
+> [!figure]
+> ![[Pasted image 20260727104152.png]]
+> *Мурафа с Церква Успіння. [Прадідівська слава](https://www.pslava.info/MurafaS_CerkvaUspinnja,265546.html)*
+## Історія
+
+Церква Успіння в Новій Мурафі збудована у 1740 р. – дерев’яна триверха. Закрита у 1877 р., розібрана у 1888 р. Нова церква збудована у 1878 р. – цегляна [Приходы и церкви Подольской епархии. – Труды Подольского епархиального историко-статистического комитета, 1901 г., т. 9, с. 1056 – 1058].
+
+Нова Мурафа. Церква: орієнтація вівтаря 63°, в центрі села, до головної вулиці – С3. *Спостереження М.І.Жарких, 9 липня 1996 р*.
 ## Парафія
 
 - [[Murafa|Нова Мурафа]]
+- Заячківка
+- Пацьорова
 
 ## Метричні книги
 
-| Роки      | Архівна справа        | Посилання                                                                                                 | Примітка       |
-| --------- | --------------------- | --------------------------------------------------------------------------------------------------------- | -------------- |
-| 1800      | ДАХмО-315-1-6773      | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=114929778) | Підшивка       |
-| 1806      | ДАХмО-315-1-6859      | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=114929643) | Підшивка       |
-| 1807      | ДАХмО-315-1-6874      | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=114926757) | Підшивка       |
-| 1811      | ДАХмО-315-1-6945      | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=114929679) | Підшивка       |
-| 1812      | ДАХмО-315-1-6961      | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=114929799) | Підшивка       |
-| 1816      | ДАХмО-315-1-7021      | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=114929709) | Підшивка       |
-| 1822-1845 | ДАХмО-315-1-7180      | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115083806) |                |
-| 1841      | ДАХмО-315-1-7537      | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115312248) | Підшивка       |
-| 1846-1858 | ДАХмО-315-1-7861      | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115208902) |                |
-| ~~1913~~  | ~~ДАХмО-315-1-12822~~ |                                                                                                           | Помилка в ЗКМК |
+| Роки      | Архівна справа        | Посилання                                                                                                                                                                                                                                          | Примітка                                                              |
+| --------- | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| 1800      | ДАХмО-315-1-6773      | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=114929778)                                                                                                                                          | Підшивка                                                              |
+| 1806      | ДАХмО-315-1-6859      | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=114929643)                                                                                                                                          | Підшивка                                                              |
+| 1807      | ДАХмО-315-1-6874      | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=114926757)                                                                                                                                          | Підшивка                                                              |
+| 1811      | ДАХмО-315-1-6945      | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=114929679)                                                                                                                                          | Підшивка                                                              |
+| 1812      | ДАХмО-315-1-6961      | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=114929799)                                                                                                                                          | Підшивка                                                              |
+| 1816      | ДАХмО-315-1-7021      | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=114929709)                                                                                                                                          | Підшивка                                                              |
+| 1822-1845 | ДАХмО-315-1-7180      | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115083806)                                                                                                                                          |                                                                       |
+| 1841      | ДАХмО-315-1-7537      | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115312248)                                                                                                                                          | Підшивка                                                              |
+| 1846-1858 | ДАХмО-315-1-7861      | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115208902)                                                                                                                                          |                                                                       |
+| ~~1913~~  | ~~ДАХмО-315-1-12822~~ |                                                                                                                                                                                                                                                    | Помилка в ЗКМК                                                        |
+| 1867-1874 | ДАВіО-904-26-23       | [ВікіДжерела](https://uk.wikisource.org/wiki/%D0%90%D1%80%D1%85%D1%96%D0%B2:%D0%94%D0%90%D0%92%D1%96%D0%9E/904/26/23), [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1eRl28jik0w544ueyhE-rskfNXcswtUfs?usp=drive_link) | 1866 рік у справі - [[Murafa-orthodox-Nicholas\|Миколаївська церква]] |
+| 1884-1888 | ДАВіО-904-26-79       |                                                                                                                                                                                                                                                    |                                                                       |
+| 1889-1897 | ДАВіО-904-26-105      |                                                                                                                                                                                                                                                    |                                                                       |
+| 1898-1902 | ДАВіО-904-26-145      |                                                                                                                                                                                                                                                    |                                                                       |
+| 1909-1913 | ДАВіО-904-26-212      |                                                                                                                                                                                                                                                    | Крім смерті 1913                                                      |
+| 1914-1920 | ДАВіО-904-26-248      |                                                                                                                                                                                                                                                    |                                                                       |
 
 ## Сповідні розписи
 

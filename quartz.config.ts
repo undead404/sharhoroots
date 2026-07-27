@@ -3,8 +3,8 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Генеалогія Шаргородщини та Джуринщини",
-    pageTitleSuffix: "",
+    pageTitle: "Генеалогія Шаргородщини",
+    pageTitleSuffix: "| Генеалогія Шаргородщини",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
