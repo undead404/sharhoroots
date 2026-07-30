@@ -6,6 +6,8 @@ tags:
   - village
 
 ---
+У 1834 році належала [[Sharhorod-catholic|Костелу Святого Флоріана в Шаргороді]] [ДАВіО-177-1-1150].
+
 За виданням ["Волости и важнейшие селения Евр. России, вып. III" (1885)](https://archive.org/details/MostImportantVillagesEuropeanRussia/1885.Vivser_Vyp_3_Gubernii_Malorossiyskie_I_Yugo-Zapadnye_1885/page/n143/mode/2up) – № 1063:
 > Колишнє власницьке село Плебанівка на річках Мурашці та Лозоватій.
 > 
@@ -19,6 +21,7 @@ tags:
 | ---- | ---------------- | --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
 | 1816 | ДАВіО-177-1-1008 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1KVvvtfgV82aPkbjiswY3xJj8F45QLzdm?usp=drive_link) | Ревізька казка, чиншова шляхта                  |
 | 1834 | ДАВіО-177-1-1142 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1U1Bas-dqJCZ-xEtC5Pah38xHi6DFnx_4?usp=drive_link) | Підшивка, див. 680а. Ревізька казка, однодворці |
+| 1834 | ДАВіО-177-1-1150 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1Tj7SeUyAsqikAs04NwbOiHUwL_54Zgzz?usp=drive_link) | Підшивка, див. 54. Ревізька казка, селяни       |
 
 ## Дотичні справи
 

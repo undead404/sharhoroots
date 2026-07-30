@@ -21,6 +21,7 @@ tags:
 | 1818 | ДАВіО-177-1-1117 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1F9iY9_CAoLmz1x5yW0FznTGWJK9yG9k4?usp=drive_link) | Підшивка, див. 32. Про родини шляхтичів Кабанського та Малишевського |
 | 1834 | ДАВіО-177-1-1137 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1oROcCNpeCULiv6k38N2G-e8NTg7iFIwu?usp=drive_link) | Підшивка, див. 803. Ревізька казка, однодворці                       |
 | 1834 | ДАВіО-177-1-1139 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1dVHz-CErYzKnUez-CMk61PfncR0tNJNd?usp=drive_link) | Підшивка, див. 6, 477                                                |
+| 1834 | ДАВіО-177-1-1146 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1OI2kR9pvt_IcRKloH33F48nAW2GxpleZ?usp=drive_link) | Підшивка, див. 112а. Однодворці                                      |
 
 ## Дотичні справи
 
