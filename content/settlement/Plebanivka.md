@@ -6,7 +6,9 @@ tags:
   - village
 
 ---
-У 1834 році належала [[Sharhorod-catholic|Костелу Святого Флоріана в Шаргороді]] [ДАВіО-177-1-1150].
+У 1834 році належала католицькому духовенству [ДАВіО-177-1-1150].
+
+Судячи з [ДАВіО-177-1-1168](https://drive.google.com/drive/folders/1YGBpPD6DFvgM0EUcc6XdLhrZSWT1Ci3I?usp=drive_link), 1842 року відібрана в Шаргородського Миколаївського монастиря на користь казенної палати.
 
 За виданням ["Волости и важнейшие селения Евр. России, вып. III" (1885)](https://archive.org/details/MostImportantVillagesEuropeanRussia/1885.Vivser_Vyp_3_Gubernii_Malorossiyskie_I_Yugo-Zapadnye_1885/page/n143/mode/2up) – № 1063:
 > Колишнє власницьке село Плебанівка на річках Мурашці та Лозоватій.
@@ -17,11 +19,12 @@ tags:
 
 ## Переписи та ревізії
 
-| Роки | Архівна справа   | Посилання                                                                                                                   | Примітка                                        |
-| ---- | ---------------- | --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
-| 1816 | ДАВіО-177-1-1008 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1KVvvtfgV82aPkbjiswY3xJj8F45QLzdm?usp=drive_link) | Ревізька казка, чиншова шляхта                  |
-| 1834 | ДАВіО-177-1-1142 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1U1Bas-dqJCZ-xEtC5Pah38xHi6DFnx_4?usp=drive_link) | Підшивка, див. 680а. Ревізька казка, однодворці |
-| 1834 | ДАВіО-177-1-1150 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1Tj7SeUyAsqikAs04NwbOiHUwL_54Zgzz?usp=drive_link) | Підшивка, див. 54. Ревізька казка, селяни       |
+| Роки | Архівна справа   | Посилання                                                                                                                   | Примітка                                               |
+| ---- | ---------------- | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
+| 1816 | ДАВіО-177-1-1008 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1KVvvtfgV82aPkbjiswY3xJj8F45QLzdm?usp=drive_link) | Ревізька казка, чиншова шляхта                         |
+| 1834 | ДАВіО-177-1-1142 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1U1Bas-dqJCZ-xEtC5Pah38xHi6DFnx_4?usp=drive_link) | Підшивка, див. 680а. Ревізька казка, однодворці        |
+| 1834 | ДАВіО-177-1-1150 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1Tj7SeUyAsqikAs04NwbOiHUwL_54Zgzz?usp=drive_link) | Підшивка, див. 54. Ревізька казка, селяни              |
+| 1842 | ДАВіО-177-1-1168 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1juszrj3xg6EV1Z4M4yU2z0MJRMou9cGB?usp=drive_link) | Підшивка, див. 719. Ревізькі казки, неосілі однодворці |
 
 ## Дотичні справи
 

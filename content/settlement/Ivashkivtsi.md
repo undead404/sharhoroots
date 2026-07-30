@@ -11,6 +11,10 @@ tags:
 У 1834 році ([ДАВіО-177-1-1155](https://drive.google.com/drive/folders/1XNPKkoNfEkmWoQxirDlpcDmUNTKQE512?usp=drive_link)) згадуються такі власники:
 - Любомирський
 
+У 1842 році ([ДАВіО-177-1-1168](https://drive.google.com/drive/folders/1YGBpPD6DFvgM0EUcc6XdLhrZSWT1Ci3I?usp=drive_link)) власники мали селян:
+- Дембицький 357
+- Давидовський 101
+
 За виданням ["Волости и важнейшие селения Евр. России, вып. III" (1885)](https://archive.org/details/MostImportantVillagesEuropeanRussia/1885.Vivser_Vyp_3_Gubernii_Malorossiyskie_I_Yugo-Zapadnye_1885/page/n143/mode/2up) – № 1032:
 > Колишнє власницьке село Івашківці.
 > 

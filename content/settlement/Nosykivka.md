@@ -11,6 +11,9 @@ tags:
 У 1834 році ([ДАВіО-177-1-1155](https://drive.google.com/drive/folders/1XNPKkoNfEkmWoQxirDlpcDmUNTKQE512?usp=drive_link)) згадуються такі власники:
 - Любомирський
 
+У 1842 році ([ДАВіО-177-1-1168](https://drive.google.com/drive/folders/1YGBpPD6DFvgM0EUcc6XdLhrZSWT1Ci3I?usp=drive_link)) власники мали селян:
+- Чарнецький Матвій 531
+
 За виданням ["Волости и важнейшие селения Евр. России, вып. III" (1885)](https://archive.org/details/MostImportantVillagesEuropeanRussia/1885.Vivser_Vyp_3_Gubernii_Malorossiyskie_I_Yugo-Zapadnye_1885/page/n143/mode/2up) – № 1062:
 > Колишнє власницьке село Носиківка на річках Мурашці та Мушковатій.
 > 
@@ -21,10 +24,11 @@ tags:
 
 ## Переписи та ревізії
 
-| Роки | Архівна справа   | Посилання                                                                                                                   | Примітка                                         |
-| ---- | ---------------- | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| 1811 | ДАВіО-177-1-1103 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1gtDFNiwhKNvrXiY0VegC5_V04r8ECb_B?usp=drive_link) | Підшивка, див. 1. Ревізька казка, чиншова шляхта |
-| 1834 | ДАВіО-177-1-1142 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1U1Bas-dqJCZ-xEtC5Pah38xHi6DFnx_4?usp=drive_link) | Підшивка, див. 472а. Ревізька казка, однодворці  |
+| Роки | Архівна справа   | Посилання                                                                                                                   | Примітка                                               |
+| ---- | ---------------- | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
+| 1811 | ДАВіО-177-1-1103 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1gtDFNiwhKNvrXiY0VegC5_V04r8ECb_B?usp=drive_link) | Підшивка, див. 1. Ревізька казка, чиншова шляхта       |
+| 1834 | ДАВіО-177-1-1142 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1U1Bas-dqJCZ-xEtC5Pah38xHi6DFnx_4?usp=drive_link) | Підшивка, див. 472а. Ревізька казка, однодворці        |
+| 1842 | ДАВіО-177-1-1168 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1juszrj3xg6EV1Z4M4yU2z0MJRMou9cGB?usp=drive_link) | Підшивка, див. 452. Ревізькі казки, неосілі однодворці |
 
 ## Дотичні справи
 

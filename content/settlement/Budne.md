@@ -9,6 +9,10 @@ tags:
 
 У 1834 році ([ДАВіО-177-1-1155](https://drive.google.com/drive/folders/1XNPKkoNfEkmWoQxirDlpcDmUNTKQE512?usp=drive_link)) згадуються такі власники:
 - Любомирський
+
+У 1842 році ([ДАВіО-177-1-1168](https://drive.google.com/drive/folders/1YGBpPD6DFvgM0EUcc6XdLhrZSWT1Ci3I?usp=drive_link)) власники мали селян:
+- Щенявський Владислав 183
+
 ## Переписи та ревізії
 
 | Роки | Архівна справа   | Посилання                                                                                                                   | Примітка                        |
