@@ -1,9 +1,15 @@
 ---
 aliases:
   - Політанська сільрада
+containedInPlace: Шаргородський район
+coordinates:
+  - 48.637852
+  - 28.12775
+dissolutionDate: 2020
 title: Політанська сільрада
 tags:
   - civil-registry
+type: AdministrativeArea
 ---
 ## Територія
 

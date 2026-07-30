@@ -1,10 +1,15 @@
 ---
 aliases:
   - Чернівецька волость
+containedInPlace: Ямпільський повіт
+coordinates:
+  - 48.5406973
+  - 28.1221153
+dissolutionDate: 1923
 title: Чернівецька волость
 tags:
   - volost
-
+type: AdministrativeArea
 ---
 ## Склад
 ## На 1885 рік
