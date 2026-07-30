@@ -5,7 +5,10 @@ title: Будне (Шаргородське)
 tags:
   - village
 ---
+## Історія
 
+У 1834 році ([ДАВіО-177-1-1155](https://drive.google.com/drive/folders/1XNPKkoNfEkmWoQxirDlpcDmUNTKQE512?usp=drive_link)) згадуються такі власники:
+- Любомирський
 ## Переписи та ревізії
 
 | Роки | Архівна справа   | Посилання                                                                                                                   | Примітка                        |

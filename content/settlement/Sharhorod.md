@@ -11,9 +11,15 @@ description: "Адміністративна історія, демографі�
 > ![[Pasted image 20260725165740.png]]
 > *Шаргород 1872 року, літографія. [Antykwariat](https://sklep.antykwariat.biz/object/index/id/5645)*
 
+## Історія
+
+У 1834 році ([ДАВіО-177-1-1155](https://drive.google.com/drive/folders/1XNPKkoNfEkmWoQxirDlpcDmUNTKQE512?usp=drive_link)) нараховано по ревізії євреїв 326 чоловіків і 373 жінки.
+
 За виданням ["Волости и важнейшие селения Евр. России, вып. III" (1885)](https://archive.org/details/MostImportantVillagesEuropeanRussia/1885.Vivser_Vyp_3_Gubernii_Malorossiyskie_I_Yugo-Zapadnye_1885/page/n143/mode/2up) – № 1056:
 > Колишнє власницьке містечко Шаргород коло річок Ковбасної та Мурашки.
+> 
 > Дворів 158, мешканців 811.
+> 
 > Волосне правління, церква православна, [[Sharhorod-catholic|костел]], католицька каплиця, 2 синагоги, єврейський молитовний будинок, школа, поштова станція, аптека, 24 заїзди, 57 крамниць, базар кожні 2 тижні. За 3 версти – цегляний завод.
 
 Більше про Шаргород – на Вікіпедії: [Шаргород](https://uk.wikipedia.org/wiki/%D0%A8%D0%B0%D1%80%D0%B3%D0%BE%D1%80%D0%BE%D0%B4).
@@ -50,13 +56,14 @@ description: "Адміністративна історія, демографі�
 | 1811 | ДАВіО-177--1081а | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАВіО/177/1/1081а)                                                                                                                                                                               | Ревізькі казки євреїв                                                                     |
 | 1811 | ДАВіО-177-1-1103 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1gtDFNiwhKNvrXiY0VegC5_V04r8ECb_B?usp=drive_link)                                                                                                                         | Підшивка, див. 23. Ревізька казка, дворові служителі та чиншова шляхта                    |
 | 1816 | ДАВіО-177-1-870  |                                                                                                                                                                                                                                                     | Ревізька відомість за 1816 р.                                                             |
+| 1818 | ДАВіО-177-1-1117 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1F9iY9_CAoLmz1x5yW0FznTGWJK9yG9k4?usp=drive_link)                                                                                                                         | Підшивка. Див. 36 - Чиншова шляхта. Див. 50 - родина шляхтича Стефана Демінського.        |
 | 1834 | ДАВіО-177-1-1137 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1oROcCNpeCULiv6k38N2G-e8NTg7iFIwu?usp=drive_link)                                                                                                                         | Підшивка, див. 610. Ревізька казка, однодворці                                            |
+| 1834 | ДАВіО-177-1-1141 | [ВікіДжерела](https://uk.wikisource.org/wiki/%D0%90%D1%80%D1%85%D1%96%D0%B2:%D0%94%D0%90%D0%92%D1%96%D0%9E/177/1/1141), [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1_NRnXOyPAQqSr7Lk9y-eOrnCVpk1xChs?usp=drive_link) | Підшивка, див. 1. Євреї                                                                   |
+| 1843 | ДАВіО-177-1-1167 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1CuWo_svPy0edS3CjEOwMLcV6KcRcROPy?usp=drive_link)                                                                                                                         | Підшивка, див. 581, 585, 591. Ревізькі казки неосілих однодворців                         |
 | 1868 | ДАВіО-331-1-22   |                                                                                                                                                                                                                                                     | Уставні грамоти м. Шаргород і передмістя Маслівки                                         |
 | 1881 | ДАВіО-331-1-3    |                                                                                                                                                                                                                                                     | Подвірний список                                                                          |
 | 1888 | ДАВіО-331-1-9    | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАВіО/331/1/9)                                                                                                                                                                                   | Подвірний список єврейської спільноти                                                     |
 | 1888 | ДАВіО-331-1-12   |                                                                                                                                                                                                                                                     | Посімейний список селян, відставних солдат і їх родин м. Шаргорода та передмістя Маслівки |
-| 1818 | ДАВіО-177-1-1117 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1F9iY9_CAoLmz1x5yW0FznTGWJK9yG9k4?usp=drive_link)                                                                                                                         | Підшивка. Див. 36 - Чиншова шляхта. Див. 50 - родина шляхтича Стефана Демінського.        |
-| 1834 | ДАВіО-177-1-1141 | [ВікіДжерела](https://uk.wikisource.org/wiki/%D0%90%D1%80%D1%85%D1%96%D0%B2:%D0%94%D0%90%D0%92%D1%96%D0%9E/177/1/1141), [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1_NRnXOyPAQqSr7Lk9y-eOrnCVpk1xChs?usp=drive_link) | Підшивка, див. 1. Євреї                                                                   |
 
 
 ## Дотичні фонди

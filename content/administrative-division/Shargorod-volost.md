@@ -11,7 +11,7 @@ tags:
 - містечко [[Sharhorod|Шаргород]], а також:
 	- присілок Маслівка
 	- присілок Богачівка
-	- присілок Барабаївка
+	- присілок [[Barabaivka|Барабаївка]]
 	- сільце Соснівка
 - село [[Sloboda-Sharhorodska|Слобода-Шаргородська]]
 - Село [[Hybalivka|Гибалівка]], а також:
@@ -24,7 +24,7 @@ tags:
 	- [[Khutir-Dobrovolskoho|Хутір Добровольського]]
 	- хутір Дияковського
 	- сільце Коропівня (Кропивня)
-- сільце Теклівка
+- сільце [[Teklivka|Теклівка]]
 ### На 1885 рік
 За виданням ["Волости и важнейшие селения Евр. России, вып. III" (1885)](https://archive.org/details/MostImportantVillagesEuropeanRussia/1885.Vivser_Vyp_3_Gubernii_Malorossiyskie_I_Yugo-Zapadnye_1885/page/n143/mode/2up) – належала до 3 стану [[Mogilev-uezd|Могилівського повіту]].
 - містечко [[Sharhorod|Шаргород]]
