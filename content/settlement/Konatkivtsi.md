@@ -23,6 +23,7 @@ tags:
 | 1817 | ДАВіО-177-1-1085 |                                                                                                                             | Підшивка. Ревізькі казки за 1811             |
 | 1834 | ДАВіО-177-1-1139 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1dVHz-CErYzKnUez-CMk61PfncR0tNJNd?usp=drive_link) | Підшивка, див. 381. Ревізькі казки           |
 | 1834 | ДАВіО-177-1-1149 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1GrexEHxYvRVHiJ5bpL3cJOlcrQQ5PnDW?usp=drive_link) | Підшивка, див. 1. Ревізькі казки, однодворці |
+| 1834 | ДАВіО-177-1-1150 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1Tj7SeUyAsqikAs04NwbOiHUwL_54Zgzz?usp=drive_link) | Підшивка, див. 447. Ревізька казка, дворові  |
 
 ## Дотичні справи
 
