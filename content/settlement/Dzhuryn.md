@@ -1,13 +1,16 @@
 ---
 aliases:
   - Джурин
+containedInPlace: Жмеринський район
 coordinates:
   - 48.681271
   - 28.292053
+foundingDate: 1547
 tags:
   - town
   - village
 title: Джурин
+type: Place
 ---
 ## Історія
 
