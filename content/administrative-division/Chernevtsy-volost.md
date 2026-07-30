@@ -9,6 +9,7 @@ dissolutionDate: 1923
 title: Чернівецька волость
 tags:
   - volost
+  - defunct
 type: AdministrativeArea
 ---
 ## Склад

@@ -1,11 +1,13 @@
 ---
 aliases:
   - Джурин
+coordinates:
+  - 48.681271
+  - 28.292053
 tags:
   - town
   - village
 title: Джурин
-
 ---
 ## Історія
 

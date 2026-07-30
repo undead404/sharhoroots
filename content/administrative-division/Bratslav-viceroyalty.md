@@ -10,6 +10,7 @@ foundingDate: 1793
 title: Брацлавське намісництво
 tags:
   - governorate
+  - defunct
 type: AdministrativeArea
 ---
 Роки існування: 1793-1796.
