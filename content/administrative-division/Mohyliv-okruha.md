@@ -1,7 +1,15 @@
 ---
 aliases:
   - Могилівська округа
-title: Могилівська округа
+containedInPlace: УСРР
+coordinates:
+  - 48.442544
+  - 27.7991124
+dissolutionDate: 1930
+foundingDate: 1923
+title: Могилівський повіт
 tags:
-  - okruha
+  - area
+  - defunct
+type: AdministrativeArea
 ---

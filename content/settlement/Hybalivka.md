@@ -1,25 +1,28 @@
 ---
 aliases:
   - Гибалівка
-title: Гибалівка
+containedInPlace: Жмеринський район
 tags:
   - village
   - suburb
-
+title: Гибалівка
+type: Place
 ---
 ## Історія
 
 У 1834 році ([ДАВіО-177-1-1155](https://drive.google.com/drive/folders/1XNPKkoNfEkmWoQxirDlpcDmUNTKQE512?usp=drive_link)) згадуються такі власники:
+
 - Любомирський
 
 У 1842 році ([ДАВіО-177-1-1168](https://drive.google.com/drive/folders/1YGBpPD6DFvgM0EUcc6XdLhrZSWT1Ci3I?usp=drive_link)) власники мали селян:
+
 - Любомирський Генрик 254
 
 За виданням ["Волости и важнейшие селения Евр. России, вып. III" (1885)](https://archive.org/details/MostImportantVillagesEuropeanRussia/1885.Vivser_Vyp_3_Gubernii_Malorossiyskie_I_Yugo-Zapadnye_1885/page/n143/mode/2up) – № 1057:
 > Колишнє власницьке село Гибалівка на річці Ковбасній.
-> 
+>
 > Дворів 100, мешканців 590.
-> 
+>
 > Православна церква, школа, заїзд, водний млин, винокурня.
 
 ## Переписи та ревізії
@@ -29,3 +32,9 @@ tags:
 | 1811 | ДАВіО-177-1-1103 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1gtDFNiwhKNvrXiY0VegC5_V04r8ECb_B?usp=drive_link)                                                                                                                         | Підшивка, див. 21. Ревізька казка, чиншова шляхта |
 | 1834 | ДАВіО-177-1-1146 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1OI2kR9pvt_IcRKloH33F48nAW2GxpleZ?usp=drive_link)                                                                                                                         | Підшивка, див. 638а. Однодворці                   |
 | 1844 | ДАВіО-177-1-1169 | [ВікіДжерела](https://uk.wikisource.org/wiki/%D0%90%D1%80%D1%85%D1%96%D0%B2:%D0%94%D0%90%D0%92%D1%96%D0%9E/177/1/1169), [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/16T5YbwqSADFUUb1899UQmWnEji2ALULg?usp=drive_link) | Підшивка, див. 76. Додаткові РК однодворців       |
+
+## Дотичні справи
+
+| Час  | Архівна справа   | Назва                     | Посилання                                                                                                                   | Примітка                                            |
+| ---- | ---------------- | ------------------------- | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| 1854 | ДАВіО-177-1-1173 | Ревізькі казки за 1850 р. | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1pw7QXgLTq4Re_qjqu1TuGlN9eMGZQjdf?usp=drive_link) | Підшивка, на 599зв опис розбіжностей по однодворцях |
