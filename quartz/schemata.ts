@@ -14,7 +14,9 @@ export const frontmatterSchema = z.object({
   type: z.optional(z.union([
     z.literal("AdministrativeArea"),
     z.literal("GovernmentOrganization"),
+    z.literal('Organization'),
     z.literal("Place"),
+    z.literal('PlaceOfWorship')
   ])),
 });
 

@@ -1,4 +1,4 @@
-import type { GeoCoordinates, Place } from 'schema-dts';
+import type { GeoCoordinates, Place } from "schema-dts";
 import z from "zod";
 import type { QuartzComponent, QuartzComponentProps } from "./types";
 import { frontmatterSchema } from "../schemata";
@@ -6,10 +6,10 @@ import { frontmatterSchema } from "../schemata";
 export const StructuredData: QuartzComponent = ({
   fileData,
 }: QuartzComponentProps) => {
-  if (!fileData.frontmatter) {
+  if (!fileData.frontmatter?.type) {
     return null;
   }
-  console.log(fileData.frontmatter)
+  console.log(fileData.frontmatter);
   const fm = z.parse(frontmatterSchema, fileData.frontmatter);
 
   const title = fm.title;
@@ -25,14 +25,7 @@ export const StructuredData: QuartzComponent = ({
     return null;
   }
 
-  //   if (!schemaType) {
-  //     if (slug.startsWith("settlements/")) schemaType = "AdministrativeArea"
-  //     else if (slug.startsWith("registrars/")) schemaType = "GovernmentOrganization"
-  //     else if (slug.startsWith("administrative-division/")) schemaType = "AdministrativeArea"
-  //     else schemaType = "Place"
-  //   }
-
-  const alternateName = fm.aliases?.find(alias => alias !== title)
+  const alternateName = fm.aliases?.find((alias) => alias !== title);
 
   // 2. Build Schema base structure
   const schema: Record<string, unknown> = {
@@ -41,7 +34,7 @@ export const StructuredData: QuartzComponent = ({
     name: title,
     ...(description && { description: description }),
     ...(alternateName && { alternateName }),
-    ...(fm.foundingDate && {foundingDate: fm.foundingDate})
+    ...(fm.foundingDate && { foundingDate: fm.foundingDate }),
   };
 
   // 3. Handle historical/defunct metadata
