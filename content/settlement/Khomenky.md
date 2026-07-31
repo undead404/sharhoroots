@@ -2,6 +2,9 @@
 aliases:
   - Хоменки
 containedInPlace: Жмеринський район
+coordinates:
+  - 48.693247
+  - 28.2308213
 foundingDate: 1625
 tags:
   - village
