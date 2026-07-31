@@ -20,6 +20,8 @@ type: Place
 
 - Собанський Федір 450 (з них 1 колишній втікач)
 
+У 1850 році Хоменками так само володів Федір Вікентіїв Собанський.
+
 За виданням ["Волости и важнейшие селения Евр. России, вып. III" (1885)](https://archive.org/details/MostImportantVillagesEuropeanRussia/1885.Vivser_Vyp_3_Gubernii_Malorossiyskie_I_Yugo-Zapadnye_1885/page/n143/mode/2up) – № 1064:
 > Колишнє власницьке село Хоменки на річці Мурашці.
 >
@@ -35,6 +37,7 @@ type: Place
 | 1834 | ДАВіО-177-1-1137 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1oROcCNpeCULiv6k38N2G-e8NTg7iFIwu?usp=drive_link)                                                                                                                         | Підшивка, див. 511. Ревізька казка, однодворці                           |
 | 1834 | ДАВіО-177-1-1151 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1L2xdY5KQeFLH2BVoWrCeA88Ubsx0sMUb?usp=drive_link)                                                                                                                         | Підшивка, див. 289. Ревізька казка, селяни. Також є пізніші додаткові РК |
 | 1842 | ДАВіО-177-1-1169 | [ВікіДжерела](https://uk.wikisource.org/wiki/%D0%90%D1%80%D1%85%D1%96%D0%B2:%D0%94%D0%90%D0%92%D1%96%D0%9E/177/1/1169), [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/16T5YbwqSADFUUb1899UQmWnEji2ALULg?usp=drive_link) | Підшивка, див. 667. Додаткові РК однодворців                             |
+| 1850 | ДАВіО-177-1-1178 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/11kXLq4ZfHTexFehWqtbXmoCS8bKlb72L?usp=drive_link)                                                                                                                         | Підшивка, див. 704. Селяни                                               |
 
 ## Дотичні справи
 
