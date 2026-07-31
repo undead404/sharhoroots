@@ -2,6 +2,9 @@
 aliases:
   - Гибалівка
 containedInPlace: Жмеринський район
+coordinates:
+  - 48.725124
+  - 28.101273
 tags:
   - village
   - suburb

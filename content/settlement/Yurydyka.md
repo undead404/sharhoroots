@@ -2,9 +2,11 @@
 aliases:
   - Юридика
   - Юридика-Шаргородська
-title: Юридика (Мурафа)
 tags:
-  - village
+  - hamlet
+  - defunct
+title: Юридика (Мурафа)
+type: Place
 ---
 ## Історія
 

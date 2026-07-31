@@ -2,13 +2,16 @@
 aliases:
   - Футір Устриця
   - Хутір Устриця
-title: Хутір Устриця
 tags:
   - khutir
   - defunct
+title: Хутір Устриця
+type: Place
 ---
 У 1834 році ([ДАВіО-177-1-1155](https://drive.google.com/drive/folders/1XNPKkoNfEkmWoQxirDlpcDmUNTKQE512?usp=drive_link)) згадуються такі власники:
+
 - Ціханоська
+
 ## Переписи та ревізії
 
 | Роки | Архівна справа   | Посилання                                                                                                                   | Примітка                                         |

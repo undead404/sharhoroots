@@ -1,11 +1,14 @@
 ---
 aliases:
-  - Гибалівка
-containedInPlace: Жмеринський район
+  - Лукашівка
+containedInPlace: Сурогатка
+coordinates:
+  - 48.728558
+  - 28.172176
 tags:
   - village
   - suburb
-title: Гибалівка
+title: Лукашівка
 type: Place
 ---
 ## Історія

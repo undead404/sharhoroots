@@ -1,15 +1,22 @@
 ---
 aliases:
   - Хутір Добровольського
-title: Хутір Добровольського
+containedInPlace: Роля
+coordinates:
+  - 48.701093924941034
+  - 28.17764515949347
 tags:
   - khutir
   - defunct
+title: Хутір Добровольського
+type: Place
 ---
 ## Історія
 
 У 1842 році ([ДАВіО-177-1-1168](https://drive.google.com/drive/folders/1YGBpPD6DFvgM0EUcc6XdLhrZSWT1Ci3I?usp=drive_link)) власники мали селян:
+
 - Любомирський Генрик 25
+
 ## Переписи та ревізії
 
 | Роки | Архівна справа   | Посилання                                                                                                                   | Примітка                                            |
