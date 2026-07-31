@@ -20,6 +20,8 @@ type: Place
 
 - Івановський
 
+У 1850 році власниця – княгиня Кароліна Петрівна Віттгенштейн.
+
 За виданням ["Волости и важнейшие селения Евр. России, вып. III" (1885)](https://archive.org/details/MostImportantVillagesEuropeanRussia/1885.Vivser_Vyp_3_Gubernii_Malorossiyskie_I_Yugo-Zapadnye_1885/page/n143/mode/2up) – № 1036:
 > Колишнє власницьке село Шаргородські Біляни, на річці Лозовій.
 >
@@ -36,6 +38,7 @@ type: Place
 | 1834 | ДАВіО-177-1-1139 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1dVHz-CErYzKnUez-CMk61PfncR0tNJNd?usp=drive_link)                                                                                                                         | Підшивка, див. 6, 477                                                |
 | 1834 | ДАВіО-177-1-1146 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1OI2kR9pvt_IcRKloH33F48nAW2GxpleZ?usp=drive_link)                                                                                                                         | Підшивка, див. 112а. Однодворці                                      |
 | 1844 | ДАВіО-177-1-1169 | [ВікіДжерела](https://uk.wikisource.org/wiki/%D0%90%D1%80%D1%85%D1%96%D0%B2:%D0%94%D0%90%D0%92%D1%96%D0%9E/177/1/1169), [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/16T5YbwqSADFUUb1899UQmWnEji2ALULg?usp=drive_link) | Підшивка, див. 3. Додаткові РК однодворців                           |
+| 1850 | ДАВіО-177-1-1179 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1qxdIy1ouH77_JXY-FWTc1DSmRVSuSMax?usp=drive_link)                                                                                                                         | Підшивка, див. 377. Ревізька казка селян                             |
 
 ## Дотичні справи
 
