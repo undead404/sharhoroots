@@ -2,10 +2,15 @@
 aliases:
   - Сурогатка
   - Посорогатка
+containedInPlace: Жмеринський район
+coordinates:
+  - 48.707199
+  - 28.13942
 title: Сурогатка
 tags:
   - hamlet
   - village
+type: Place
 ---
 ## Історія
 

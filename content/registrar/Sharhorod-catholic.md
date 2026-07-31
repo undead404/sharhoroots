@@ -21,12 +21,12 @@ type: PlaceOfWorship
 ## Парафія
 
 - [[settlement/Sharhorod|Шаргород]]
-- Будьки
-- Мишівське (хутір)
+- [[Budne|Будне]]
+- [[Myshivske|Мишівське]]
 - [[Kozlivka|Козлівка]]
 - [[Nosykivka|Носиківка]]
 - [[Lozova|Лозова]]
-- Кропивна
+- [[Kropyvnia|Кропивня]]
 - [[Teklivka|Теклівка]]
 - [[Politanky|Політанки]]
 - [[Shostakivka|Шостаківка]]
@@ -34,15 +34,15 @@ type: PlaceOfWorship
 - [[Biliany|Біляни]]
 - [[Perepilchyntsi|Перепільчинці]]
 - [[Pysarivka|Писарівка]]
-- Соснівка
+- [[Sosnivka|Соснівка]]
 - [[Sloboda-Sharhorodska|Слобода-Шаргородська]]
 - Тропове
 - [[Plebanivka|Плебанівка]]
 - Довгівці (нині [[Rudanske|Руданське]])
 - [[Hybalivka|Гибалівка]]
-- Гибалівська (ферма)
+- [[Hybalivska-Ferma|Гибалівська Ферма]]
 - [[Konatkivtsi|Конатківці]]
-- Маслівка
+- [[Maslivka|Маслівка]]
 - Серби (нині Гонтівка)
 - [[Rozkish|Розкіш]]
 - [[Derevianky|Дерев'янки]]

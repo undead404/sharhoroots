@@ -9,6 +9,7 @@ coordinates:
 tags:
   - hamlet
 title: Кропивня (Шаргородська)
+type: Place
 ---
 ## Історія
 

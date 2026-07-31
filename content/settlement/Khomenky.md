@@ -41,6 +41,7 @@ type: Place
 | 1834 | ДАВіО-177-1-1151 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1L2xdY5KQeFLH2BVoWrCeA88Ubsx0sMUb?usp=drive_link)                                                                                                                         | Підшивка, див. 289. Ревізька казка, селяни. Також є пізніші додаткові РК |
 | 1842 | ДАВіО-177-1-1169 | [ВікіДжерела](https://uk.wikisource.org/wiki/%D0%90%D1%80%D1%85%D1%96%D0%B2:%D0%94%D0%90%D0%92%D1%96%D0%9E/177/1/1169), [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/16T5YbwqSADFUUb1899UQmWnEji2ALULg?usp=drive_link) | Підшивка, див. 667. Додаткові РК однодворців                             |
 | 1850 | ДАВіО-177-1-1178 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/11kXLq4ZfHTexFehWqtbXmoCS8bKlb72L?usp=drive_link)                                                                                                                         | Підшивка, див. 704. Селяни                                               |
+| 1850 | ДАВіО-177-1-1185 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1kGTm02jtrrDquMNSMkbWN9t_MRQ0oZ48?usp=drive_link)                                                                                                                         | Підшивка, див. 955. Однодворці                                           |
 
 ## Дотичні справи
 
