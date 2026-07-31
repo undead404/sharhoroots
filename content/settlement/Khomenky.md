@@ -23,7 +23,7 @@ type: Place
 
 - Собанський Федір 450 (з них 1 колишній втікач)
 
-У 1850 році Хоменками так само володів Федір Вікентіїв Собанський.
+На 1850 рік у Хоменках Федорові Вікентієвому Собанському належало селян: 480 чоловіків, 497 жінок ([ДАВіО-177-1-1182а](https://drive.google.com/drive/folders/1opmIlG8LRHiAFX6j66bs9WGaViA_NHX7?usp=drive_link)).
 
 За виданням ["Волости и важнейшие селения Евр. России, вып. III" (1885)](https://archive.org/details/MostImportantVillagesEuropeanRussia/1885.Vivser_Vyp_3_Gubernii_Malorossiyskie_I_Yugo-Zapadnye_1885/page/n143/mode/2up) – № 1064:
 > Колишнє власницьке село Хоменки на річці Мурашці.

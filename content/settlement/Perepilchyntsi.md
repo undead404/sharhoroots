@@ -16,6 +16,8 @@ type: Place
 
 - Любомирський Генрик 275
 
+На 1850 рік у Перепільчинцях князеві Генріху Осиповому Любомирському належало селян: 315 чоловіків, 304 жінки ([ДАВіО-177-1-1182а](https://drive.google.com/drive/folders/1opmIlG8LRHiAFX6j66bs9WGaViA_NHX7?usp=drive_link)).
+
 За виданням ["Волости и важнейшие селения Евр. России, вып. III" (1885)](https://archive.org/details/MostImportantVillagesEuropeanRussia/1885.Vivser_Vyp_3_Gubernii_Malorossiyskie_I_Yugo-Zapadnye_1885/page/n143/mode/2up) – № 985:
 > Колишнє власницьке село Перепільчинці, при річці Митниці.
 >

@@ -7,7 +7,7 @@ coordinates:
   - 27.7991124
 dissolutionDate: 1930
 foundingDate: 1923
-title: Могилівський повіт
+title: Могилівська округа
 tags:
   - area
   - defunct

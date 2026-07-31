@@ -16,6 +16,8 @@ type: Place
 У 1842 році ([ДАВіО-177-1-1168](https://drive.google.com/drive/folders/1YGBpPD6DFvgM0EUcc6XdLhrZSWT1Ci3I?usp=drive_link)) власники мали селян:
 - Клопотовський Вікентій 143
 
+На 1850 рік у Козлівці Вікентію Христофоровому Клопотовському належало селян: 188 чоловіків, 226 жінок ([ДАВіО-177-1-1182а](https://drive.google.com/drive/folders/1opmIlG8LRHiAFX6j66bs9WGaViA_NHX7?usp=drive_link)).
+
 За виданням ["Волости и важнейшие селения Евр. России, вып. III" (1885)](https://archive.org/details/MostImportantVillagesEuropeanRussia/1885.Vivser_Vyp_3_Gubernii_Malorossiyskie_I_Yugo-Zapadnye_1885/page/n143/mode/2up) – № 1060:
 > Колишнє власницьке сільце Козлівка на річці Ковбасній.
 > 
