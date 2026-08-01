@@ -5,7 +5,6 @@ containedInPlace: Могилівський повіт
 coordinates:
   - 48.671127
   - 28.013542
-foundingDate: 1796
 title: Лозівська волость
 tags:
   - defunct
