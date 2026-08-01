@@ -9,7 +9,7 @@ dissolutionDate: 2020
 title: Політанська сільрада
 tags:
   - civil-registry
-type: AdministrativeArea
+type: GovernmentOrganization
 ---
 ## Територія
 
