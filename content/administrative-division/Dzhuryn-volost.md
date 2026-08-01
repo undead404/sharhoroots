@@ -1,9 +1,16 @@
 ---
 aliases:
   - Джуринська волость
-title: Джуринська волость
+containedInPlace: Ямпільський повіт
+coordinates:
+  - 48.681271
+  - 28.292053
+dissolutionDate: 1923
 tags:
   - volost
+  - defunct
+title: Джуринська волость
+type: AdministrativeArea
 ---
 ## Дотичні справи
 

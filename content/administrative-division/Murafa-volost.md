@@ -1,15 +1,23 @@
 ---
 aliases:
   - Мурафська волость
-title: Мурафська волость
+containedInPlace: Ямпільський повіт
+coordinates:
+  - 48.77870685410654
+  - 28.217598361078608
+dissolutionDate: 1923
 tags:
   - volost
+  - defunct
+title: Мурафська волость
+type: AdministrativeArea
 ---
 ## Склад
 
 ## На 1885 рік
 
 За виданням ["Волости и важнейшие селения Евр. России, вып. III" (1885)](https://archive.org/details/MostImportantVillagesEuropeanRussia/1885.Vivser_Vyp_3_Gubernii_Malorossiyskie_I_Yugo-Zapadnye_1885/page/n143/mode/2up) – належала до 2 та 3 станів [[Yampol-uezd|Ямпільського повіту]].
+
 - містечко [[Stara-Murafa|Стара Мурафа]]
 - село [[Derebchyn|Деребчин]]
 - село [[Zvedenivka|Зведенівка]]
@@ -35,4 +43,3 @@ tags:
 | 1912 | ДАВіО-298-1-33 | Розкладні ухвали сільських зборів |           |
 | 1912 | ДАВіО-298-1-34 | Розкладні ухвали сільських зборів |           |
 | 1912 | ДАВіО-298-1-35 | Розкладні ухвали сільських зборів |           |
-
