@@ -1,16 +1,20 @@
 ---
 aliases:
   - Чудо-Михайлівська церква (Політанки)
+containedInPlace: Політанки
 coordinates:
-  - 48.637852
-  - 28.12775
-title: Чудо-Михайлівська церква (Політанки)
+  - 48.6383112942164
+  - 28.130881073827503
 description: Реєстр збережених метричних книг (1796–1919), сповідних розписів, клір та історія парафії.
 tags:
   - eastern-orthodox
+title: Чудо-Михайлівська церква (Політанки)
+type: PlaceOfWorship
 ---
 ## Історія
+
 ### Згідно з [Кліровим розписом 1838 року](https://www.familysearch.org/uk/records/images/search-results?imageGroupNumbers=115206040)
+
 - Збудована 1776 року зусиллями парафіян.
 - Будівля міцна, кам'яна, з такою ж дзвіницею.
 - Престол один – Архістратига Михаїла.
@@ -20,7 +24,9 @@ tags:
 - Зберігаються копії метричних книг від 1823 року.
 - Священник Іоанн Іоаннів Вікул, 58 років. Рукоположений 1810 року.
 - Дячок Артем Максимів Зилинецький, 38 років, від 1835 року.
+
 ### Згідно з [Кліровим розписом 1916 року](https://www.familysearch.org/uk/records/images/search-results?imageGroupNumbers=119291058)
+
 - Збудована 1789 року зусиллями поміщика Гарниша та планувалася як костел.
 - За розпорядженням російської влади недобудований костел перетворений та зусиллями парафіян перебудований на православну церкву.
 - Будівля кам'яна, крита бляхою.
@@ -36,6 +42,7 @@ tags:
 - В бібліотеці книг для читання 155 томів.
 - Присутня церковно-парафіяльна однокласна школа.
 - Староста від 1916 року Григорій Венедиктів Гуменюк.
+
 ## Інституційна належність
 
 - **до 1795:** Руська унійна церква, Київська унійна митрополія, Кам'янецька унійна єпархія.
@@ -69,7 +76,7 @@ tags:
 | 1822, 1824-1845, 1847-1851, 1853 | ДАХмО-315-1-7147 | [Корені](https://koreni.org.ua/DAKhmO-315-1-7147/1/), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115085962)                                                                                 |          |
 | 1826                             | ДАХмО-315-1-7296 | [Корені](https://koreni.org.ua/DAKhmO-315-1-7296-Politanky/1/), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115083863)                                                                       | Підшивка |
 | 1841                             | ДАХмО-315-1-7537 | [Корені](https://koreni.org.ua/DAKhmO-315-1-7537-Politanky/1/), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115312248)                                                                       | Підшивка |
-| 1848                             | ДАВіО-800-1-8а   | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/11gb2DBliFduJCvcQarGfBN2OfFlx7B7O?usp=drive_link)                                                                                                                     | Підшивка |
+| 1848                             | ДАВіО-800-1-8а   | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/11gb2DBliFduJCvcQarGfBN2OfFlx7B7O?usp=drive_link), ДАВіО - Synology                                                                                                   | Підшивка |
 | 1855                             | ДАХмО-315-1-8313 | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115459527)                                                                                                                                       | Підшивка |
 | 1865                             | ДАХмО-315-1-8724 | [Корені](https://koreni.org.ua/DAKhmO-315-1-8724-Politanky/1/), [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/8724), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115460220) | Підшивка |
 | 1873-1882                        | ДАВіО-904-26-43  | [Корені](https://koreni.org.ua/DAViO-904-26-43/1/), [Віталій Перегончук - Google Photos](https://photos.app.goo.gl/XZ3QVTnD5xLBBC5YA)                                                                                                           |          |
@@ -83,7 +90,7 @@ tags:
 
 | Роки | Архівна справа   | Посилання                                                                                                                                                                                                                                       | Примітка |
 | ---- | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
-| 1812 | ДАВіО-800-1-16   | [Корені](https://koreni.org.ua/DAViO-800-1-16-Politanky/1/), [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1oct4gf1XmEPfJl18FGyTtt-OL4ivEVMD?usp=drive_link)                                                        | Підшивка |
+| 1812 | ДАВіО-800-1-16   | [Корені](https://koreni.org.ua/DAViO-800-1-16-Politanky/1/), [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1oct4gf1XmEPfJl18FGyTtt-OL4ivEVMD?usp=drive_link), ДАВіО - Synology                                      | Підшивка |
 | 1820 | ДАХмО-315-1-7071 | [Корені](https://koreni.org.ua/DAKhmO-315-1-7071-Politanky/1/), [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/7071), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115082085) | Підшивка |
 | 1823 | ДАХмО-315-1-7195 | [Корені](https://koreni.org.ua/DAKhmO-315-1-7195-Politanky/1/), [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/7195), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115082120) | Підшивка |
 | 1827 | ДАХмО-315-1-7298 | [Корені](https://koreni.org.ua/DAKhmO-315-1-7298-Politanky/1/), [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/7298), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115083867) | Підшивка |
