@@ -11,7 +11,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "uk-UA",
-    baseUrl: "sharhoroots.pages.dev",
+    baseUrl: "sharhoroots.koreni.org.ua",
     ignorePatterns: ["private", "templates", ".obsidian", "**/*.excalidraw.md"],
     defaultDateType: "modified",
     theme: {
