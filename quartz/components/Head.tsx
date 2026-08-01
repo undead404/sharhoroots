@@ -1,42 +1,47 @@
-import { i18n } from "../i18n"
-import { FullSlug, getFileExtension, joinSegments, pathToRoot } from "../util/path"
-import { CSSResourceToStyleElement, JSResourceToScriptElement } from "../util/resources"
-import { googleFontHref, googleFontSubsetHref } from "../util/theme"
-import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
-import { unescapeHTML } from "../util/escape"
-import { CustomOgImagesEmitterName } from "../plugins/emitters/ogImage"
-import { StructuredData } from "./StructuredData"
+import { i18n } from "../i18n";
+import { getFileExtension, joinSegments } from "../util/path";
+import {
+  CSSResourceToStyleElement,
+  JSResourceToScriptElement,
+} from "../util/resources";
+import { googleFontHref, googleFontSubsetHref } from "../util/theme";
+import {
+  QuartzComponent,
+  QuartzComponentConstructor,
+  QuartzComponentProps,
+} from "./types";
+import { unescapeHTML } from "../util/escape";
+import { CustomOgImagesEmitterName } from "../plugins/emitters/ogImage";
+import { StructuredData } from "./StructuredData";
 export default (() => {
   const Head: QuartzComponent = (props: QuartzComponentProps) => {
-    const {
-    cfg,
-    fileData,
-    externalResources,
-    ctx,
-  } = props;
-    const titleSuffix = cfg.pageTitleSuffix ?? ""
+    const { cfg, fileData, externalResources, ctx } = props;
+    const titleSuffix = cfg.pageTitleSuffix ?? "";
     const title =
-      (fileData.frontmatter?.title ?? i18n(cfg.locale).propertyDefaults.title) + titleSuffix
+      (fileData.frontmatter?.title ?? i18n(cfg.locale).propertyDefaults.title) +
+      titleSuffix;
     const description =
       fileData.frontmatter?.socialDescription ??
       fileData.frontmatter?.description ??
-      unescapeHTML(fileData.description?.trim() ?? i18n(cfg.locale).propertyDefaults.description)
+      unescapeHTML(
+        fileData.description?.trim() ??
+          i18n(cfg.locale).propertyDefaults.description,
+      );
 
-    const { css, js, additionalHead } = externalResources
+    const { css, js, additionalHead } = externalResources;
 
-    const url = new URL(`https://${cfg.baseUrl ?? "example.com"}`)
-    const path = url.pathname as FullSlug
-    const baseDir = fileData.slug === "404" ? path : pathToRoot(fileData.slug!)
-    const iconPath = joinSegments(baseDir, "static/icon.png")
+    const url = new URL(`https://${cfg.baseUrl ?? "example.com"}`);
 
     // Url of current page
     const socialUrl =
-      fileData.slug === "404" ? url.toString() : joinSegments(url.toString(), fileData.slug!)
+      fileData.slug === "404"
+        ? url.toString()
+        : joinSegments(url.toString(), fileData.slug!);
 
     const usesCustomOgImage = ctx.cfg.plugins.emitters.some(
       (e) => e.name === CustomOgImagesEmitterName,
-    )
-    const ogImageDefaultPath = `https://${cfg.baseUrl}/static/og-image.png`
+    );
+    const ogImageDefaultPath = `https://${cfg.baseUrl}/static/og-image.png`;
 
     return (
       <head>
@@ -48,11 +53,18 @@ export default (() => {
             <link rel="preconnect" href="https://fonts.gstatic.com" />
             <link rel="stylesheet" href={googleFontHref(cfg.theme)} />
             {cfg.theme.typography.title && (
-              <link rel="stylesheet" href={googleFontSubsetHref(cfg.theme, cfg.pageTitle)} />
+              <link
+                rel="stylesheet"
+                href={googleFontSubsetHref(cfg.theme, cfg.pageTitle)}
+              />
             )}
           </>
         )}
-        <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossOrigin="anonymous" />
+        <link
+          rel="preconnect"
+          href="https://cdnjs.cloudflare.com"
+          crossOrigin="anonymous"
+        />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
         <meta name="og:site_name" content={cfg.pageTitle}></meta>
@@ -84,7 +96,6 @@ export default (() => {
           </>
         )}
 
-        <link rel="icon" href={iconPath} />
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />
 
@@ -94,16 +105,37 @@ export default (() => {
           .map((res) => JSResourceToScriptElement(res, true))}
         {additionalHead.map((resource) => {
           if (typeof resource === "function") {
-            return resource(fileData)
+            return resource(fileData);
           } else {
-            return resource
+            return resource;
           }
         })}
-        <meta name="google-site-verification" content="qevsecCQ5yTqUCrXXaRbn1leTeXHdFD1b8iEFYYjkKU" />
+        <meta
+          name="google-site-verification"
+          content="qevsecCQ5yTqUCrXXaRbn1leTeXHdFD1b8iEFYYjkKU"
+        />
         <StructuredData {...props} />
+        <link
+          rel="icon"
+          type="image/png"
+          href="/favicon-96x96.png"
+          sizes="96x96"
+        />
+        <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+        <link rel="shortcut icon" href="/favicon.ico" />
+        <link
+          rel="apple-touch-icon"
+          sizes="180x180"
+          href="/apple-touch-icon.png"
+        />
+        <meta
+          name="apple-mobile-web-app-title"
+          content="Генеалогія Шаргородщини"
+        />
+        <link rel="manifest" href="/site.webmanifest" />
       </head>
-    )
-  }
+    );
+  };
 
-  return Head
-}) satisfies QuartzComponentConstructor
+  return Head;
+}) satisfies QuartzComponentConstructor;

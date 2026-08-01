@@ -4,7 +4,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Генеалогія Шаргородщини",
-    pageTitleSuffix: "| Генеалогія Шаргородщини",
+    pageTitleSuffix: " | Генеалогія Шаргородщини",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -81,7 +81,7 @@ const config: QuartzConfig = {
       }),
       Plugin.Assets(),
       Plugin.Static(),
-      Plugin.Favicon(),
+      // Plugin.Favicon(),
       Plugin.NotFoundPage(),
       // Comment out CustomOgImages to speed up build time
       Plugin.CustomOgImages(),
