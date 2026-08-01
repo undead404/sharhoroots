@@ -37,6 +37,7 @@ type: Place
 | ---- | ---------------- | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
 | 1811 | ДАВіО-177-1-1103 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1gtDFNiwhKNvrXiY0VegC5_V04r8ECb_B?usp=drive_link) | Підшивка, див. 14. Ревізька казка, чиншова шляхта |
 | 1834 | ДАВіО-177-1-1149 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1GrexEHxYvRVHiJ5bpL3cJOlcrQQ5PnDW?usp=drive_link) | Підшивка, див. 605а. Ревізькі казки, однодворці   |
+| 1854 | ДАВіО-177-1-1186 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1DBle7rStZGFL7ZhJNhGfYv1_bNGDQCQ6?usp=drive_link) | Підшивка, див. 1349. Ревізькі казки, однодворці   |
 
 ## Дотичні справи
 

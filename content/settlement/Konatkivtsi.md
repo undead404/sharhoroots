@@ -12,6 +12,8 @@ type: Place
 ---
 ## Історія
 
+У 1794 році власником був "каштелян Троцький і різних орденів кавалер" граф Іосиф Францішкович Плятер.
+
 У 1834 році ([ДАВіО-177-1-1155](https://drive.google.com/drive/folders/1XNPKkoNfEkmWoQxirDlpcDmUNTKQE512?usp=drive_link)) згадуються такі власники:
 
 - Дембицький
@@ -33,14 +35,14 @@ type: Place
 
 ## Переписи та ревізії
 
-| Роки | Архівна справа   | Посилання                                                                                                                                                                                                                                           | Примітка                                     |
-| ---- | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
-| 1795 | ДАВіО-177-1-814  |                                                                                                                                                                                                                                                     | Ревізька казка                               |
-| 1817 | ДАВіО-177-1-1085 |                                                                                                                                                                                                                                                     | Підшивка. Ревізькі казки за 1811             |
-| 1834 | ДАВіО-177-1-1139 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1dVHz-CErYzKnUez-CMk61PfncR0tNJNd?usp=drive_link)                                                                                                                         | Підшивка, див. 381. Ревізькі казки           |
-| 1834 | ДАВіО-177-1-1149 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1GrexEHxYvRVHiJ5bpL3cJOlcrQQ5PnDW?usp=drive_link)                                                                                                                         | Підшивка, див. 1. Ревізькі казки, однодворці |
-| 1834 | ДАВіО-177-1-1150 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1Tj7SeUyAsqikAs04NwbOiHUwL_54Zgzz?usp=drive_link)                                                                                                                         | Підшивка, див. 447. Ревізька казка, дворові  |
-| 1844 | ДАВіО-177-1-1169 | [ВікіДжерела](https://uk.wikisource.org/wiki/%D0%90%D1%80%D1%85%D1%96%D0%B2:%D0%94%D0%90%D0%92%D1%96%D0%9E/177/1/1169), [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/16T5YbwqSADFUUb1899UQmWnEji2ALULg?usp=drive_link) | Підшивка, див. 187. Додаткові РК однодворців |
+| Роки | Архівна справа   | Посилання                                                                                                                                                                                                                                           | Примітка                                        |
+| ---- | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
+| 1795 | ДАВіО-177-1-814  | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1tEUSCCHRtG-UNhMA7muoEtr_2-wL-uIh?usp=drive_link)                                                                                                                         | Ревізька казка. Уривок?                         |
+| 1834 | ДАВіО-177-1-1139 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1dVHz-CErYzKnUez-CMk61PfncR0tNJNd?usp=drive_link)                                                                                                                         | Підшивка, див. 381. Ревізькі казки              |
+| 1834 | ДАВіО-177-1-1149 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1GrexEHxYvRVHiJ5bpL3cJOlcrQQ5PnDW?usp=drive_link)                                                                                                                         | Підшивка, див. 1. Ревізькі казки, однодворці    |
+| 1834 | ДАВіО-177-1-1150 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1Tj7SeUyAsqikAs04NwbOiHUwL_54Zgzz?usp=drive_link)                                                                                                                         | Підшивка, див. 447. Ревізька казка, дворові     |
+| 1844 | ДАВіО-177-1-1169 | [ВікіДжерела](https://uk.wikisource.org/wiki/%D0%90%D1%80%D1%85%D1%96%D0%B2:%D0%94%D0%90%D0%92%D1%96%D0%9E/177/1/1169), [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/16T5YbwqSADFUUb1899UQmWnEji2ALULg?usp=drive_link) | Підшивка, див. 187. Додаткові РК однодворців    |
+| 1854 | ДАВіО-177-1-1186 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1DBle7rStZGFL7ZhJNhGfYv1_bNGDQCQ6?usp=drive_link)                                                                                                                         | Підшивка, див. 1283. Ревізькі казки, однодворці |
 
 ## Дотичні справи
 

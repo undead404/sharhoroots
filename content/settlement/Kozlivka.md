@@ -29,3 +29,4 @@ type: Place
 | ---- | ---------------- | --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
 | 1834 | ДАВіО-177-1-1149 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1GrexEHxYvRVHiJ5bpL3cJOlcrQQ5PnDW?usp=drive_link) | Підшивка, див. 589а. Ревізькі казки, однодворці |
 | 1850 | ДАВіО-177-1-1172 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1FNIPJ7CQr7bbG75sO7VvFRCnjvBKISp1?usp=drive_link) | Підшивка, див. 1108. Ревізька казка, селяни     |
+| 1854 | ДАВіО-177-1-1186 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1DBle7rStZGFL7ZhJNhGfYv1_bNGDQCQ6?usp=drive_link) | Підшивка, див. 1357. Ревізькі казки, однодворці |
