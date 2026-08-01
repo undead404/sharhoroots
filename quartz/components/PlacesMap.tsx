@@ -47,7 +47,7 @@ const PlacesMap: QuartzComponent = ({
           height: "70vh",
           width: "100%",
           borderRadius: "8px",
-          zIndex: 1,
+          zIndex: 0,
         }}
       ></div>
       <script
