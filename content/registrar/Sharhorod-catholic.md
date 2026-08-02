@@ -21,33 +21,33 @@ type: PlaceOfWorship
 ## Парафія
 
 - [[settlement/Sharhorod|Шаргород]]
-- [[Budne|Будне]]
-- [[Myshivske|Мишівське]]
-- [[Kozlivka|Козлівка]]
-- [[Nosykivka|Носиківка]]
-- [[Lozova|Лозова]]
-- [[Kropyvnia|Кропивня]]
-- [[Teklivka|Теклівка]]
-- [[Politanky|Політанки]]
-- [[Shostakivka|Шостаківка]]
-- [[Sadkivtsi|Садківці]]
 - [[Biliany|Біляни]]
-- [[Perepilchyntsi|Перепільчинці]]
-- [[Pysarivka|Писарівка]]
-- [[Sosnivka|Соснівка]]
-- [[Sloboda-Sharhorodska|Слобода-Шаргородська]]
-- Тропове
-- [[Plebanivka|Плебанівка]]
-- Довгівці (нині [[Rudanske|Руданське]])
+- [[Budne|Будне]]
 - [[Hybalivka|Гибалівка]]
 - [[Hybalivska-Ferma|Гибалівська Ферма]]
-- [[Konatkivtsi|Конатківці]]
-- [[Maslivka|Маслівка]]
-- Серби (нині Гонтівка)
-- [[Rozkish|Розкіш]]
 - [[Derevianky|Дерев'янки]]
+- Довгівці (нині [[Rudanske|Руданське]])
 - [[Kovbasna|Ковбасна]]
-- [[Hrelivka|Милярівка]]
+- [[Kozlivka|Козлівка]]
+- [[Konatkivtsi|Конатківці]]
+- [[Kropyvnia|Кропивня]]
+- [[Lozova|Лозова]]
+- [[Maslivka|Маслівка]]
+- [[Hrelivka|Милярівка]] (нині Грелівка)
+- [[Myshivske|Мишівське]]
+- [[Nosykivka|Носиківка]]
+- [[Perepilchyntsi|Перепільчинці]]
+- [[Pysarivka|Писарівка]]
+- [[Plebanivka|Плебанівка]]
+- [[Politanky|Політанки]]
+- [[Rozkish|Розкіш]]
+- [[Sadkivtsi|Садківці]]
+- Серби (нині Гонтівка)
+- [[Sloboda-Sharhorodska|Слобода-Шаргородська]]
+- [[Sosnivka|Соснівка]]
+- [[Teklivka|Теклівка]]
+- Тропове
+- [[Shostakivka|Шостаківка]]
 
 ## Метричні книги
 
