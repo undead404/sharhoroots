@@ -10,7 +10,7 @@ foundingDate: 1547
 tags:
   - town
   - village
-title: Джурин
+title: Джурин (Жмеринський)
 type: Place
 ---
 > [!figure]

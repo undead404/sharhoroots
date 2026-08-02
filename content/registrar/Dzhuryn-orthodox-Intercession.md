@@ -1,7 +1,7 @@
 ---
 aliases:
   - Церква Покрови Богородиці
-containedInPlace: Джурин
+containedInPlace: Джурин (Жмеринський)
 coordinates:
   - 48.67192114997907
   - 28.292620898252736

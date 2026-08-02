@@ -1,14 +1,14 @@
 ---
 aliases:
-  - Свято-Успенська церква
+  - Церква Успіння Богородиці
 containedInPlace: Мурафа (Жмеринська)
 coordinates:
-  - 48.77373
+  - 48.77357
   - 28.21697
 foundingDate: 1878
 tags:
   - eastern-orthodox
-title: Свято-Успенська церква (Мурафа)
+title: Церква Успіння Богородиці (Мурафа)
 type: PlaceOfWorship
 ---
 > [!figure]

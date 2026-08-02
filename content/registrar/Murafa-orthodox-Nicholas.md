@@ -1,14 +1,18 @@
 ---
 aliases:
   - Церква Святого Миколая
+containedInPlace: Мурафа (Жмеринська)
 tags:
+  - defunct
   - eastern-orthodox
 title: Церква Святого Миколая (Мурафа)
+type: PlaceOfWorship
 ---
 ## Парафія
 
 - [[Murafa|Нова Мурафа]]
 - [[Sloboda-Murafska|Слобода-Мурафська]]
+
 ## Метричні книги
 
 | Роки      | Архівна справа   | Посилання                                                                                                                                                                                                                                          | Примітка                                                                 |

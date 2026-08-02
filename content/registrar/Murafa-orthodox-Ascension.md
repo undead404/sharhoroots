@@ -1,11 +1,11 @@
 ---
 aliases:
-  - Свято-Вознесенська церква
-containedInPlace: Мурафа
+  - Церква Вознесіння Господнього
+containedInPlace: Мурафа (Жмеринська)
 tags:
   - eastern-orthodox
   - defunct
-title: Свято-Вознесенська церква (Нова Мурафа)
+title: Церква Вознесіння Господнього (Мурафа)
 type: PlaceOfWorship
 ---
 ## Парафія

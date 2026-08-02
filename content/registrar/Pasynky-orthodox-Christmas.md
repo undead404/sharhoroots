@@ -1,9 +1,10 @@
 ---
 aliases:
   - Церква Різдва Богородиці
-title: Церква Різдва Богородиці (Пасинки)
 tags:
   - eastern-orthodox
+title: Церква Різдва Богородиці (Пасинки)
+type: PlaceOfWorship
 ---
 ## Парафія
 

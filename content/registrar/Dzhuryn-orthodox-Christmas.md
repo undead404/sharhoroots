@@ -1,7 +1,7 @@
 ---
 aliases:
   - Церква Різдва Богородиці
-containedInPlace: Джурин
+containedInPlace: Джурин (Жмеринський)
 coordinates:
   - 48.69750493091554
   - 28.284928297447433

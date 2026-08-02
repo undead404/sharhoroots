@@ -1,13 +1,17 @@
 ---
 aliases:
   - Церква Різдва Богородиці
+containedInPlace: Мурафа (Жмеринська)
 title: Церква Різдва Богородиці (Мурафа)
 tags:
+  - defunct
   - eastern-orthodox
+type: PlaceOfWorship
 ---
 ## Парафія
 
 - [[Murafa|Мурафа]]
+
 ## Метричні книги
 
 | Роки      | Архівна справа  | Посилання                                                                                                                                                                             | Примітка |
