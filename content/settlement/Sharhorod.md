@@ -54,12 +54,11 @@ type: Place
 
 ## Реєстратори
 
-- [[Sharhorod-catholic|Костел Святого Флоріана (Шаргород)]]
-- [[Sharhorod-orthodox-Michael|Церква Архістратига Михаїла (Шаргород)]]
-- [[Sharhorod-orthodox-John-Forerunner|Церква Івана Предтечі (Шаргород)]]
-- [[Sharhorod-orthodox-Holy-Trinity|Свято-Троїцька церква (Шаргород)]]
-- [[Sharhorod-orthodox-Christmas|Церква Різдва Богородиці (Шаргород)]]
-- [[Sharhorod-judaic|Шаргородський рабинат]]
+- католикам – [[Sharhorod-catholic|Костел Святого Флоріана (Шаргород)]]
+- православним:
+	- [[Sharhorod-orthodox-Michael|Церква Архістратига Михаїла (Шаргород)]]
+	- [[Sharhorod-orthodox-John-Forerunner|Церква Івана Предтечі (Шаргород)]]
+- юдеям – [[Sharhorod-judaic|Єврейське товариство Шаргорода]]
 
 ## Переписи та ревізії
 
