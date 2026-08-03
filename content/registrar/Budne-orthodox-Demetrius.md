@@ -28,3 +28,31 @@ type: PlaceOfWorship
 > З парафіяльних священників найдовше прослужив у цій парафії Феодосій Косяк (1823-1855).
 >
 > Причтові будівлі нові, влаштовані на суми поземельного збору. Церк.-параф. школа від 1865 року.
+
+## Метричні книги
+
+| Роки      | Архівна справа   | Посилання                                                                                                                   | Примітка |
+| --------- | ---------------- | --------------------------------------------------------------------------------------------------------------------------- | -------- |
+| 1850-1859 | ДАХмО-315-1-8090 | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115324266)                   |          |
+| 1835      | ДАВіО-513-1-184а | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/17n6FkYi7t1mTiha3doh980xZFuyFJoxC?usp=drive_link) |          |
+| 1882-1886 | ДАВіО-904-26-67  |                                                                                                                             |          |
+| 1887-1894 | ДАВіО-904-26-93  |                                                                                                                             |          |
+| 1895-1900 | ДАВіО-904-26-136 |                                                                                                                             |          |
+| 1901-1910 | ДАВіО-904-26-175 |                                                                                                                             |          |
+| 1911-1921 | ДАВіО-904-26-221 |                                                                                                                             |          |
+
+## Сповідні розписи
+
+| Роки | Архівна справа    | Посилання                                                                                                                                                                        | Примітка |
+| ---- | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| 1812 | ДАВіО-800-1-16    | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1oct4gf1XmEPfJl18FGyTtt-OL4ivEVMD?usp=drive_link), ДАВіО - Synology                                    | Підшивка |
+| 1825 | ДАХмО-315-1-7257  | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/7257), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115083862)  | Підшивка |
+| 1834 | ДАХмО-315-1-7401  | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/7401), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115083848)  | Підшивка |
+| 1840 | ДАХмО-315-1-7515  | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/7515), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115206120)  | Підшивка |
+| 1848 | ДАХмО-315-1-7966  | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/7966), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115324273)  | Підшивка |
+| 1861 | ДАХмО-315-1-8560  | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/8560), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115459694)  | Підшивка |
+| 1862 | ДАХмО-315-1-8589  | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/8589)                                                                                                             | Підшивка |
+| 1870 | ДАХмО-315-1-11818 | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/11818), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=119644156) | Підшивка |
+| 1883 | ДАХмО-315-1-12345 | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/12345), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=119741267) | Підшивка |
+
+
