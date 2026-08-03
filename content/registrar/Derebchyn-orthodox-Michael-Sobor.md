@@ -12,7 +12,7 @@ type: PlaceOfWorship
 
 ## Парафія
 
-- [[Derebchyn|Деребчин]] (частина)
+- [[Derebchyn|Деребчин]] (стара частина, тобто колишній [[Staryi-Derebchyn|Старий Деребчин]])
 - [[Mala-Derebchynka|Мала Деребчинка]]
 
 ## Історія
@@ -32,6 +32,7 @@ type: PlaceOfWorship
 
 | Роки                                   | Архівна справа    | Посилання                                                                                                                                                                       | Примітка |
 | -------------------------------------- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| 1770-1805                              | ЦДІАК-224-1-308   | [FamilySearch](https://www.familysearch.org/records/images/search-results?imageGroupNumbers=4810519)                                                                            |          |
 | 1796                                   | ДАХмО-315-1-6679  | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=114926675)                                                                       | Підшивка |
 | 1798                                   | ДАХмО-315-1-6735  | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=114929549)                                                                       | Підшивка |
 | 1800                                   | ДАХмО-315-1-6773  | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=114929778)                                                                       | Підшивка |
@@ -61,3 +62,12 @@ type: PlaceOfWorship
 | 1827 | ДАХмО-315-1-7298 | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/7298), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115083867) | Підшивка |
 | 1831 | ДАХмО-315-1-7359 | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/7359), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115086147) | Підшивка |
 | 1861 | ДАХмО-315-1-8563 | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/8563), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115459870) | Підшивка |
+
+## Дотичні справи
+
+| Час       | Архівна справа    | Назва                                                                                                                                                                    | Посилання                                                                                                 |
+| :-------- | :---------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------- |
+| 1844      | ДАХмО-315-1-254   | Указ св.Синоду, відношення обер-прокурора та журнал засідання констисторії про дозвіл молоти зерно на поміщицькому млині для причту села Деребчина, Ямпільського повіту. | [FamilySearch](https://www.familysearch.org/uk/records/images/search-results?imageGroupNumbers=118464014) |
+| 1876      | ДАХмО-315-1-10973 | Справа про заборону тримати шинок священнику с. Деребчин Ямпільського повіту Галаневичу.                                                                                 | [FamilySearch](https://www.familysearch.org/uk/records/images/search-results?imageGroupNumbers=119478244) |
+| 1905-1907 | ДАХмО-315-1-11374 | Справа про переслідування дяка церкви села Деребчина Ямпільського повіту Станкевича священником Чернявським                                                              | [FamilySearch](https://www.familysearch.org/uk/records/images/search-results?imageGroupNumbers=119478769) |
+| 1869-1895 | ДАХмО-315-1-3562  | Справа про збудування церкви в селі Деребчині Ямпільського повіту.                                                                                                       | [FamilySearch](https://www.familysearch.org/uk/records/images/search-results?imageGroupNumbers=118893757) |

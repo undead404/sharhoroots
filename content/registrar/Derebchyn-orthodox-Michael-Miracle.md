@@ -12,7 +12,7 @@ type: PlaceOfWorship
 ---
 ## Парафія
 
-- [[Derebchyn|Деребчин]] (частина)
+- [[Derebchyn|Деребчин]] (нова частина)
 
 ## Історія
 
@@ -54,3 +54,11 @@ type: PlaceOfWorship
 | 1827 | ДАХмО-315-1-7298 | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/7298), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115083867) | Підшивка |
 | 1831 | ДАХмО-315-1-7359 | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/7359), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115086147) | Підшивка |
 | 1861 | ДАХмО-315-1-8563 | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/8563), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115459870) | Підшивка |
+
+## Дотичні справи
+
+| Час       | Архівна справа    | Назва                                                                                                                                                                    | Посилання                                                                                                 |
+| :-------- | :---------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------- |
+| 1802-1805 | ДАХмО-315-1-1716  | Справа про рукоположення в священники села Деребчина, Ямпільського повіту Барицького Федора.                                                                             | [FamilySearch](https://www.familysearch.org/uk/records/images/search-results?imageGroupNumbers=118775411) |
+| 1844      | ДАХмО-315-1-254   | Указ св.Синоду, відношення обер-прокурора та журнал засідання констисторії про дозвіл молоти зерно на поміщицькому млині для причту села Деребчина, Ямпільського повіту. | [FamilySearch](https://www.familysearch.org/uk/records/images/search-results?imageGroupNumbers=118464014) |
+| 1887-1890 | ДАХмО-315-1-11664 | Книга для запису витрат грошових сум по церкві села Деребчина Ямпільського повіту за 1887-1890 рр                                                                        | [FamilySearch](https://www.familysearch.org/uk/records/images/search-results?imageGroupNumbers=119643627) |

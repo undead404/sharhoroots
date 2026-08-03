@@ -18,8 +18,9 @@ type: PlaceOfWorship
 
 ## Метричні книги
 
-| Роки            | Архівна справа    | Посилання                                                                                                 | Примітка |
-| --------------- | ----------------- | --------------------------------------------------------------------------------------------------------- | -------- |
-| 1796            | ДАХмО-315-1-6679  | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=114926675) | Підшивка |
-| 1798            | ДАХмО-315-1-6735  | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=114929549) | Підшивка |
-| 1800            | ДАХмО-315-1-6773  | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=114929778) | Підшивка |
+| Роки      | Архівна справа   | Посилання                                                                                                 | Примітка |
+| --------- | ---------------- | --------------------------------------------------------------------------------------------------------- | -------- |
+| 1772-1799 | ЦДІАК-224-1-307  | [FamilySearch](https://www.familysearch.org/records/images/search-results?imageGroupNumbers=4810519)      |          |
+| 1796      | ДАХмО-315-1-6679 | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=114926675) | Підшивка |
+| 1798      | ДАХмО-315-1-6735 | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=114929549) | Підшивка |
+| 1800      | ДАХмО-315-1-6773 | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=114929778) | Підшивка |
