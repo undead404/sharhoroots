@@ -11,7 +11,7 @@ tags:
 title: Церква Успіння Богородиці (Мурафа)
 type: PlaceOfWorship
 ---
-> [!figure]
+> [!figure] Фото церкви
 > ![[Pasted image 20260727104152.png]]
 > *Мурафа с Церква Успіння. [Прадідівська слава](https://www.pslava.info/MurafaS_CerkvaUspinnja,265546.html)*
 >

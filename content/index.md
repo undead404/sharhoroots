@@ -5,7 +5,7 @@ aliases:
   - Головна
 tags:
 ---
-> [!figure]
+> [!figure] Польська мапа околиць Шаргорода
 > ![[P54_S46_SZAROGROD_1930_LoC_G6520_s100_.P6_part.jpg]]
 > *Wojskowy Instytut Kartograficzny P54 S46 Szarogrod (1930, частина), за матеріалами 1908-1911 років. [Internet Archive](https://archive.org/details/wojskowy-instytut-kartograficzny-3d5533)*
 
@@ -32,7 +32,7 @@ tags:
 
 ## Посилання
 
-- [Генеалогія Шаргородщини та Джуринщини на Facebook](https://www.facebook.com/groups/sharhoroots)
+* [Генеалогія Шаргородщини та Джуринщини на Facebook](https://www.facebook.com/groups/sharhoroots)
 
 ## Зв'язок
 

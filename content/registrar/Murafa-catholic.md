@@ -11,7 +11,7 @@ tags:
 title: Костел Непорочного зачаття Пресвятої діви Марії (Мурафа)
 type: PlaceOfWorship
 ---
-> [!figure]
+> [!figure] Фото костелу
 > ![[Pasted image 20260727020459.png]]
 > *Мурафа Костьол Безпорочного Зачаття Діви Марії (2016). [Neovitaha777](https://commons.wikimedia.org/wiki/File:5._%D0%9C%D1%83%D1%80%D0%B0%D1%84%D0%B0_%D0%9A%D0%BE%D1%81%D1%82%D1%8C%D0%BE%D0%BB_%D0%91%D0%B5%D0%B7%D0%BF%D0%BE%D1%80%D0%BE%D1%87%D0%BD%D0%BE%D0%B3%D0%BE_%D0%97%D0%B0%D1%87%D0%B0%D1%82%D1%82%D1%8F_%D0%94%D1%96%D0%B2%D0%B8_%D0%9C%D0%B0%D1%80%D1%96%D1%97.jpg)*
 
