@@ -29,6 +29,10 @@ type: PlaceOfWorship
 >
 > Причтові будівлі нові, влаштовані на суми поземельного збору. Церк.-параф. школа від 1865 року.
 
+Зруйнована в 1964 році, на її місці створено клуб.
+
+Нині в Будному знову існує церква Дмитрія Солунського (МП).
+
 ## Метричні книги
 
 | Роки      | Архівна справа   | Посилання                                                                                                                   | Примітка |
@@ -54,5 +58,3 @@ type: PlaceOfWorship
 | 1862 | ДАХмО-315-1-8589  | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/8589)                                                                                                             | Підшивка |
 | 1870 | ДАХмО-315-1-11818 | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/11818), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=119644156) | Підшивка |
 | 1883 | ДАХмО-315-1-12345 | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/12345), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=119741267) | Підшивка |
-
-

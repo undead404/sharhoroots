@@ -47,7 +47,7 @@ type: PlaceOfWorship
 | 1800      | ДАХмО-315-1-6773 | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=114929778)                                                                              | Підшивка               |
 | 1806      | ДАХмО-315-1-6859 | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=114929643)                                                                              | Підшивка               |
 | 1807      | ДАХмО-315-1-6874 | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=114926757)                                                                              | Підшивка               |
-| 1811      | ДАХмО-315-1-6944 | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=114929669)                                                                              | Підшивка               |
+| 1811      | ДАХмО-315-1-6945 | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=114929669)                                                                              | Підшивка               |
 | 1812      | ДАХмО-315-1-6961 | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=114929799)                                                                              | Підшивка               |
 
 ## Сповідні розписи

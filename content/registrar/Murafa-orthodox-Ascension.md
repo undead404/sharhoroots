@@ -27,10 +27,10 @@ type: PlaceOfWorship
 
 | Роки | Архівна справа   | Посилання                                                                                                                                                                                                                         | Примітка |
 | :--- | :--------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------- |
-| 1797 | ДАХмО-315-1-6721 | [ВікіДжерела](https://uk.wikisource.org/wiki/%D0%90%D1%80%D1%85%D1%96%D0%B2:%D0%94%D0%90%D0%A5%D0%BC%D0%9E/315/1/6721), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=114929536) |          |
-| 1820 | ДАХмО-315-1-7071 | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/7071), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115082085)                                                   |          |
-| 1823 | ДАХмО-315-1-7195 | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/7195), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115082120)                                                   |          |
-| 1827 | ДАХмО-315-1-7298 | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/7298), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115083867)                                                   |          |
+| 1797 | ДАХмО-315-1-6721 | [ВікіДжерела](https://uk.wikisource.org/wiki/%D0%90%D1%80%D1%85%D1%96%D0%B2:%D0%94%D0%90%D0%A5%D0%BC%D0%9E/315/1/6721), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=114929536) | Підшивка |
+| 1820 | ДАХмО-315-1-7071 | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/7071), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115082085)                                                   | Підшивка |
+| 1823 | ДАХмО-315-1-7195 | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/7195), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115082120)                                                   | Підшивка |
+| 1827 | ДАХмО-315-1-7298 | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/7298), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115083867)                                                   | Підшивка |
 
 ## Дотичні справи
 
