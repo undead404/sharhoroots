@@ -24,7 +24,7 @@ type: PlaceOfWorship
 - [[Biliany|Біляни]]
 - [[Budne|Будне]]
 - [[Hybalivka|Гибалівка]]
-- [[Hybalivska-Ferma|Гибалівська Ферма]]
+- [[Lukashivka|Гибалівська ферма]]
 - [[Derevianky|Дерев'янки]]
 - Довгівці (нині [[Rudanske|Руданське]])
 - [[Kovbasna|Ковбасна]]

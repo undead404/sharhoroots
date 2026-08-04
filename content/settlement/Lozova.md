@@ -23,14 +23,14 @@ type: Place
 
 На 1850 рік у Лозовій княгині Кароліні Петрівні Вітгенштейн належало селян: 588 чоловіків, 643 жінки ([ДАВіО-177-1-1182а](https://drive.google.com/drive/folders/1opmIlG8LRHiAFX6j66bs9WGaViA_NHX7?usp=drive_link)).
 
-За виданням ["Волости и важнейшие селения Евр. России, вып. III" (1885)](https://archive.org/details/MostImportantVillagesEuropeanRussia/1885.Vivser_Vyp_3_Gubernii_Malorossiyskie_I_Yugo-Zapadnye_1885/page/n143/mode/2up) – № 1034:
+> [!quote] ["Волости и важнейшие селения Евр. России, вып. III" (1885)](https://archive.org/details/MostImportantVillagesEuropeanRussia/1885.Vivser_Vyp_3_Gubernii_Malorossiyskie_I_Yugo-Zapadnye_1885/page/n143/mode/2up) – № 1034
 > Колишнє власницьке село Лозова на річці Лозовій.
 >
 > Дворів 377, мешканців 1525.
 >
 > 2 православні церкви, водний млин.
 
-За виданням "[Приходы и церкви Подольской епархии (1901)](https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D1%85%D0%BE%D0%B4%D1%8B_%D0%B8_%D1%86%D0%B5%D1%80%D0%BA%D0%B2%D0%B8_%D0%9F%D0%BE%D0%B4%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B9_%D0%B5%D0%BF%D0%B0%D1%80%D1%85%D0%B8%D0%B8)":
+> [!quote] "[Приходы и церкви Подольской епархии (1901)](https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D1%85%D0%BE%D0%B4%D1%8B_%D0%B8_%D1%86%D0%B5%D1%80%D0%BA%D0%B2%D0%B8_%D0%9F%D0%BE%D0%B4%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B9_%D0%B5%D0%BF%D0%B0%D1%80%D1%85%D0%B8%D0%B8)"
 > ...розташоване в пологій низині, уздовж течії річки Лозової. Річка ця мілка, брудна, заросла в багатьох місцях тростиною та верболозом, утворює один ставок у самому селі Л., а ще два за селом, з обох боків від нього.
 > 
 > Ґрунт місцевості переважно чорноземний; де-не-де зустрічається глина.
@@ -48,13 +48,14 @@ type: Place
 
 ## Переписи та ревізії
 
-| Роки | Архівна справа   | Посилання                                                                                                                                                                                                                                           | Примітка                                        |
-| ---- | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
-| 1816 | ДАВіО-177-1-1002 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1N0RgDGXTNkfoihRN7VKs-LpgXgljvbRq?usp=drive_link)                                                                                                                         | Чиншова шляхта                                  |
-| 1834 | ДАВіО-177-1-1139 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1dVHz-CErYzKnUez-CMk61PfncR0tNJNd?usp=drive_link)                                                                                                                         | Підшивка, див. 146                              |
-| 1834 | ДАВіО-177-1-1149 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1GrexEHxYvRVHiJ5bpL3cJOlcrQQ5PnDW?usp=drive_link)                                                                                                                         | Підшивка, див. 734а. Ревізькі казки, однодворці |
-| 1844 | ДАВіО-177-1-1169 | [ВікіДжерела](https://uk.wikisource.org/wiki/%D0%90%D1%80%D1%85%D1%96%D0%B2:%D0%94%D0%90%D0%92%D1%96%D0%9E/177/1/1169), [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/16T5YbwqSADFUUb1899UQmWnEji2ALULg?usp=drive_link) | Підшивка, див. 273. Додаткові РК однодворців    |
-| 1850 | ДАВіО-177-1-1179 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1qxdIy1ouH77_JXY-FWTc1DSmRVSuSMax?usp=drive_link)                                                                                                                         | Підшивка, див. 299. Ревізька казка селян        |
+| Роки      | Архівна справа   | Посилання                                                                                                                                                                                                                                           | Примітка                                                                                                                     |
+| --------- | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| 1816      | ДАВіО-177-1-1002 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1N0RgDGXTNkfoihRN7VKs-LpgXgljvbRq?usp=drive_link)                                                                                                                         | Чиншова шляхта                                                                                                               |
+| 1833-1834 | ДАХмО-196-1-14   | [FamilySearch](https://www.familysearch.org/uk/records/images/search-results?imageGroupNumbers=123143341)                                                                                                                                           | Справа щодо прохання Смеречинських про їх виключення з РК селян і зарахування до шляхти. Див. 132 – інвентар Лозової за 1826 |
+| 1834      | ДАВіО-177-1-1139 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1dVHz-CErYzKnUez-CMk61PfncR0tNJNd?usp=drive_link)                                                                                                                         | Підшивка, див. 146                                                                                                           |
+| 1834      | ДАВіО-177-1-1149 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1GrexEHxYvRVHiJ5bpL3cJOlcrQQ5PnDW?usp=drive_link)                                                                                                                         | Підшивка, див. 734а. Ревізькі казки, однодворці                                                                              |
+| 1844      | ДАВіО-177-1-1169 | [ВікіДжерела](https://uk.wikisource.org/wiki/%D0%90%D1%80%D1%85%D1%96%D0%B2:%D0%94%D0%90%D0%92%D1%96%D0%9E/177/1/1169), [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/16T5YbwqSADFUUb1899UQmWnEji2ALULg?usp=drive_link) | Підшивка, див. 273. Додаткові РК однодворців                                                                                 |
+| 1850      | ДАВіО-177-1-1179 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1qxdIy1ouH77_JXY-FWTc1DSmRVSuSMax?usp=drive_link)                                                                                                                         | Підшивка, див. 299. Ревізька казка селян                                                                                     |
 
 ## Дотичні справи
 
