@@ -1,16 +1,20 @@
 ---
 aliases:
   - Церква Вознесіння Господнього
-containedInPlace: Мурафа (Жмеринська)
+containedInPlace: Клекотина
 tags:
   - eastern-orthodox
   - defunct
-title: Церква Вознесіння Господнього (Мурафа)
+title: Церква Вознесіння Господнього (Клекотина)
 type: PlaceOfWorship
 ---
 ## Парафія
 
-- [[Murafa|Нова Мурафа]]
+- [[Klekotyna|Клекотина]]
+
+## Історія
+
+Закрита 1830 року.
 
 ## Метричні книги
 

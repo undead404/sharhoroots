@@ -1,17 +1,26 @@
 ---
 aliases:
   - Церква Святого Миколая
-containedInPlace: Мурафа (Жмеринська)
+containedInPlace: Клекотина
+coordinates:
+  - 48.7890346444456
+  - 28.213526246614972
 tags:
   - defunct
   - eastern-orthodox
-title: Церква Святого Миколая (Мурафа)
+title: Церква Святого Миколая (Клекотина)
 type: PlaceOfWorship
 ---
 ## Парафія
 
-- [[Murafa|Нова Мурафа]]
 - [[Sloboda-Murafska|Слобода-Мурафська]]
+- [[Klekotyna|Клекотина]] (частина)
+
+## Історія
+
+1831 року парафію об'єднали з Успенською.
+
+1875 року закрита.
 
 ## Метричні книги
 
@@ -26,7 +35,7 @@ type: PlaceOfWorship
 | 1812      | ДАХмО-315-1-6961 | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=114929799)                                                                                                                                          | Підшивка                                                                 |
 | 1816      | ДАХмО-315-1-7021 | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=114929709)                                                                                                                                          | Підшивка                                                                 |
 | 1841      | ДАХмО-315-1-7537 | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115312248)                                                                                                                                          | Підшивка                                                                 |
-| 1866      | ДАВіО-904-26-23  | [ВікіДжерела](https://uk.wikisource.org/wiki/%D0%90%D1%80%D1%85%D1%96%D0%B2:%D0%94%D0%90%D0%92%D1%96%D0%9E/904/26/23), [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1eRl28jik0w544ueyhE-rskfNXcswtUfs?usp=drive_link) | Від 1867 року в справі – [[Murafa-orthodox-Dormition\|Успенська церква]] |
+| 1866      | ДАВіО-904-26-23  | [ВікіДжерела](https://uk.wikisource.org/wiki/%D0%90%D1%80%D1%85%D1%96%D0%B2:%D0%94%D0%90%D0%92%D1%96%D0%9E/904/26/23), [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1eRl28jik0w544ueyhE-rskfNXcswtUfs?usp=drive_link) | Від 1867 року в справі – [[Klekotyna-orthodox-Dormition\|Успенська церква]] |
 
 ## Сповідні розписи
 

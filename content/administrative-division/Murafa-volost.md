@@ -18,14 +18,14 @@ type: AdministrativeArea
 
 За виданням ["Волости и важнейшие селения Евр. России, вып. III" (1885)](https://archive.org/details/MostImportantVillagesEuropeanRussia/1885.Vivser_Vyp_3_Gubernii_Malorossiyskie_I_Yugo-Zapadnye_1885/page/n143/mode/2up) – належала до 2 та 3 станів [[Yampol-uezd|Ямпільського повіту]].
 
-- містечко [[Stara-Murafa|Стара Мурафа]]
+- містечко Стара Мурафа ([[Murafa|Мурафа]])
 - село [[Derebchyn|Деребчин]]
 - село [[Zvedenivka|Зведенівка]]
 - сільце [[Klekotyna|Клекотина]]
 - село Ксьондзівка (нині [[Verbivka|Вербівка]])
 - сільце [[Mala-Derebchynka|Мала Деребчинка]]
 - село Мурафська [[Mykhailivka|Михайлівка]]
-- містечко Нова Мурафа ([[Murafa|Мурафа]])
+- містечко [[Nova-Murafa|Нова Мурафа]]
 - село [[Popelivka|Попелівка]] (нині частина Зведенівки)
 - сільце Юліямпіль
 

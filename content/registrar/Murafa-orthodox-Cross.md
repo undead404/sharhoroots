@@ -2,15 +2,17 @@
 aliases:
   - Церква Воздвиження Хреста Господнього
 containedInPlace: Мурафа (Жмеринська)
+coordinates:
+  - 48.77383368588422
+  - 28.216885562645185
 tags:
-  - defunct
   - eastern-orthodox
 title: Церква Воздвиження Хреста Господнього (Мурафа)
 type: PlaceOfWorship
 ---
 ## Парафія
 
-- [[Stara-Murafa|Стара Мурафа]]
+- [[Murafa|Стара Мурафа]]
 
 ## Метричні книги
 

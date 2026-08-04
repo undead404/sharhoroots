@@ -1,14 +1,14 @@
 ---
 aliases:
   - Церква Успіння Богородиці
-containedInPlace: Мурафа (Жмеринська)
+containedInPlace: Клекотина
 coordinates:
-  - 48.77357
-  - 28.21697
+  - 48.78671190035108
+  - 28.21732992220398
 foundingDate: 1878
 tags:
   - eastern-orthodox
-title: Церква Успіння Богородиці (Мурафа)
+title: Церква Успіння Богородиці (Клекотина)
 type: PlaceOfWorship
 ---
 > [!figure] Фото церкви
@@ -32,8 +32,11 @@ type: PlaceOfWorship
 ## Парафія
 
 - [[Murafa|Нова Мурафа]]
+- [[Murafa|Стара Мурафа]] (частково)
 - [[Zaiachkivka|Заячківка]]
 - [[Maliovnyche|Пацьорова]]
+- (від 1831) [[Klekotyna|Клекотина]]
+- (від 1831) [[Sloboda-Murafska|Слобода-Мурафська]]
 
 ## Метричні книги
 
@@ -49,7 +52,7 @@ type: PlaceOfWorship
 | 1841      | ДАХмО-315-1-7537      | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115312248)                                                                                                                                          | Підшивка                                                              |
 | 1846-1858 | ДАХмО-315-1-7861      | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115208902)                                                                                                                                          |                                                                       |
 | ~~1913~~  | ~~ДАХмО-315-1-12822~~ |                                                                                                                                                                                                                                                    | Помилка в ЗКМК                                                        |
-| 1867-1874 | ДАВіО-904-26-23       | [ВікіДжерела](https://uk.wikisource.org/wiki/%D0%90%D1%80%D1%85%D1%96%D0%B2:%D0%94%D0%90%D0%92%D1%96%D0%9E/904/26/23), [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1eRl28jik0w544ueyhE-rskfNXcswtUfs?usp=drive_link) | 1866 рік у справі - [[Murafa-orthodox-Nicholas\|Миколаївська церква]] |
+| 1867-1874 | ДАВіО-904-26-23       | [ВікіДжерела](https://uk.wikisource.org/wiki/%D0%90%D1%80%D1%85%D1%96%D0%B2:%D0%94%D0%90%D0%92%D1%96%D0%9E/904/26/23), [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1eRl28jik0w544ueyhE-rskfNXcswtUfs?usp=drive_link) | 1866 рік у справі - [[Klekotyna-orthodox-Nicholas\|Миколаївська церква]] |
 | 1884-1888 | ДАВіО-904-26-79       |                                                                                                                                                                                                                                                    |                                                                       |
 | 1889-1897 | ДАВіО-904-26-105      |                                                                                                                                                                                                                                                    |                                                                       |
 | 1898-1902 | ДАВіО-904-26-145      |                                                                                                                                                                                                                                                    |                                                                       |
