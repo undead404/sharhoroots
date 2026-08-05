@@ -2,6 +2,9 @@
 aliases:
   - Церква Святого Георгія
 containedInPlace: Гибалівка
+coordinates:
+  - 48.73180780405391
+  - 28.10053808163358
 tags:
   - eastern-orthodox
   - defunct

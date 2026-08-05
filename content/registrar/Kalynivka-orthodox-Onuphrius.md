@@ -2,6 +2,9 @@
 aliases:
   - Церква Святого Онуфрія
 containedInPlace: Калинівка (Шаргородська)
+coordinates:
+  - 48.7511735831492
+  - 28.02878110750524
 foundingDate: 1740
 tags:
   - eastern-orthodox

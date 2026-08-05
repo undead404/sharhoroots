@@ -35,6 +35,7 @@ const PlacesMap: QuartzComponent = ({
         lng: frontmatter.coordinates![1],
         type: frontmatter.type || "Place",
         foundingDate: frontmatter.foundingDate || null,
+        isDefunct: frontmatter.tags?.includes("defunct"),
         dissolutionDate: frontmatter.dissolutionDate || null,
       };
     });
@@ -160,6 +161,7 @@ PlacesMap.afterDOMLoaded = `
       let datesHtml = '';
       if (place.foundingDate) datesHtml += \`<span style="color: var(--gray);">Засновано: \${place.foundingDate}</span><br>\`;
       if (place.dissolutionDate) datesHtml += \`<span style="color: var(--gray);">Ліквідовано: \${place.dissolutionDate}</span><br>\`;
+      else if (place.isDefunct) datesHtml += \`<span style="color: var(--gray);">Ліквідовано: ?</span><br>\`;
 
       const customIcon = L.divIcon({
         html: createSvgIcon(config.color),

@@ -31,8 +31,6 @@ const customSortFn: Options["sortFn"] = (a, b) => {
     return orderA - orderB;
   }
 
-  console.log(b.displayName, a.displayName)
-
   return a.displayName.localeCompare(b.displayName, 'uk', {
     numeric: true,
     sensitivity: "base",

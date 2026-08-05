@@ -2,6 +2,9 @@
 aliases:
   - Церква Зачаття Святої Анни
 containedInPlace: Хоменки (Джуринські)
+coordinates:
+  - 48.69511027485963
+  - 28.229383430744804
 tags:
   - eastern-orthodox
   - defunct
