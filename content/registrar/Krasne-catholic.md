@@ -1,8 +1,11 @@
 ---
 aliases:
-  - Костел Святого Йосипа,
+  - Костел Святого Йосипа
   - Костел Святого Антонія
 containedInPlace: Красне (Тиврівське)
+coordinates:
+  - 48.912829078998236
+  - 28.397167801779162
 dissolutionDate: 1954
 foundingDate: 1604
 tags:
@@ -42,7 +45,10 @@ type: PlaceOfWorship
 
 ## Історія
 
-Спершу був присвячений святому Йосипу Обручнику, але в середині XIX ст. перебудований на честь святого Антонія.
+Спершу був присвячений **святому Йосипу Обручнику**, але в середині XIX ст. перебудований на честь **святого Антонія**.
+
+> [!quote] "[Приходы и церкви Подольской епархии (1901)](https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D1%85%D0%BE%D0%B4%D1%8B_%D0%B8_%D1%86%D0%B5%D1%80%D0%BA%D0%B2%D0%B8_%D0%9F%D0%BE%D0%B4%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B9_%D0%B5%D0%BF%D0%B0%D1%80%D1%85%D0%B8%D0%B8)"
+> У К. є р.-катол. костел на честь **св. Антонія**, кам'яний, збудований у 1830 р.; має парафіян 2852 душ обох статей.
 
 Остаточно знищений 1954 року.
 
@@ -106,4 +112,3 @@ type: PlaceOfWorship
 | 1915      | ДАВіО-904-11-67  | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАВіО/904/11/67), [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1mmeTTZU58tF3h1qXr2K92VomPGLbvWgE?usp=drive_link), [Marcin Kowal - Google Drive](https://drive.google.com/drive/folders/1wAHe3OmLTDpAi8KD8Rw-_eB-nTEYookX?usp=drive_link)                  | Підшивка       |
 | 1916      | ДАВіО-904-11-72  | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАВіО/904/11/72), [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1dQ3tfBgRzQxPHQViwfBJrkYjd2pFepBS?usp=drive_link), [Marcin Kowal - Google Drive](https://drive.google.com/drive/folders/1H4JGSBV9c5VGM-T7e-PS7nubCK0ZxV2f?usp=drive_link)                  | Підшивка       |
 | 1917      | ДАВіО-904-11-75  | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАВіО/904/11/75), [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1LjHXfi3PBmlLr59XpxpchNFsr7s_vZua?usp=drive_link), [Marcin Kowal - Google Drive](https://drive.google.com/drive/folders/1NZ6jl4_RWxZ5iwZ5HjskGKmvKYVyUG5A?usp=drive_link)                  | Підшивка       |
-
