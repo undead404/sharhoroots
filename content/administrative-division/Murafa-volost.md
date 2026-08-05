@@ -3,8 +3,8 @@ aliases:
   - Мурафська волость
 containedInPlace: Ямпільський повіт
 coordinates:
-  - 48.77870685410654
-  - 28.217598361078608
+  - 48.78062606936371
+  - 28.21857116229037
 dissolutionDate: 1923
 tags:
   - volost
