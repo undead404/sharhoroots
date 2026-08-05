@@ -55,13 +55,13 @@ type: PlaceOfWorship
 
 ## Сповідні розписи
 
-| Роки | Архівна справа    | Посилання                                                                                                                                                                        | Примітка |
-| ---- | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
-| 1812 | ДАВіО-800-1-16    | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1oct4gf1XmEPfJl18FGyTtt-OL4ivEVMD?usp=drive_link), ДАВіО - Synology                                    | Підшивка |
-| 1820 | ДАХмО-315-1-7071  | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/7071), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115082085)  | Підшивка |
-| 1823 | ДАХмО-315-1-7195  | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/7195), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115082120)  | Підшивка |
-| 1825 | ДАХмО-315-1-7257  | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/7257), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115083862)  | Підшивка |
-| 1827 | ДАХмО-315-1-7298  | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/7298), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115083867)  | Підшивка |
-| 1831 | ДАХмО-315-1-7359  | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/7359), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115086147)  | Підшивка |
-| 1859 | ДАХмО-315-1-8469  | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/8469), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115459655)  | Підшивка |
-| 1861 | ДАХмО-315-1-8563  | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/8563), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115459870)  | Підшивка |
+| Роки | Архівна справа   | Посилання                                                                                                                                                                       | Примітка |
+| ---- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| 1812 | ДАВіО-800-1-16   | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1oct4gf1XmEPfJl18FGyTtt-OL4ivEVMD?usp=drive_link), ДАВіО - Synology                                   | Підшивка |
+| 1820 | ДАХмО-315-1-7071 | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/7071), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115082085) | Підшивка |
+| 1823 | ДАХмО-315-1-7195 | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/7195), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115082120) | Підшивка |
+| 1825 | ДАХмО-315-1-7257 | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/7257), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115083862) | Підшивка |
+| 1827 | ДАХмО-315-1-7298 | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/7298), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115083867) | Підшивка |
+| 1831 | ДАХмО-315-1-7359 | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/7359), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115086147) | Підшивка |
+| 1859 | ДАХмО-315-1-8469 | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/8469), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115459655) | Підшивка |
+| 1861 | ДАХмО-315-1-8563 | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/8563), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115459870) | Підшивка |
