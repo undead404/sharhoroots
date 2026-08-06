@@ -21,7 +21,7 @@ type: AdministrativeArea
 - Сліди
 - Бушинка
 - [[Strilnyky|Стрільники]]
-- [[Lopatyntsi|Лопатинці]]
+- [[settlement/Lopatyntsi|Лопатинці]]
 
 ## Дотичні справи
 
