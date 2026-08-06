@@ -9,7 +9,7 @@ coordinates:
 tags:
   - village
   - suburb
-title: Лукашівка
+title: Лукашівка (Шаргородська)
 type: Place
 ---
 ## Історія
