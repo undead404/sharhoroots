@@ -19,6 +19,8 @@ type: Place
 
 На 1850 рік у Шостаківці князеві Генріху Осиповому Любомирському належало селян: 374 чоловіки, 367 жінки ([ДАВіО-177-1-1182а](https://drive.google.com/drive/folders/1opmIlG8LRHiAFX6j66bs9WGaViA_NHX7?usp=drive_link)).
 
+На 1858 рік власник – відставний підпоручник і кавалер князь Роман Євстафіїв Сангушко.
+
 > [!quote] ["Волости и важнейшие селения Евр. России, вып. III" (1885)](https://archive.org/details/MostImportantVillagesEuropeanRussia/1885.Vivser_Vyp_3_Gubernii_Malorossiyskie_I_Yugo-Zapadnye_1885/page/n143/mode/2up) – № 1066
 > Колишнє власницьке сільце Шостаківка на річках Мурашці та Дерлі.
 >
@@ -33,6 +35,7 @@ type: Place
 | 1811 | ДАВіО-177-1-1103 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1gtDFNiwhKNvrXiY0VegC5_V04r8ECb_B?usp=drive_link) | Підшивка, див. 15. Ревізька казка, чиншова шляхта |
 | 1834 | ДАВіО-177-1-1137 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1oROcCNpeCULiv6k38N2G-e8NTg7iFIwu?usp=drive_link) | Підшивка, див. 878. Ревізька казка, однодворці    |
 | 1854 | ДАВіО-177-1-1185 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1kGTm02jtrrDquMNSMkbWN9t_MRQ0oZ48?usp=drive_link) | Підшивка, див. 1205. Однодворці                   |
+| 1858 | ДАВіО-177-1-1197 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1rNNwVKDbpkb2GSRZiD8fBMhqi54UTCW5?usp=drive_link) | Підшивка, див. 658. Ревізька казка, селяни        |
 
 ## Дотичні справи
 

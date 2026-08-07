@@ -27,6 +27,8 @@ type: Place
 
 На 1850 рік у **Шаргороді** князеві Генріху Осиповому Любомирському належало селян: 241 чоловік, 240 жінок ([ДАВіО-177-1-1182а](https://drive.google.com/drive/folders/1opmIlG8LRHiAFX6j66bs9WGaViA_NHX7?usp=drive_link)).
 
+На 1858 рік власник – Роман Євстафіїв Сангушко.
+
 > [!quote] ["Волости и важнейшие селения Евр. России, вып. III" (1885)](https://archive.org/details/MostImportantVillagesEuropeanRussia/1885.Vivser_Vyp_3_Gubernii_Malorossiyskie_I_Yugo-Zapadnye_1885/page/n143/mode/2up) – № 1056
 > Колишнє власницьке містечко **Шаргород** коло річок Ковбасної та Мурашки.
 >
@@ -97,6 +99,8 @@ type: Place
 | 1881 | ДАВіО-331-1-3     |                                                                                                                                                                                                                                                     | Подвірний список                                                                                                  |
 | 1888 | ДАВіО-331-1-9     | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАВіО/331/1/9)                                                                                                                                                                                   | Подвірний список єврейської спільноти                                                                             |
 | 1888 | ДАВіО-331-1-12    |                                                                                                                                                                                                                                                     | Посімейний список селян, відставних солдат і їх родин м. Шаргорода та передмістя Маслівки                         |
+| 1858 | ДАВіО-177-1-1189  | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/19a_6SzI-mE2G2ix-gz7C7N4S7xOqWU5I?usp=drive_link)                                                                                                                         | Підшивка, ревізька казка. Див. 1 (євреї-купці), 366 (євреї-неремісники), 477 (євреї-ремісники)                    |
+| 1858 | ДАВіО-177-1-1197  | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1rNNwVKDbpkb2GSRZiD8fBMhqi54UTCW5?usp=drive_link)                                                                                                                         | Підшивка, див. 548. Ревізька казка, селяни                                                                        |
 
 ## Дотичні фонди
 

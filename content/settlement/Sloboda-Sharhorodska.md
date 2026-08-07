@@ -24,6 +24,8 @@ type: Place
 
 На 1850 рік у Слободі Шаргородській князеві Генріху Осиповому Любомирському належало селян: 454 чоловіків, 534 жінки ([ДАВіО-177-1-1182а](https://drive.google.com/drive/folders/1opmIlG8LRHiAFX6j66bs9WGaViA_NHX7?usp=drive_link)).
 
+На 1858 рік власник – відставний підпоручник і кавалер князь Роман Євстафіїв Сангушко.
+
 > [!quote] ["Волости и важнейшие селения Евр. России, вып. III" (1885)](https://archive.org/details/MostImportantVillagesEuropeanRussia/1885.Vivser_Vyp_3_Gubernii_Malorossiyskie_I_Yugo-Zapadnye_1885/page/n143/mode/2up) – № 1065
 > Колишнє власницьке село Шаргородська Слобода на річці Мурашці.
 >
@@ -58,6 +60,7 @@ type: Place
 | 1843 | ДАВіО-177-1-1167 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1CuWo_svPy0edS3CjEOwMLcV6KcRcROPy?usp=drive_link)                                                                                                                         | Підшивка, див. 591, 672. Ревізькі казки неосілих однодворців |
 | 1844 | ДАВіО-177-1-1169 | [ВікіДжерела](https://uk.wikisource.org/wiki/%D0%90%D1%80%D1%85%D1%96%D0%B2:%D0%94%D0%90%D0%92%D1%96%D0%9E/177/1/1169), [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/16T5YbwqSADFUUb1899UQmWnEji2ALULg?usp=drive_link) | Підшивка, див. 645. Додаткові РК однодворців                 |
 | 1854 | ДАВіО-177-1-1185 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1kGTm02jtrrDquMNSMkbWN9t_MRQ0oZ48?usp=drive_link)                                                                                                                         | Підшивка, див. 1209. Однодворці                              |
+| 1858 | ДАВіО-177-1-1197 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1rNNwVKDbpkb2GSRZiD8fBMhqi54UTCW5?usp=drive_link)                                                                                                                         | Підшивка, див. 590. Ревізька казка, селяни                   |
 
 ## Дотичні справи
 

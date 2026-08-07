@@ -30,10 +30,10 @@ type: Place
 > Православна церква, водний млин.
 
 > [!quote] "[Приходы и церкви Подольской епархии (1901)](https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D1%85%D0%BE%D0%B4%D1%8B_%D0%B8_%D1%86%D0%B5%D1%80%D0%BA%D0%B2%D0%B8_%D0%9F%D0%BE%D0%B4%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B9_%D0%B5%D0%BF%D0%B0%D1%80%D1%85%D0%B8%D0%B8)"
-> Біляни Шаргородські належать графові Гогенлое. 
-> 
+> Біляни Шаргородські належать графові Гогенлое.
+>
 > Мають 3200 душ населення, переважно селяни-малороси православного віросповідання; є також незначна кількість католиків – колишні однодворці.
-> 
+>
 > Займаються землеробством; існують ткацтво, бджолярство, ковальство, чоботарство та інші дрібні промисли.
 
 ## Реєстратори
@@ -53,6 +53,7 @@ type: Place
 | 1844      | ДАВіО-177-1-1169 | [ВікіДжерела](https://uk.wikisource.org/wiki/%D0%90%D1%80%D1%85%D1%96%D0%B2:%D0%94%D0%90%D0%92%D1%96%D0%9E/177/1/1169), [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/16T5YbwqSADFUUb1899UQmWnEji2ALULg?usp=drive_link) | Підшивка, див. 3. Додаткові РК однодворців                                                                                 |
 | 1850      | ДАВіО-177-1-1179 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1qxdIy1ouH77_JXY-FWTc1DSmRVSuSMax?usp=drive_link)                                                                                                                         | Підшивка, див. 377. Ревізька казка селян                                                                                   |
 | 1854      | ДАВіО-177-1-1186 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1DBle7rStZGFL7ZhJNhGfYv1_bNGDQCQ6?usp=drive_link)                                                                                                                         | Підшивка, див. 21. Ревізькі казки, однодворці                                                                              |
+| 1858      | ДАВіО-177-1-1194 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1a1ViPJx8fJgZ1_iukI-XVjhUuYas1GtR?usp=drive_link)                                                                                                                         | Підшивка, див. 491. Ревізькі казки, військові                                                                              |
 
 ## Дотичні справи
 

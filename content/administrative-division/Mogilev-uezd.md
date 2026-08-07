@@ -45,6 +45,7 @@ type: AdministrativeArea
 | 1799-1854 | ДАВіО-177-1-1159а |                                                                                                                                                                                                                                                     | Ревізькі казки на 1799, 1811, 1816, 1839, 1854 роки                                   |
 | 1816-1818 | ДАВіО-177-1-856   | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАВіО/177/1/856)                                                                                                                                                                                 | Ревізькі казки євреїв Ямпільського та Могилівського повітів                           |
 | 1834      | ДАВіО-177-1-1141  | [ВікіДжерела](https://uk.wikisource.org/wiki/%D0%90%D1%80%D1%85%D1%96%D0%B2:%D0%94%D0%90%D0%92%D1%96%D0%9E/177/1/1141), [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1_NRnXOyPAQqSr7Lk9y-eOrnCVpk1xChs?usp=drive_link) | Ревізькі казки євреїв Могилівського повіту                                            |
+| 1858      | ДАВіО-177-1-1195  | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1pbSyZsuTNwmTTNHU5cg0XHQk2H6e6gkx?usp=drive_link)                                                                                                                         | Однодворці, згруповані за однодворськими спільнотами                                  |
 
 ## Дотичні фонди
 

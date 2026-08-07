@@ -25,6 +25,8 @@ type: Place
 
 На 1850 рік у Хоменках Федорові Вікентієвому Собанському належало селян: 480 чоловіків, 497 жінок ([ДАВіО-177-1-1182а](https://drive.google.com/drive/folders/1opmIlG8LRHiAFX6j66bs9WGaViA_NHX7?usp=drive_link)).
 
+На 1858 рік власник – Федір Вікентіїв син Собанський.
+
 > [!quote] ["Волости и важнейшие селения Евр. России, вып. III" (1885)](https://archive.org/details/MostImportantVillagesEuropeanRussia/1885.Vivser_Vyp_3_Gubernii_Malorossiyskie_I_Yugo-Zapadnye_1885/page/n143/mode/2up) – № 1064
 > Колишнє власницьке село Хоменки на річці Мурашці.
 >
@@ -61,6 +63,7 @@ type: Place
 | 1842      | ДАВіО-177-1-1169 | [ВікіДжерела](https://uk.wikisource.org/wiki/%D0%90%D1%80%D1%85%D1%96%D0%B2:%D0%94%D0%90%D0%92%D1%96%D0%9E/177/1/1169), [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/16T5YbwqSADFUUb1899UQmWnEji2ALULg?usp=drive_link) | Підшивка, див. 667. Додаткові РК однодворців                                                                                 |
 | 1850      | ДАВіО-177-1-1178 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/11kXLq4ZfHTexFehWqtbXmoCS8bKlb72L?usp=drive_link)                                                                                                                         | Підшивка, див. 704. Селяни                                                                                                   |
 | 1850      | ДАВіО-177-1-1185 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1kGTm02jtrrDquMNSMkbWN9t_MRQ0oZ48?usp=drive_link)                                                                                                                         | Підшивка, див. 955. Однодворці                                                                                               |
+| 1858      | ДАВіО-177-1-1197 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1rNNwVKDbpkb2GSRZiD8fBMhqi54UTCW5?usp=drive_link)                                                                                                                         | Підшивка, див. 1163. Ревізька казка, селяни                                                                                  |
 
 ## Дотичні справи
 

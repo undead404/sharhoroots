@@ -23,6 +23,8 @@ type: Place
 
 На 1850 рік у **Гибальовці** князеві Генріху Осиповому Любомирському належало селян: 255 чоловіків, 276 жінок ([ДАВіО-177-1-1182а](https://drive.google.com/drive/folders/1opmIlG8LRHiAFX6j66bs9WGaViA_NHX7?usp=drive_link)).
 
+На 1858 рік власник – відставний підпоручник і кавалер князь Роман Євстафіїв Сангушко.
+
 > [!quote] ["Волости и важнейшие селения Евр. России, вып. III" (1885)](https://archive.org/details/MostImportantVillagesEuropeanRussia/1885.Vivser_Vyp_3_Gubernii_Malorossiyskie_I_Yugo-Zapadnye_1885/page/n143/mode/2up) – № 1057
 > Колишнє власницьке село **Гибалівка** на річці Ковбасній.
 >
@@ -56,6 +58,8 @@ type: Place
 | 1834 | ДАВіО-177-1-1146 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1OI2kR9pvt_IcRKloH33F48nAW2GxpleZ?usp=drive_link)                                                                                                                         | Підшивка, див. 638а. Однодворці                   |
 | 1844 | ДАВіО-177-1-1169 | [ВікіДжерела](https://uk.wikisource.org/wiki/%D0%90%D1%80%D1%85%D1%96%D0%B2:%D0%94%D0%90%D0%92%D1%96%D0%9E/177/1/1169), [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/16T5YbwqSADFUUb1899UQmWnEji2ALULg?usp=drive_link) | Підшивка, див. 76. Додаткові РК однодворців       |
 | 1854 | ДАВіО-177-1-1186 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1DBle7rStZGFL7ZhJNhGfYv1_bNGDQCQ6?usp=drive_link)                                                                                                                         | Підшивка, див. 587. Ревізькі казки, однодворці    |
+| 1858 | ДАВіО-177-1-1194 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1a1ViPJx8fJgZ1_iukI-XVjhUuYas1GtR?usp=drive_link)                                                                                                                         | Підшивка, див. 750. Ревізькі казки, військові     |
+| 1858 | ДАВіО-177-1-1197 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1rNNwVKDbpkb2GSRZiD8fBMhqi54UTCW5?usp=drive_link)                                                                                                                         | Підшивка, див. 704. Ревізька казка, селяни        |
 
 ## Дотичні справи
 
