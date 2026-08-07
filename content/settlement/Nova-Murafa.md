@@ -46,7 +46,7 @@ type: Place
 ## Реєстратори
 
 - православним:
-  - (?) [[Murafa-orthodox-Christmas|Церква Різдва Богородиці]]
+  - (?) [[Murafa-orthodox-Marymas|Церква Різдва Богородиці]]
   - [[Klekotyna-orthodox-Dormition|Церква Успіння Богородиці]]
 - [[Klekotyna-orthodox-Nicholas|Церква Святого Миколая]]
 - Католики відносилися до [[Murafa-catholic|Костелу Непорочного зачаття Пресвятої діви Марії]]

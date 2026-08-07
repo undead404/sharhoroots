@@ -58,6 +58,7 @@ type: Place
 | 1834 | ДАВіО-177-1-1150  | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1Tj7SeUyAsqikAs04NwbOiHUwL_54Zgzz?usp=drive_link) | Підшивка, див. 54. Ревізька казка, селяни                      |
 | 1842 | ДАВіО-177-1-1168а | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1juszrj3xg6EV1Z4M4yU2z0MJRMou9cGB?usp=drive_link) | Підшивка, див. 452. Ревізькі казки, неосілі однодворці й осілі |
 | 1850 | ДАВіО-177-1-1185  | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1kGTm02jtrrDquMNSMkbWN9t_MRQ0oZ48?usp=drive_link) | Підшивка, див. 1. Ревізькі казки, однодворці                   |
+| 1858 | ДАВіО-177-1-1199  | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1hXL5rKyJQwOI9sa8gpCujAV6G_ka1uDt?usp=drive_link) | Підшивка, див. 1302 Ревізькі казки, військові                  |
 
 ## Дотичні справи
 

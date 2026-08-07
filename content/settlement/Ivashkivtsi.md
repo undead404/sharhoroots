@@ -40,7 +40,7 @@ type: Place
 
 ## Реєстратори
 
-- православним – [[Ivashkivtsi-orthodox-Christmas|Церква Різдва Богородиці]]
+- православним – [[Ivashkivtsi-orthodox-Marymas|Церква Різдва Богородиці]]
 - католикам – у Шаргороді [[Sharhorod-catholic|Костел Святого Флоріана]]
 
 ## Переписи та ревізії

@@ -81,7 +81,7 @@ type: Place
 
 ## Реєстратори
 
-- православним – [[Politanky-orthodox-Michael-miracle|Церква Чуда Архістратига Михаїла]]
+- православним – [[Politanky-orthodox-Michael-Miracle|Церква Чуда Архістратига Михаїла]]
 - католикам – у Шаргороді [[Sharhorod-catholic|Костел Святого Флоріана]].
 - [[Politanky-civil|Політанська сільрада]]
 
