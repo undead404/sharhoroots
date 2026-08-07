@@ -3,8 +3,8 @@ aliases:
   - Церква Різдва Богородиці
 containedInPlace: Рахни-Лісові
 coordinates:
-  - 48.67228643528431
-  - 28.126525636868976
+  - 48.78594911744539
+  - 28.486269774866074
 tags:
   - eastern-orthodox
 title: Церква Різдва Богородиці (Рахни-Лісові)
@@ -62,4 +62,3 @@ type: PlaceOfWorship
 | 1827      | ДАХмО-315-1-7298 | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/7298), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115083867) | Підшивка                     |
 | 1831      | ДАХмО-315-1-7359 | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/7359), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115086147) | Підшивка                     |
 | 1859      | ДАХмО-315-1-8469 | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/8469), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115459655) | Підшивка                     |
-
