@@ -57,6 +57,7 @@ type: Place
 | 1845 | ДАВіО-177-1-1169  | [ВікіДжерела](https://uk.wikisource.org/wiki/%D0%90%D1%80%D1%85%D1%96%D0%B2:%D0%94%D0%90%D0%92%D1%96%D0%9E/177/1/1169), [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/16T5YbwqSADFUUb1899UQmWnEji2ALULg?usp=drive_link) | Підшивка, див. 329. Додаткові РК однодворців                   |
 | 1854 | ДАВіО-177-1-1187  | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1__n_EPuM80D6xC9P5AoAyF89xBTl_8-8?usp=drive_link)                                                                                                                         | Підшивка, див. 763. Ревізькі казки, однодворці                 |
 | 1858 | ДАВіО-177-1-1191  | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1b7nL6IlnLfx1u_DJNek5cL_wPVwE9wEi?usp=drive_link)                                                                                                                         | Підшивка, див. 97. Ревізька казка, селяни                      |
+| 1858 | ДАВіО-177-1-1199  | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1hXL5rKyJQwOI9sa8gpCujAV6G_ka1uDt?usp=drive_link)                                                                                                                         | Підшивка, див. 213. Ревізькі казки, військові                  |
 
 ## Дотичні справи
 

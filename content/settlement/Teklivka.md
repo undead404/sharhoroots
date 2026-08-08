@@ -44,6 +44,7 @@ type: Place
 | 1858 | ДАВіО-177-1-1193 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/14tki9lvA8_GaoVGoYPnN_ero5ufh1HIy?usp=drive_link) | Підшивка, див. 157 Ревізька казка, селяни. *Не та Теклівка?* (Власники - Бірнацькі)  |
 | 1858 | ДАВіО-177-1-1197 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1rNNwVKDbpkb2GSRZiD8fBMhqi54UTCW5?usp=drive_link) | Підшивка, див. 81. Ревізька казка, селяни. *Не та Теклівка?* (Власник - Сулятицький) |
 | 1858 | ДАВіО-177-1-1199 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1hXL5rKyJQwOI9sa8gpCujAV6G_ka1uDt?usp=drive_link) | Підшивка, див. 778. Ревізькі казки, військові. *Не та Теклівка?*                     |
+| 1858 | ДАВіО-177-1-1199 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1hXL5rKyJQwOI9sa8gpCujAV6G_ka1uDt?usp=drive_link) | Підшивка, див. 778. Ревізькі казки, військові. *Не та Теклівка?*                     |
 
 ## Дотичні справи
 
