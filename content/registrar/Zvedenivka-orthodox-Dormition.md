@@ -33,27 +33,27 @@ type: PlaceOfWorship
 
 ## Метричні книги
 
-| Роки      | Архівна справа    | Посилання                                                                                                                                                                        | Примітка |
-| --------- | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
-| 1760-1796 | ЦДІАК-224-1-406   | [ЦДІАК - Архіум](https://archium.cdiak.archives.gov.ua/file-viewer/51484/)                                                                                                       |          |
-| 1796      | ДАХмО-315-1-6690  | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/6690), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=114929517)  | Підшивка |
-| 1797      | ДАХмО-315-1-6717  | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/6717), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=114926690)  | Підшивка |
-| 1799      | ДАХмО-315-1-6738  | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/6738), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=114926694)  |          |
-| 1800      | ДАХмО-315-1-6773  | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=114929778)                                                                        | Підшивка |
-| 1806      | ДАХмО-315-1-6859  | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=114929643)                                                                        | Підшивка |
-| 1807      | ДАХмО-315-1-6874  | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=114926757)                                                                        | Підшивка |
-| 1811      | ДАХмО-315-1-6945  | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=114929669)                                                                        | Підшивка |
-| 1812      | ДАХмО-315-1-6961  | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=114929799)                                                                        | Підшивка |
-| 1816      | ДАХмО-315-1-7021  | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=114929709)                                                                        | Підшивка |
-| 1847      | ДАХмО-315-1-7909а | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115324176)                                                                        | Підшивка |
-| 1851      | ДАХмО-315-1-8159  | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115324297)                                                                        | Підшивка |
-| 1862      | ДАХмО-315-1-8585  | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/8585)                                                                                                             | Підшивка |
-| 1865      | ДАХмО-315-1-8684  | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/8684), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115459831)  | Підшивка |
-| 1872      | ДАХмО-315-1-11834 | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/11834), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=119478878) | Підшивка |
-| 1876      | ДАХмО-315-1-11989 | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=119479346)                                                                        |          |
-| 1877      | ДАХмО-315-1-11983 | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=119479331)                                                                        |          |
-| 1905      | ДАХмО-315-1-12658 | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=119744313)                                                                        |          |
-| 1911      | ДАХмО-315-1-12769 | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=119744500)                                                                        | Підшивка |
+| Роки      | Архівна справа    | Посилання                                                                                                                                                                       | Примітка |
+| --------- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| 1760-1796 | ЦДІАК-224-1-406   | [ЦДІАК - Архіум](https://archium.cdiak.archives.gov.ua/file-viewer/51484/)                                                                                                      |          |
+| 1796      | ДАХмО-315-1-6690  | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/6690), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=114929517) | Підшивка |
+| 1797      | ДАХмО-315-1-6717  | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/6717), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=114926690) | Підшивка |
+| 1799      | ДАХмО-315-1-6738  | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/6738), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=114926694) |          |
+| 1800      | ДАХмО-315-1-6773  | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=114929778)                                                                       | Підшивка |
+| 1806      | ДАХмО-315-1-6859  | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=114929643)                                                                       | Підшивка |
+| 1807      | ДАХмО-315-1-6874  | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=114926757)                                                                       | Підшивка |
+| 1811      | ДАХмО-315-1-6945  | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=114929669)                                                                       | Підшивка |
+| 1812      | ДАХмО-315-1-6961  | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=114929799)                                                                       | Підшивка |
+| 1816      | ДАХмО-315-1-7021  | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=114929709)                                                                       | Підшивка |
+| 1847      | ДАХмО-315-1-7909а | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115324176)                                                                       | Підшивка |
+| 1851      | ДАХмО-315-1-8159  | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115324297)                                                                       | Підшивка |
+| 1862      | ДАХмО-315-1-8585  | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/8585)                                                                                                            | Підшивка |
+| 1865      | ДАХмО-315-1-8684  | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/8684), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115459831) | Підшивка |
+| 1872      | ДАХмО-315-1-11835 | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=119478513)                                                                       | Підшивка |
+| 1876      | ДАХмО-315-1-11989 | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=119479346)                                                                       |          |
+| 1877      | ДАХмО-315-1-11983 | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=119479331)                                                                       |          |
+| 1905      | ДАХмО-315-1-12658 | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=119744313)                                                                       |          |
+| 1911      | ДАХмО-315-1-12769 | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=119744500)                                                                       | Підшивка |
 
 ## Сповідні розписи
 
