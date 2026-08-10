@@ -14,6 +14,14 @@ type: Place
 ---
 ## Історія
 
+На 1828 рік не подали документів на підтвердження шляхетства такі шляхтичі ([ДАВіО-177-1-1208_63](https://drive.google.com/drive/folders/1LhoU8GZGUHFLwNG5ZJfIfTVZZkXDf5jj?usp=drive_link)):
+
+- Жолинський Андрій Варфоломіїв
+- Лопатинський Леон Федорів
+- Лівіцький Федір Шимонів
+- Могельницький Ян Лукашів
+- Садовський Іван Василів
+
 У 1834 році ([ДАВіО-177-1-1155](https://drive.google.com/drive/folders/1XNPKkoNfEkmWoQxirDlpcDmUNTKQE512?usp=drive_link)) згадуються такі власники:
 
 - Любомирський
@@ -49,15 +57,16 @@ type: Place
 
 ## Переписи та ревізії
 
-| Роки | Архівна справа    | Посилання                                                                                                                                                                                                                                           | Примітка                                                       |
-| ---- | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| 1811 | ДАВіО-177-1-1103  | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1gtDFNiwhKNvrXiY0VegC5_V04r8ECb_B?usp=drive_link)                                                                                                                         | Підшивка, див. 1. Ревізька казка, чиншова шляхта               |
-| 1834 | ДАВіО-177-1-1142  | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1U1Bas-dqJCZ-xEtC5Pah38xHi6DFnx_4?usp=drive_link)                                                                                                                         | Підшивка, див. 472а. Ревізька казка, однодворці                |
-| 1842 | ДАВіО-177-1-1168а | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1juszrj3xg6EV1Z4M4yU2z0MJRMou9cGB?usp=drive_link)                                                                                                                         | Підшивка, див. 452. Ревізькі казки, неосілі однодворці й осілі |
-| 1845 | ДАВіО-177-1-1169  | [ВікіДжерела](https://uk.wikisource.org/wiki/%D0%90%D1%80%D1%85%D1%96%D0%B2:%D0%94%D0%90%D0%92%D1%96%D0%9E/177/1/1169), [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/16T5YbwqSADFUUb1899UQmWnEji2ALULg?usp=drive_link) | Підшивка, див. 329. Додаткові РК однодворців                   |
-| 1854 | ДАВіО-177-1-1187  | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1__n_EPuM80D6xC9P5AoAyF89xBTl_8-8?usp=drive_link)                                                                                                                         | Підшивка, див. 763. Ревізькі казки, однодворці                 |
-| 1858 | ДАВіО-177-1-1191  | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1b7nL6IlnLfx1u_DJNek5cL_wPVwE9wEi?usp=drive_link)                                                                                                                         | Підшивка, див. 97. Ревізька казка, селяни                      |
-| 1858 | ДАВіО-177-1-1199  | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1hXL5rKyJQwOI9sa8gpCujAV6G_ka1uDt?usp=drive_link)                                                                                                                         | Підшивка, див. 213. Ревізькі казки, військові                  |
+| Роки | Архівна справа      | Посилання                                                                                                                                                                                                                                           | Примітка                                                       |
+| ---- | ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| 1795 | ДАВіО-177-1-1208_02 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1E1X-kb65B2uLwrDuAuRWVuow6lWRkVU8?usp=drive_link)                                                                                                                         | Чиншова шляхта, див. 1                                         |
+| 1811 | ДАВіО-177-1-1103    | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1gtDFNiwhKNvrXiY0VegC5_V04r8ECb_B?usp=drive_link)                                                                                                                         | Підшивка, див. 1. Ревізька казка, чиншова шляхта               |
+| 1834 | ДАВіО-177-1-1142    | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1U1Bas-dqJCZ-xEtC5Pah38xHi6DFnx_4?usp=drive_link)                                                                                                                         | Підшивка, див. 472а. Ревізька казка, однодворці                |
+| 1842 | ДАВіО-177-1-1168а   | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1juszrj3xg6EV1Z4M4yU2z0MJRMou9cGB?usp=drive_link)                                                                                                                         | Підшивка, див. 452. Ревізькі казки, неосілі однодворці й осілі |
+| 1845 | ДАВіО-177-1-1169    | [ВікіДжерела](https://uk.wikisource.org/wiki/%D0%90%D1%80%D1%85%D1%96%D0%B2:%D0%94%D0%90%D0%92%D1%96%D0%9E/177/1/1169), [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/16T5YbwqSADFUUb1899UQmWnEji2ALULg?usp=drive_link) | Підшивка, див. 329. Додаткові РК однодворців                   |
+| 1854 | ДАВіО-177-1-1187    | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1__n_EPuM80D6xC9P5AoAyF89xBTl_8-8?usp=drive_link)                                                                                                                         | Підшивка, див. 763. Ревізькі казки, однодворці                 |
+| 1858 | ДАВіО-177-1-1191    | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1b7nL6IlnLfx1u_DJNek5cL_wPVwE9wEi?usp=drive_link)                                                                                                                         | Підшивка, див. 97. Ревізька казка, селяни                      |
+| 1858 | ДАВіО-177-1-1199    | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1hXL5rKyJQwOI9sa8gpCujAV6G_ka1uDt?usp=drive_link)                                                                                                                         | Підшивка, див. 213. Ревізькі казки, військові                  |
 
 ## Дотичні справи
 

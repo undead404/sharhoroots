@@ -12,6 +12,12 @@ type: Place
 ---
 ## Історія
 
+На 1828 рік не подали документів на підтвердження шляхетства такі шляхтичі ([ДАВіО-177-1-1208_63](https://drive.google.com/drive/folders/1LhoU8GZGUHFLwNG5ZJfIfTVZZkXDf5jj?usp=drive_link)):
+
+- Єдлінський Іван Степанів
+- Камінський Яків Іллів
+- Умінський Юзеф Антонів
+
 На 1850 рік у Калинівці було державних селян: 263 чоловіки, 272 жінки ([ДАВіО-177-1-1182а](https://drive.google.com/drive/folders/1opmIlG8LRHiAFX6j66bs9WGaViA_NHX7?usp=drive_link)).
 
 > [!quote] ["Волости и важнейшие селения Евр. России, вып. III" (1885)](https://archive.org/details/MostImportantVillagesEuropeanRussia/1885.Vivser_Vyp_3_Gubernii_Malorossiyskie_I_Yugo-Zapadnye_1885/page/n143/mode/2up) – № 1059

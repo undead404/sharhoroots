@@ -12,6 +12,11 @@ type: Place
 ---
 ## Історія
 
+На 1828 рік не подали документів на підтвердження шляхетства такі шляхтичі ([ДАВіО-177-1-1208_63](https://drive.google.com/drive/folders/1LhoU8GZGUHFLwNG5ZJfIfTVZZkXDf5jj?usp=drive_link)):
+
+- Житницький Певло Федорів
+- Маєвський Андрій Антонів
+
 У 1834 році ([ДАВіО-177-1-1155](https://drive.google.com/drive/folders/1XNPKkoNfEkmWoQxirDlpcDmUNTKQE512?usp=drive_link)) згадуються такі власники:
 
 - Любомирський

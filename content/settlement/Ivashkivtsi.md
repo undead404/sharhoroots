@@ -13,6 +13,10 @@ type: Place
 ---
 ## Історія
 
+На 1828 рік не подали документів на підтвердження шляхетства такі шляхтичі ([ДАВіО-177-1-1208_63](https://drive.google.com/drive/folders/1LhoU8GZGUHFLwNG5ZJfIfTVZZkXDf5jj?usp=drive_link)):
+
+- Шостаковський Григорій Михалів
+
 У 1834 році ([ДАВіО-177-1-1155](https://drive.google.com/drive/folders/1XNPKkoNfEkmWoQxirDlpcDmUNTKQE512?usp=drive_link)) згадуються такі власники:
 
 - Любомирський
@@ -45,12 +49,13 @@ type: Place
 
 ## Переписи та ревізії
 
-| Роки | Архівна справа   | Посилання                                                                                                                                                                                                                                           | Примітка                                       |
-| ---- | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| 1834 | ДАВіО-177-1-1146 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1OI2kR9pvt_IcRKloH33F48nAW2GxpleZ?usp=drive_link)                                                                                                                         | Підшивка, див. 826а. Однодворці                |
-| 1844 | ДАВіО-177-1-1169 | [ВікіДжерела](https://uk.wikisource.org/wiki/%D0%90%D1%80%D1%85%D1%96%D0%B2:%D0%94%D0%90%D0%92%D1%96%D0%9E/177/1/1169), [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/16T5YbwqSADFUUb1899UQmWnEji2ALULg?usp=drive_link) | Підшивка, див. 98. Додаткові РК однодворців    |
-| 1854 | ДАВіО-177-1-1186 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1DBle7rStZGFL7ZhJNhGfYv1_bNGDQCQ6?usp=drive_link)                                                                                                                         | Підшивка, див. 706. Ревізькі казки, однодворці |
-| 1858 | ДАВіО-177-1-1194 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1a1ViPJx8fJgZ1_iukI-XVjhUuYas1GtR?usp=drive_link)                                                                                                                         | Підшивка, 901. Ревізькі казки, військові       |
+| Роки | Архівна справа      | Посилання                                                                                                                                                                                                                                           | Примітка                                       |
+| ---- | ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| 1795 | ДАВіО-177-1-1208_19 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1IO3HJWXrZLpB_coRlJfv4PKzmEIF2KQK?usp=drive_link)                                                                                                                         | Підшивка, див. 18. Чиншова шляхта              |
+| 1834 | ДАВіО-177-1-1146    | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1OI2kR9pvt_IcRKloH33F48nAW2GxpleZ?usp=drive_link)                                                                                                                         | Підшивка, див. 826а. Однодворці                |
+| 1844 | ДАВіО-177-1-1169    | [ВікіДжерела](https://uk.wikisource.org/wiki/%D0%90%D1%80%D1%85%D1%96%D0%B2:%D0%94%D0%90%D0%92%D1%96%D0%9E/177/1/1169), [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/16T5YbwqSADFUUb1899UQmWnEji2ALULg?usp=drive_link) | Підшивка, див. 98. Додаткові РК однодворців    |
+| 1854 | ДАВіО-177-1-1186    | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1DBle7rStZGFL7ZhJNhGfYv1_bNGDQCQ6?usp=drive_link)                                                                                                                         | Підшивка, див. 706. Ревізькі казки, однодворці |
+| 1858 | ДАВіО-177-1-1194    | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1a1ViPJx8fJgZ1_iukI-XVjhUuYas1GtR?usp=drive_link)                                                                                                                         | Підшивка, 901. Ревізькі казки, військові       |
 
 ## Дотичні справи
 
