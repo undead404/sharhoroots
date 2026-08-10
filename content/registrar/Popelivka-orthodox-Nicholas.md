@@ -58,3 +58,9 @@ type: PlaceOfWorship
 | 1827 | ДАХмО-315-1-7298 | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/7298), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115083867) | Підшивка |
 | 1831 | ДАХмО-315-1-7359 | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/7359), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115086147) | Підшивка |
 | 1859 | ДАХмО-315-1-8469 | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/8469), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115459655) | Підшивка |
+
+## Дотичні справи
+
+| Час       | Архівна справа | Назва                                                                                             | Посилання |
+| --------- | -------------- | ------------------------------------------------------------------------------------------------- | --------- |
+| 1827-1845 | ДАВіО-474-2-2  | Справа про звинувачення поміщика Собанського Гаврила у відторгненні церковних земель с. Попелівка |           |

@@ -70,3 +70,9 @@ type: PlaceOfWorship
 | 1862 | ДАХмО-315-1-8589  | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/8589)                                                                                                             | Підшивка |
 | 1870 | ДАХмО-315-1-11818 | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/11818), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=119644156) | Підшивка |
 | 1883 | ДАХмО-315-1-12345 | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/12345), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=119741267) | Підшивка |
+
+## Дотичні справи
+
+| Час  | Архівна справа  | Назва                                                       | Посилання |
+| :--- | :-------------- | :---------------------------------------------------------- | :-------- |
+| 1871 | ДАВіО-472-1-399 | Справа про встановлення меж церковних земель села Гибалівки |           |
