@@ -5,6 +5,7 @@ containedInPlace: Копистирин
 coordinates:
   - 48.84788582352598
   - 28.13868762183595
+description: "Реєстр метричних книг і сповідних розписів 1746–1921 рр. для генеалогічних досліджень"
 tags:
   - greek-catholic
   - eastern-orthodox

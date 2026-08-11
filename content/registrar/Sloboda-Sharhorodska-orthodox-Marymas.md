@@ -26,29 +26,35 @@ type: PlaceOfWorship
 
 ## Історія
 
-За виданням "[Приходы и церкви Подольской епархии (1901)](https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D1%85%D0%BE%D0%B4%D1%8B_%D0%B8_%D1%86%D0%B5%D1%80%D0%BA%D0%B2%D0%B8_%D0%9F%D0%BE%D0%B4%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B9_%D0%B5%D0%BF%D0%B0%D1%80%D1%85%D0%B8%D0%B8)" – належала до 3 благочинного округу:
-> Нинішня Різдво-Богородична церква збудована в 1750 р. на кошти парафіян; її будівля дерев'яна, однокупольна, крита бляхою. Дзвіниця сумісна з церквою; вона прибудована в 1877 р..
-> 
+> [!quote] "[Приходы и церкви Подольской епархии (1901)](https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D1%85%D0%BE%D0%B4%D1%8B_%D0%B8_%D1%86%D0%B5%D1%80%D0%BA%D0%B2%D0%B8_%D0%9F%D0%BE%D0%B4%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B9_%D0%B5%D0%BF%D0%B0%D1%80%D1%85%D0%B8%D0%B8)"
+> Нинішня **Різдво-Богородична церква** збудована в 1750 р. на кошти парафіян; її будівля дерев'яна, однокупольна, крита бляхою. Дзвіниця сумісна з церквою; вона прибудована в 1877 р..
+>
 > Іконостас – новий, двоярусний, з іконами грецького живопису; він влаштований у 1870 р. замість старого, який став непридатним і розвалився.
-> 
+>
 > При цій церкві ще з 1857 р. священник протоієрей Петр Янковський.
-> 
+>
 > Причтові будівлі нібито нові.
-> 
+>
 > Є церковна школа грамоти від 1860 р..
 
 ## Метричні книги
 
-| Роки      | Архівна справа   | Посилання                                                                                                                                                                              | Примітка               |
-| --------- | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- |
-| 1735-1787 | ЦДІАК-224-2-190  | [ЦДІАК - Архіум](https://archium.cdiak.archives.gov.ua/file-viewer/115838/), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=110175444) |                        |
-| 1790-1811 | ІР НБУВ-28-1-726 |                                                                                                                                                                                        |                        |
-| 1798      | ДАХмО-315-1-6728 | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=114929501)                                                                              | Підшивка. Шлюб, смерть |
-| 1800      | ДАХмО-315-1-6773 | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=114929778)                                                                              | Підшивка               |
-| 1806      | ДАХмО-315-1-6859 | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=114929643)                                                                              | Підшивка               |
-| 1807      | ДАХмО-315-1-6874 | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=114926757)                                                                              | Підшивка               |
-| 1811      | ДАХмО-315-1-6945 | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=114929669)                                                                              | Підшивка               |
-| 1812      | ДАХмО-315-1-6961 | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=114929799)                                                                              | Підшивка               |
+| Роки      | Архівна справа   | Посилання                                                                                                                                                                              | Примітка |
+| --------- | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| 1735-1787 | ЦДІАК-224-2-190  | [ЦДІАК - Архіум](https://archium.cdiak.archives.gov.ua/file-viewer/115838/), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=110175444) |          |
+| 1790-1811 | ІР НБУВ-28-1-726 |                                                                                                                                                                                        |          |
+| 1800      | ДАХмО-315-1-6773 | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=114929778)                                                                              | Підшивка |
+| 1806      | ДАХмО-315-1-6859 | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=114929643)                                                                              | Підшивка |
+| 1807      | ДАХмО-315-1-6874 | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=114926757)                                                                              | Підшивка |
+| 1811      | ДАХмО-315-1-6944 | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=114929669)                                                                              | Підшивка |
+| 1812      | ДАХмО-315-1-6961 | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=114929799)                                                                              | Підшивка |
+| 1851-1862 | ДАХмО-315-1-8169 | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115627015)                                                                              |          |
+| 1859      | ДАХмО-315-1-8468 | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/8468), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115459641)        | Підшивка |
+| 1863-1874 | ДАВіО-904-26-17  |                                                                                                                                                                                        |          |
+| 1885-1895 | ДАВіО-904-26-80  |                                                                                                                                                                                        |          |
+| 1896-1906 | ДАВіО-904-26-138 |                                                                                                                                                                                        |          |
+| 1907-1913 | ДАВіО-904-26-209 |                                                                                                                                                                                        |          |
+| 1914-1921 | ДАВіО-904-26-249 |                                                                                                                                                                                        |          |
 
 ## Сповідні розписи
 
