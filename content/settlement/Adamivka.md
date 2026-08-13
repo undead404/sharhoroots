@@ -8,7 +8,7 @@ coordinates:
 tags:
   - hamlet
   - defunct
-title: Адамівка
+title: Адамівка (Мала Деребчинка)
 type: Place
 ---
 ## Історія
