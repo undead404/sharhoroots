@@ -42,8 +42,8 @@ type: PlaceOfWorship
 | 1848      | ДАВіО-513-1-220а | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1b6FEx_g4qQ5mxRKfahIg1QC-GcVl6hPJ?usp=drive_link)                                                     | Підшивка |
 | 1871-1880 | ДАВіО-904-26-36  |                                                                                                                                                                                 |          |
 | 1881-1889 | ДАВіО-904-26-61  |                                                                                                                                                                                 |          |
-| 1890-1897 | ДАВіО-904-26-111 |                                                                                                                                                                                 |          |
-| 1898-1904 | ДАВіО-904-26-146 |                                                                                                                                                                                 |          |
+| 1890-1897 | ДАВіО-904-26-111 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1Y1PAd2cil8bU5MVjBciOFnr069Id2gMF?usp=drive_link)                                                     |          |
+| 1898-1904 | ДАВіО-904-26-146 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1kgb5jmYjp9owbW95WDyIRrujpz_oCWuB?usp=drive_link)                                                     |          |
 | 1905-1912 | ДАВіО-904-26-188 |                                                                                                                                                                                 |          |
 | 1913-1922 | ДАВіО-904-26-237 |                                                                                                                                                                                 |          |
 
