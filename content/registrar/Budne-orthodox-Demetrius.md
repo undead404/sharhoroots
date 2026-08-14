@@ -50,7 +50,7 @@ type: PlaceOfWorship
 | 1811      | ДАХмО-315-1-6945 | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=114929669)                   | Підшивка |
 | 1812      | ДАХмО-315-1-6961 | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=114929799)                   | Підшивка |
 | 1816      | ДАХмО-315-1-7021 | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=114929709)                   | Підшивка |
-| 1835      | ДАВіО-513-1-184а | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/17n6FkYi7t1mTiha3doh980xZFuyFJoxC?usp=drive_link) |          |
+| 1835      | ДАВіО-513-1-184а | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/17n6FkYi7t1mTiha3doh980xZFuyFJoxC?usp=drive_link) | Підшивка |
 | 1850-1859 | ДАХмО-315-1-8090 | [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115324266)                   |          |
 | 1882-1886 | ДАВіО-904-26-67  |                                                                                                                             |          |
 | 1887-1894 | ДАВіО-904-26-93  |                                                                                                                             |          |
