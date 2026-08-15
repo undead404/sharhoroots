@@ -15,7 +15,43 @@ type: AdministrativeArea
 ---
 ## Історія
 
+### 1923
+
 Утворений 1923 року, згідно з [Постановою Всеукраїнського Центрального Виконавчого Комітету Про адміністративно-територіяльний поділ Поділля](https://uk.wikisource.org/wiki/%D0%97%D0%A3%D0%A0%D0%A0%D0%A1%D0%A3%D0%A3/1923/1/18-19/%D0%9F%D1%80%D0%BE_%D0%B0%D0%B4%D0%BC%D1%96%D0%BD%D1%96%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%BE-%D1%82%D0%B5%D1%80%D0%B8%D1%82%D0%BE%D1%80%D1%96%D1%8F%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9_%D0%BF%D0%BE%D0%B4%D1%96%D0%BB_%D0%9F%D0%BE%D0%B4%D1%96%D0%BB%D0%BB%D1%8F), з частин [[Shargorod-volost|Шаргородської]], Копай-Городської та [[Beliany-Shargorodskiye-volost|Біляно-Шаргородської]] волостей, з центром у місті [[Sharhorod|Шаргороді]], у складі [[Mohyliv-okruha|Могилівської округи]] [[Podolia-governorate|Подільської губернії]].
+
+### 1965
+
+У 1965 році, згідно з [Указом Президії Верховної ради Української РСР Про внесення змін в адміністративне районування Української РСР](https://uk.wikisource.org/wiki/%D0%9F%D1%80%D0%BE_%D0%B2%D0%BD%D0%B5%D1%81%D0%B5%D0%BD%D0%BD%D1%8F_%D0%B7%D0%BC%D1%96%D0%BD_%D0%B2_%D0%B0%D0%B4%D0%BC%D1%96%D0%BD%D1%96%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%B5_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%BE%D1%97_%D0%A0%D0%A1%D0%A0), мав такий склад:
+
+- [[Sharhorod|Шаргород]]
+- [[Hybalivka|Гибалівка]]
+- [[Derebchyn|Деребчин]]
+- [[Dzhuryn|Джурин]]
+- [[Murafa|Жданове]]
+- [[Ivashkivtsi|Івашківці]]
+- [[Kalytynka|Калитинка]]
+- [[Kozlivka|Козлівка]]
+- [[Kopystyryn|Копистирин]]
+- [[Lozova|Лозова]]
+- [[Mykhailivka|Михайлівка]]
+- [[Nosykivka|Носиківка]]
+- [[Pasynky|Пасинки]]
+- [[Penkivka|Пеньківка]]
+- [[Plebanivka|Плебанівка]]
+- [[Politanky|Політанки]]
+- [[Rudanske|Руданське]]
+- [[Sloboda-Sharhorodska|Слобода-Шаргородська]]
+- [[Khomenky|Хоменки]]
+- [[Shostakivka|Шостаківка]]
+- [[Yukhymivka|Юхимівка]]
+
+Також зі складу [[Tulchyn-raion|Тульчинського району]] були передані:
+
+- [[Holynchyntsi|Голинчинці]]
+- [[Zvedenivka|Зведенівка]]
+- [[Rakhny-Lisovi|Рахни-Лісові]]
+- [[Strilnyky|Стрільники]]
+- [[Yuliampil|Юліямпіль]]
 
 ## Дотичні фонди
 
