@@ -63,3 +63,9 @@ type: PlaceOfWorship
 | 1831 | ДАХмО-315-1-7359 | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/7359), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115086147)                                                   | Підшивка |
 | 1859 | ДАХмО-315-1-8469 | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/8469), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115459655)                                                   | Підшивка |
 | 1861 | ДАХмО-315-1-8563 | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/8563), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115459870)                                                   | Підшивка |
+
+## Дотичні справи
+
+| Час  | Архівна справа   | Назва                                                                                                               | Посилання | Примітка |
+| ---- | ---------------- | ------------------------------------------------------------------------------------------------------------------- | --------- | -------- |
+| 1856 | ДАХмО-315-1-4418 | Межова книга земель, що належать **Парасківській церкві** села Копестирина Подільської губернії Ямпільського повіту |           |          |
