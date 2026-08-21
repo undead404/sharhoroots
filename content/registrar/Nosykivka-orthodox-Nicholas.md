@@ -67,3 +67,10 @@ type: PlaceOfWorship
 | 1840 | ДАХмО-315-1-7515  | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/7515), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115206120)                                                   | Підшивка |
 | 1848 | ДАХмО-315-1-7966  | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/7966), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115324273)                                                   | Підшивка |
 | 1870 | ДАХмО-315-1-11818 | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/11818), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=119644156)                                                  | Підшивка |
+
+## Дотичні справи
+
+| Час  | Архівна справа   | Назва                                                                                                               | Посилання                                                                                                 |
+| ---- | ---------------- | ------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| 1890 | ДАХмО-281-1-2857 | Справа по звинуваченню дяка церкви с. Носиківки Могилівського п. Безбідовича Н. у вбивстві селянина Чайковського А. | [FamilySearch](https://www.familysearch.org/uk/records/images/search-results?imageGroupNumbers=121930081) |
+
