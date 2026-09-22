@@ -36,6 +36,10 @@ type: Place
 
 - Івановський
 
+### 1839
+
+ У кінці року відкрито в Подільській єпархії 8 училищ, серед яких – у с. **Лозовій** ([П.Є.В. (1863) № 10](https://archive.org/details/podillya_vidomosti/PEV.1863/page/n493/mode/2up))
+
 ### 1842
 
 У 1842 році ([ДАВіО-177-1-1168](https://drive.google.com/drive/folders/1YGBpPD6DFvgM0EUcc6XdLhrZSWT1Ci3I?usp=drive_link)) власники мали селян:
