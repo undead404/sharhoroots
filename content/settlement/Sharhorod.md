@@ -190,6 +190,8 @@ type: Place
 
 Містом досі володіли Любомирські ([П.Є.В. (1863) № 14](https://archive.org/details/podillya_vidomosti/PEV.1863/page/n709/mode/2up)).
 
+29 жовтня у зв'язку зі хворобою звільнений за штат до Свято-Успенської церкви м. Жванчика Ушицького повіту служитель Шаргородського духовного повітового училища Микола Кобржицький ([П.Є.В. (1863) № 23](https://archive.org/details/podillya_vidomosti/PEV.1863/page/n1133/mode/2up)).
+
 ### 1885
 
 > [!quote] ["Волости и важнейшие селения Евр. России, вып. III" (1885)](https://archive.org/details/MostImportantVillagesEuropeanRussia/1885.Vivser_Vyp_3_Gubernii_Malorossiyskie_I_Yugo-Zapadnye_1885/page/n143/mode/2up) – № 1056

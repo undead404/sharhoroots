@@ -31,6 +31,10 @@ type: PlaceOfWorship
 
 22 липня був рукоположений у священники випускник Подільської духовної семінарії Єфимій Солуха ([П.Є.В. (1863) № 17](https://archive.org/details/podillya_vidomosti/PEV.1863/page/n843/mode/2up)).
 
+9 жовтня Єфимій Солуха за власним проханням був переведений на парафію села Слободзеї Балтського повіту ([П.Є.В. (1863) № 22](https://archive.org/details/podillya_vidomosti/PEV.1863/page/n1085/mode/2up)).
+
+6 грудня 1863 року священником став випусник семінарії Василій Щербинський ([П.Є.В. (1864) № 2](https://archive.org/details/podillya_vidomosti/PEV.1864/page/n27/mode/2up)).
+
 ### 1877
 
 Зношений купол полагоджений на кошти парафіян ([Приходы и церкви Подольской епархии (1901)](https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D1%85%D0%BE%D0%B4%D1%8B_%D0%B8_%D1%86%D0%B5%D1%80%D0%BA%D0%B2%D0%B8_%D0%9F%D0%BE%D0%B4%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B9_%D0%B5%D0%BF%D0%B0%D1%80%D1%85%D0%B8%D0%B8)).
