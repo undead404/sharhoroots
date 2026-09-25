@@ -31,6 +31,8 @@ type: PlaceOfWorship
 
 12 березня видано дозвіл на збудування дерев'яної церкви за нормальним проєктом № 14  ([П.Є.В. (1864) № 8](https://archive.org/details/podillya_vidomosti/PEV.1864/page/n93/mode/2up)).
 
+30 липня священник-наглядач Василій Бочковський переведений до лав братії Бершадського монастиря ([П.Є.В. (1864) № 18](https://archive.org/details/podillya_vidomosti/PEV.1864/page/n221/mode/2up)).
+
 ### 1866
 
 На кошти казни збудована нова дерев'яна церква ([Приходы и церкви Подольской епархии (1901)](https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D1%85%D0%BE%D0%B4%D1%8B_%D0%B8_%D1%86%D0%B5%D1%80%D0%BA%D0%B2%D0%B8_%D0%9F%D0%BE%D0%B4%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B9_%D0%B5%D0%BF%D0%B0%D1%80%D1%85%D0%B8%D0%B8)).
