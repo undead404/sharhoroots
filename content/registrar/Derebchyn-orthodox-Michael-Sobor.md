@@ -26,6 +26,8 @@ type: PlaceOfWorship
 
 Священник Петро Галанівич нагороджений за службу скуф'єю ([П.Є.В. (1864) № 15](https://archive.org/details/podillya_vidomosti/PEV.1864/page/n163/mode/2up)).
 
+11 липня священник Петро Галанівич отримав 20 р. допомоги ([П.Є.В. (1865) № 23](https://archive.org/details/podillya_vidomosti/PEV.1865/page/n425/mode/2up)).
+
 Можливо, саме в цю церкву 12 жовтня був призначений паламарем син дяка Димитрій Герасимів Левицький ([П.Є.В. (1864) № 23](https://archive.org/details/podillya_vidomosti/PEV.1864/page/n313/mode/2up)).
 
 ### 1901

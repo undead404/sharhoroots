@@ -24,6 +24,8 @@ type: PlaceOfWorship
 
 1 липня видано дозвіл розібрати стару дерев'яну церкву та використати матеріали для зведення сільської школи ([П.Є.В. (1864) № 16](https://archive.org/details/podillya_vidomosti/PEV.1864/page/n193/mode/2up)).
 
+11 липня священник Іоанн Іллінський отримав 40 р. допомоги ([П.Є.В. (1865) № 23](https://archive.org/details/podillya_vidomosti/PEV.1865/page/n427/mode/2up)).
+
 ### 1865
 
 Священнику Іоанну Іллінському оголошена подяка за збільшення свічного прибутку ([П.Є.В. (1865) № 14](https://archive.org/details/podillya_vidomosti/PEV.1865/page/n223/mode/2up)).

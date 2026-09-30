@@ -28,6 +28,8 @@ type: PlaceOfWorship
 
 25 квітня священник Ілля Петринський був нагороджений за службу камилавкою ([П.Є.В. (1864) № 15](https://archive.org/details/podillya_vidomosti/PEV.1864/page/n161/mode/2up)).
 
+11 липня священник Ілля Петринський отримав 20 р. допомоги ([П.Є.В. (1865) № 23](https://archive.org/details/podillya_vidomosti/PEV.1865/page/n427/mode/2up)).
+
 ### 1865
 
 27 квітня паламар Єлевферій Липковський переведений до [[Murafa|Старої Мурафи]] ([П.Є.В. (1865) № 12](https://archive.org/details/podillya_vidomosti/PEV.1865/page/n183/mode/2up)).

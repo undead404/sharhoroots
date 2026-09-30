@@ -251,6 +251,8 @@ type: Place
 
 27 вересня ієромонах Арістарх звільнений від посади намісника Шаргородського монастиря, а на його місце призначений заштатний ігумен Афанасій ([П.Є.В. (1865) № 21](https://archive.org/details/podillya_vidomosti/PEV.1865/page/n367/mode/2up)).
 
+16 листопада дозволено оновлення іконостасу та розфарбування холодної церкви Шаргородського Свято-Миколаївського монастиря ([П.Є.В. (1865) № 24](https://archive.org/details/podillya_vidomosti/PEV.1865/page/n429/mode/2up)).
+
 ### 1885
 
 > [!quote] ["Волости и важнейшие селения Евр. России, вып. III" (1885)](https://archive.org/details/MostImportantVillagesEuropeanRussia/1885.Vivser_Vyp_3_Gubernii_Malorossiyskie_I_Yugo-Zapadnye_1885/page/n143/mode/2up) – № 1056

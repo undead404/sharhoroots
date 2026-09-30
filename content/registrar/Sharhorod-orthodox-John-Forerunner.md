@@ -63,6 +63,10 @@ type: PlaceOfWorship
 
 У церковно-парафіяльній школі навчалося 29 хлопчиків ([П.Є.В. (1863) № 23](https://archive.org/details/podillya_vidomosti/PEV.1863/page/n1131/mode/2up)).
 
+### 1864
+
+1 квітня просфирня Александра Лапинська отримала 15 р. допомоги ([П.Є.В. (1865) № 22](https://archive.org/details/podillya_vidomosti/PEV.1865/page/n401/mode/2up)).
+
 ### 1865
 
 2 травня священник Дорофій Ковердинський переведений до с. Ігнатівки Гайсинського повіту ([П.Є.В. (1865) № 13](https://archive.org/details/podillya_vidomosti/PEV.1865/page/n205/mode/2up)).

@@ -31,6 +31,8 @@ type: PlaceOfWorship
 
 Місце дяка зайняв дяк с. Курник Ушицького повіту Леонтій Білінський ([П.Є.В. (1864) № 8](https://archive.org/details/podillya_vidomosti/PEV.1864/page/n93/mode/2up)).
 
+11 липня священник Іоанн Люткевич отримав 15 р. допомоги ([П.Є.В. (1865) № 23](https://archive.org/details/podillya_vidomosti/PEV.1865/page/n427/mode/2up)).
+
 ### 1865
 
 12 квітня дяк Леонтій Білінський помінявся місцями з дяком [[Plebanivka|Плебанівки]] Михайлом Саліковським ([П.Є.В. (1865) № 10](https://archive.org/details/podillya_vidomosti/PEV.1865/page/n149/mode/2up)).

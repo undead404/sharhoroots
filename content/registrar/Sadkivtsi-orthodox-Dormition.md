@@ -29,6 +29,10 @@ type: PlaceOfWorship
 
 У церковно-парафіяльній школі навчалося 15 хлопчиків і 4 дівчинки ([П.Є.В. (1863) № 23](https://archive.org/details/podillya_vidomosti/PEV.1863/page/n1131/mode/2up)).
 
+### 1864
+
+11 липня дяк Іван Шатковський отримав 5 р. допомоги ([П.Є.В. (1865) № 23](https://archive.org/details/podillya_vidomosti/PEV.1865/page/n427/mode/2up)).
+
 ### 1865
 
 Паламар Кирило Шпачинський, за його власним проханням, був переведений паламарем до с. Букатинки ([П.Є.В. (1865) № 5](https://archive.org/details/podillya_vidomosti/PEV.1865/page/n75/mode/2up)).
