@@ -63,6 +63,12 @@ type: PlaceOfWorship
 
 У церковно-парафіяльній школі навчалося 29 хлопчиків ([П.Є.В. (1863) № 23](https://archive.org/details/podillya_vidomosti/PEV.1863/page/n1131/mode/2up)).
 
+### 1865
+
+2 травня священник Дорофій Ковердинський переведений до с. Ігнатівки Гайсинського повіту ([П.Є.В. (1865) № 13](https://archive.org/details/podillya_vidomosti/PEV.1865/page/n205/mode/2up)).
+
+Священнику Дорофію Ковердинському оголошена подяка за збільшення свічного прибутку ([П.Є.В. (1865) № 14](https://archive.org/details/podillya_vidomosti/PEV.1865/page/n223/mode/2up)).
+
 ### 1901
 
 За виданням "[Приходы и церкви Подольской епархии (1901)](https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D1%85%D0%BE%D0%B4%D1%8B_%D0%B8_%D1%86%D0%B5%D1%80%D0%BA%D0%B2%D0%B8_%D0%9F%D0%BE%D0%B4%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B9_%D0%B5%D0%BF%D0%B0%D1%80%D1%85%D0%B8%D0%B8)" – належала до 3 благочинного округу:

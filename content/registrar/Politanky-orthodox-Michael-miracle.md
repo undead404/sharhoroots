@@ -54,6 +54,10 @@ type: PlaceOfWorship
 
 З'явилася церковно-парафіяльна школа ([Приходы и церкви Подольской епархии (1901)](https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D1%85%D0%BE%D0%B4%D1%8B_%D0%B8_%D1%86%D0%B5%D1%80%D0%BA%D0%B2%D0%B8_%D0%9F%D0%BE%D0%B4%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B9_%D0%B5%D0%BF%D0%B0%D1%80%D1%85%D0%B8%D0%B8)).
 
+### 1865
+
+21 жовтня видано дозвіл освятити полагоджену церкву ([П.Є.В. (1865) № 21](https://archive.org/details/podillya_vidomosti/PEV.1865/page/n385/mode/2up)).
+
 ### 1867
 
 Церква значно перебудована ([Приходы и церкви Подольской епархии (1901)](https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D1%85%D0%BE%D0%B4%D1%8B_%D0%B8_%D1%86%D0%B5%D1%80%D0%BA%D0%B2%D0%B8_%D0%9F%D0%BE%D0%B4%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B9_%D0%B5%D0%BF%D0%B0%D1%80%D1%85%D0%B8%D0%B8)): прибудована дзвіниця, додано дерев'яний купол ([Кліровий розпис 1916 року](https://www.familysearch.org/uk/records/images/search-results?imageGroupNumbers=119291058)).
