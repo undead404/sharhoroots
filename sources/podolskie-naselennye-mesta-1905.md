@@ -1,0 +1,31 @@
+---
+id: SRC-podolskie-naselennye-mesta-1905
+title: "Населенные места Подольской губернии"
+creator: "А. П. Крылов; Подольский губернский статистический комитет"
+date: "1905"
+type: "primary"
+language: "Russian"
+url: "https://familio.org/knowledge-base/catalogs/podolsk1893"
+shelfmark: ""
+access: "open"
+local_copy: ""
+last_checked: 2026-10-13
+---
+
+# Населенные места Подольской губернии
+
+## Coverage and usefulness
+
+Administrative and settlement reference for Podolia. Useful for checking which volost a named settlement was grouped under in the 1905 index.
+
+## Useful locators
+
+- Mogilev uyezd → Serbyan volost → «Беляны Шаргородские»: [Familio digital index](https://familio.org/knowledge-base/catalogs/podolsk1893?level1=7e4921e0-48ff-4b36-8d09-d2d99f8ff51e&page-group=1&page-records=1&level2=98162d4a-7572-4c41-a9e0-c13d5aaa4ff3). This is the index's hierarchy; original printed page not verified.
+
+## Access and local copy
+
+- Bibliographic record: [National Library of Ukraine catalog](https://irbis-nbuv.gov.ua/ulib/item/ukr0000027144), *Населенные места Подольской губернии*, A. P. Krylov, Kamianets-Podilskyi, 1905, VIII, 538 pages. The relevant index is openly viewable at Familio; no local copy retained. The original scan was not inspected.
+
+## Citation
+
+Крылов А. П. *Населенные места Подольской губернии*. Каменец-Подольский: Типография Подольского губернского правления, 1905. Cite the Familio index hierarchy separately unless an original page locator is verified.
