@@ -31,6 +31,10 @@ type: PlaceOfWorship
 
 З'явилася церковно-парафіяльна школа ([Кліровий розпис 1873 року](https://www.familysearch.org/uk/records/images/search-results?imageGroupNumbers=119336110)).
 
+### 1866
+
+10 березня паламар Косма Одудовський помінявся місцями з паламарем Березівки Василем Кохановським ([П.Є.В. (1866) № 7](https://archive.org/details/podillya_vidomosti/PEV.1866/page/n73/mode/2up)).
+
 ### 1873
 
 > [!quote] [Кліровий розпис 1873 року](https://www.familysearch.org/uk/records/images/search-results?imageGroupNumbers=119336110)

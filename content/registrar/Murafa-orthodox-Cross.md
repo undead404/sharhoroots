@@ -51,6 +51,18 @@ type: PlaceOfWorship
 
 Серед благочинних Ямпільського повіту – в.о. священник Михайло Савів Гарнишевський ([П.Є.В. (1865) № 16](https://archive.org/details/podillya_vidomosti/PEV.1865/page/n275/mode/2up)).
 
+### 1866
+
+Дяк Порфирій Лазаркевич був переведений дяком до с. Польових Бирлинців Могилівського повіту ([П.Є.В. (1866) № 10](https://archive.org/details/podillya_vidomosti/PEV.1866/page/n123/mode/2up)).
+
+У лютому-березні нагороджений скуф'єю священник, благочинний 6 округу Михайло Гарнишевський ([П.Є.В. (1866) № 13](https://archive.org/details/podillya_vidomosti/PEV.1866/page/n153/mode/2up)).
+
+28 квітня дяком тимчасово був призначений дяк із с. Слобідки Михалківської Стефан Янчковський ([П.Є.В. (1866) № 11](https://archive.org/details/podillya_vidomosti/PEV.1866/page/n135/mode/2up)).
+
+14 червня затверджена парафіяльна опікунська рада ([П.Є.В. (1866) № 14](https://archive.org/details/podillya_vidomosti/PEV.1866/page/n165/mode/2up)).
+
+19 червня у стихар посвячений паламар Єлевферій Липковський ([П.Є.В. (1866) № 15](https://archive.org/details/podillya_vidomosti/PEV.1866/page/n183/mode/2up)).
+
 ### 1884
 
 На кошти казни облаштований дерев'яний дім священника ([Приходы и церкви Подольской епархии (1901)](https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D1%85%D0%BE%D0%B4%D1%8B_%D0%B8_%D1%86%D0%B5%D1%80%D0%BA%D0%B2%D0%B8_%D0%9F%D0%BE%D0%B4%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B9_%D0%B5%D0%BF%D0%B0%D1%80%D1%85%D0%B8%D0%B8)).

@@ -31,6 +31,18 @@ type: PlaceOfWorship
 
 3 травня паламар Іоанн Гліщинський переведений до с. Кос Балтського повіту ([П.Є.В. (1865) № 11](https://archive.org/details/podillya_vidomosti/PEV.1865/page/n163/mode/2up)).
 
+### 1866
+
+24 січня безмісний паламар Онуфрій Тутевич призначений паламарем у Мовчанах Ямпільського повіту ([П.Є.В. (1866) № 4](https://archive.org/details/podillya_vidomosti/PEV.1866/page/n47/mode/2up)).
+
+30 квітня церковним старостою був затвероджений Ігнатій Гонтовий ([П.Є.В. (1866) № 11](https://archive.org/details/podillya_vidomosti/PEV.1866/page/n135/mode/2up)).
+
+10 травня паламар Онуфрій Тутевич переведений паламарем до с. Якушинців Вінницького повіту ([П.Є.В. (1866) № 12](https://archive.org/details/podillya_vidomosti/PEV.1866/page/n145/mode/2up)).
+
+14 червня затверджена парафіяльна опікунська рада ([П.Є.В. (1866) № 14](https://archive.org/details/podillya_vidomosti/PEV.1866/page/n165/mode/2up)).
+
+26 червня паламарем був призначений безмісний паламар Сильвестр Виногродський ([П.Є.В. (1866) № 15](https://archive.org/details/podillya_vidomosti/PEV.1866/page/n181/mode/2up)).
+
 ### 1899
 
 Церква розібрана; матеріали пішли на будівництво школи ([Приходы и церкви Подольской епархии (1901)](https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D1%85%D0%BE%D0%B4%D1%8B_%D0%B8_%D1%86%D0%B5%D1%80%D0%BA%D0%B2%D0%B8_%D0%9F%D0%BE%D0%B4%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B9_%D0%B5%D0%BF%D0%B0%D1%80%D1%85%D0%B8%D0%B8)).
