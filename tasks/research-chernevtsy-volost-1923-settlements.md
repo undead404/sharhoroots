@@ -5,6 +5,7 @@ status: open
 created: 2026-10-13
 targets:
   - content/administrative-division/Chernevtsy-volost.md
+  - content/administrative-division/Dzhuryn-raion.md
 ---
 
 # Встановити поселення Чернівецької волості, розподілені під час реформи 1923 року
