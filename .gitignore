@@ -4,6 +4,7 @@ node_modules/
 # Артефакти збірки та кеш Quartz
 public/
 .quartz-cache/
+*.tsbuildinfo
 
 # Змінні середовища
 .env
