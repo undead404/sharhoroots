@@ -10,11 +10,12 @@ Help the user discover interesting facts without turning plausible stories, sear
 ## Workflow
 
 1. **Define the question.** Identify the place, period, people or institution, and what would count as an interesting answer. Ask a concise question if the scope is too broad to research responsibly.
-2. **Search the vault first.** Read the relevant notes and links to avoid duplicating existing material and to learn the repository's terminology and citation style. Do not treat an existing uncited statement as verified evidence.
-3. **Find the source, not just a mention of it.** Prefer an inspectable primary source for claims about what happened (for example, a contemporary record, register, map, newspaper, or official document). Use reputable scholarly or reference works for context and as secondary evidence. A primary source is evidence of what its creator recorded, not automatic proof that every recorded claim is true.
-4. **Inspect and locate the evidence.** Use the available web, archive, catalog, or local-file tools. Verify the relevant passage, page, image, folio, entry, or map location in the underlying source where possible. Record enough detail to retrieve it again: creator/title, date, archive and fond/inventory/file/page or image number as applicable, stable URL, and access date when useful. Preserve the original spelling in quotations; translate or summarize separately. If external search or browsing is unavailable, do not imply that you searched the web; work from available sources and disclose that limit.
-5. **Be explicit about limits.** A search-result snippet, OCR transcription, catalog description, or a secondary page that merely cites a source is not inspection of the source itself. If the underlying item is inaccessible, OCR is uncertain, sources conflict, or a genealogical identity is only a hypothesis, say so and lower the claim's confidence. Never fabricate a shelfmark, page, quotation, URL, or access detail.
-6. **Build a small evidence record.** For each candidate fact, capture:
+2. **Check the task queue.** Read relevant notes in `tasks/` before starting. Do not duplicate an open task; if the request spans independently answerable questions, keep the current answer focused and capture the other questions as separate tasks.
+3. **Search the web and inspect documents.** Every research session must include at least one web search and processing of at least one source document (for example, a page of a book, archival image, map, official text, or a relevant local document). A search result is a lead, not a processed document. Record the query and useful result, and record each inspected document with its title/creator, date, exact page/folio/image or other locator, URL or shelfmark, and what it can establish. Prefer primary sources for claims about events, with reputable secondary sources for context. A catalog description establishes what the catalog says, not the uninspected file's contents.
+4. **Save worthwhile follow-up leads.** If research uncovers a distinct, potentially useful question that is not answered in the current scope, create a Markdown task in `tasks/` using `tasks/TEMPLATE.md`. Check for duplicates first. Create one note per independently answerable question; do not create an umbrella task or combine unrelated questions. Include the lead/evidence that prompted it, a focused question, useful search terms or source leads, and a completion condition. Capture every material follow-up lead; do not turn trivial tangents into queue noise. One task may target multiple article paths: use the `targets` YAML list for every affected article. Article count does not determine task scope.
+5. **Inspect and locate the evidence.** Verify the relevant passage, page, image, folio, entry, or map location in the underlying source where possible. Preserve original spelling in quotations; translate or summarize separately. If web search or document access is unavailable, disclose it; do not imply that the minimum was met.
+6. **Be explicit about limits.** If the underlying item is inaccessible, OCR is uncertain, sources conflict, or a genealogical identity is only a hypothesis, say so and lower the claim's confidence. Never fabricate a shelfmark, page, quotation, URL, or access detail. A research task whose required web search or document inspection could not be completed remains `blocked` or `open`, not `done`.
+7. **Build a small evidence record.** For each candidate fact, capture:
    - the proposed claim;
    - the evidence and a precise locator;
    - source type (primary/secondary) and what it can establish;
@@ -22,12 +23,21 @@ Help the user discover interesting facts without turning plausible stories, sear
 
    Prefer a smaller number of well-supported, locally relevant facts over a long list of trivia. Seek independent corroboration for consequential or surprising claims when feasible.
 
-7. **Write in Ukrainian.** When asked to draft or add prose, follow nearby notes' organization and inline Markdown citation style. Put citations next to the claims they support. Separate source wording from editorial interpretation; do not embellish a claim for dramatic effect. Preserve existing frontmatter, wikilinks, embeds, and source links.
-8. **Respect the requested scope.** If the user asks only to find facts, return the evidence record and suggested Ukrainian wording without editing vault files. Edit an article only when asked; state what remains unverified and which sources you actually inspected.
+8. **Write in Ukrainian.** When asked to draft or add prose, follow nearby notes' organization and inline Markdown citation style. Put citations next to the claims they support. Separate source wording from editorial interpretation; do not embellish a claim for dramatic effect. Preserve existing frontmatter, wikilinks, embeds, and source links.
+9. **Respect the requested scope.** If the user asks only to find facts, return the evidence record and suggested Ukrainian wording without editing article files. Edit an article only when asked; state what remains unverified and which sources you actually inspected. When working on a task note, update its research record and status; do not silently edit its target articles unless requested.
+
+## Atomic task convention
+
+- A task is one answerable research question with one completion outcome. It may require several sources and may target multiple articles, but it is not a list of independent questions or edits.
+- Use `targets` as a YAML sequence of article paths (not a singular `target` field). List every article the findings are intended to inform; use an empty sequence only when no article is in scope.
+- Keep task notes in `tasks/`, based on `tasks/TEMPLATE.md`. A task is done only when its answer/evidence is recorded and the web-search and document-processing requirements are met. If access prevents that, record the attempt and leave it open or blocked.
+- Record web queries and the actual source documents processed in the task. For an ordinary research request without an existing task, include these in the returned evidence record; create task notes only for distinct worthwhile follow-ups.
 
 ## Completion check
 
 - Each historical or genealogical assertion in proposed prose has a reference that supports that specific assertion.
 - The locator allows a reader to find the evidence; where the source could not be inspected, this is disclosed.
+- The research record includes at least one web search and at least one processed source document, or explicitly records why the work remains incomplete.
+- Each worthwhile unanswered follow-up discovered during research has a non-duplicative, atomic task note.
 - Names, dates, places, and quoted wording have not been silently normalized or inferred.
 - The Ukrainian prose does not state more than the evidence supports.
