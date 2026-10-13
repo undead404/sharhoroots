@@ -5,9 +5,12 @@ This repository is an Obsidian vault published with Quartz 4. It serves genealog
 ## Working with the vault
 
 - Preserve existing Markdown structure, YAML frontmatter, Obsidian wikilinks, embeds, and naming conventions. Prefer the conventions of nearby notes over introducing a new format.
-- Do not invent historical or genealogical facts, identities, dates, or source details. Keep documented evidence distinct from interpretation, hypotheses, and oral tradition; make uncertainty explicit.
-- Preserve citations and source links when editing claims. If a claim cannot be verified from the available material, flag that rather than silently strengthening or changing it.
+- Write new or revised article prose in Ukrainian unless the user requests another language. Preserve original-language quotations and source titles where useful.
+- Do not invent historical or genealogical facts, identities, dates, or source details. Every factual claim needs a verifiable reference; distinguish what a source states from interpretation, hypotheses, and oral tradition, and make uncertainty explicit.
+- Preserve citations and source links when editing claims. If a claim cannot be verified from the available material, flag that rather than silently strengthening or changing it. A search snippet, OCR result, or another page citing a source is not the same as inspecting that source.
 - Keep place names, historical administrative units, and transliterations consistent with the source and surrounding notes; do not normalize them by guesswork.
+- For requests to find and source historical facts, load the `research-facts` skill. For requests to reorganize, move, or rename vault articles, load the `curate-articles` skill.
+- When an article's published path changes, update `content/_redirects` and affected internal links in the same change. Preserve existing redirect entries and verify the old and new published paths; do not assume every route has the same prefix.
 - Quartz is configured to ignore paths matching `private`, `templates`, `.obsidian`, and `**/*.excalidraw.md`. Do not move private or working material into the published content or generated site output.
 - Do not edit generated output or local Obsidian workspace state as a substitute for editing its source.
 
