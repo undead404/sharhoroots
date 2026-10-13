@@ -1,0 +1,8 @@
+# Direct OCR tools used by the local-ocr OpenCode skill.
+# Homebrew resolves OCRmyPDF's runtime dependencies (including Python and Ghostscript).
+# Validated here: OCRmyPDF 17.13.0, Poppler 26.06.0, Tesseract 5.5.3,
+# and tesseract-lang 4.1.0. These versions are recorded, not pinned.
+brew "ocrmypdf"
+brew "poppler"
+brew "tesseract"
+brew "tesseract-lang"
