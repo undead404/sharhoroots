@@ -22,10 +22,11 @@ Administrative directory of volost and other local offices, with their locations
 
 - Mogilev uyezd, printed page 162 (Internet Archive viewer leaf `n63`): the full list contains 14 offices and their locations. It includes «Сербянская — Бѣляны-Шаргородъ» and «Шаргородская — м. Шаргородъ»; the separate name «Беляно-Шаргородская» is not present on this page. Here «Бѣляны-Шаргородъ» is shorthand for the settlement «Бѣляны-Шаргородскіе», corresponding to «Беляны Шаргородские» under Serbyan volost in the 1905 digital index.
 - Yampol uyezd, printed page 162 (Internet Archive viewer leaf `n63`): «Краснянская — м. Красное» directly gives the listed seat of the Krasnyanskaya volost office as the townlet of Krasnoe in the 1913 directory.
+- Yampol uyezd, printed page 162 (Internet Archive viewer leaf `n63`): «Черновецкая — м. Черновцы» directly gives the listed seat of the Chernevtsy volost office as the townlet of Chernevtsy in 1913.
 
 ## Access and local copy
 
-- Full scan and OCR are available at [Internet Archive](https://archive.org/details/volostnyjastanichnyjaselskijagminnyj62); the relevant scan is [printed page 162, viewer leaf n63](https://archive.org/details/volostnyjastanichnyjaselskijagminnyj62/page/n63/mode/1up). The printed page image was inspected directly; OCR text was used to locate it, not as sole evidence. Bibliographic records: [National Electronic Library](https://rusneb.ru/catalog/000199_000009_003801686) and [Presidential Library](https://www.prlib.ru/item/404525). A full copy is not retained locally.
+- Full scan and OCR are available at [Internet Archive](https://archive.org/details/volostnyjastanichnyjaselskijagminnyj62); the relevant scan is [printed page 162, viewer leaf n63](https://archive.org/details/volostnyjastanichnyjaselskijagminnyj62/page/n63/mode/1up). The printed page image was inspected directly, including the Krasnyanskaya and Chernevtsy entries; OCR text was used to locate it, not as sole evidence. Bibliographic records: [National Electronic Library](https://rusneb.ru/catalog/000199_000009_003801686) and [Presidential Library](https://www.prlib.ru/item/404525). A full copy is not retained locally.
 
 ## Citation
 
