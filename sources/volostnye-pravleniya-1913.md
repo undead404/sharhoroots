@@ -21,7 +21,7 @@ Administrative directory of volost and other local offices, with their locations
 ## Useful locators
 
 - Mogilev uyezd, printed page 162 (Internet Archive viewer leaf `n63`): the full list contains 14 offices and their locations. It includes «Сербянская — Бѣляны-Шаргородъ» and «Шаргородская — м. Шаргородъ»; the separate name «Беляно-Шаргородская» is not present on this page. Here «Бѣляны-Шаргородъ» is shorthand for the settlement «Бѣляны-Шаргородскіе», corresponding to «Беляны Шаргородские» under Serbyan volost in the 1905 digital index.
-- Yampol uyezd appears in the adjacent column on the same printed page.
+- Yampol uyezd, printed page 162 (Internet Archive viewer leaf `n63`): «Краснянская — м. Красное» directly gives the listed seat of the Krasnyanskaya volost office as the townlet of Krasnoe in the 1913 directory.
 
 ## Access and local copy
 
@@ -29,4 +29,4 @@ Administrative directory of volost and other local offices, with their locations
 
 ## Citation
 
-*Волостныя, станичныя, сельския, гминныя правления и управления, а также полицейские станы всей России с обозначением места их нахождения*. Киев: Издательство товарищества Л. М. Фиша, 1913. Printed p. 162, «Могилевский уезд» entry; digitized scan, Internet Archive, viewer leaf n63, https://archive.org/details/volostnyjastanichnyjaselskijagminnyj62/page/n63/mode/1up. The scan page was inspected directly.
+*Волостныя, станичныя, сельския, гминныя правления и управления, а также полицейские станы всей России с обозначением места их нахождения*. Киев: Издательство товарищества Л. М. Фиша, 1913. Printed p. 162, «Могилевский уезд» and «Ямпольский уезд» entries; digitized scan, Internet Archive, viewer leaf n63, https://archive.org/details/volostnyjastanichnyjaselskijagminnyj62/page/n63/mode/1up. The scan page was inspected directly.
