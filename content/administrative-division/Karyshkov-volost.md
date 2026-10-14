@@ -19,7 +19,7 @@ type: AdministrativeArea
 
 ## Адміністративне становище (1885)
 
-У виданні волость названа «Корышковская» й віднесена до 3-го стану. ([*Волости и важнейшие селения Европейской России*, вип. III (1885), друк. с. 273, № 980](https://archive.org/details/MostImportantVillagesEuropeanRussia/1885.Vivser_Vyp_3_Gubernii_Malorossiyskie_I_Yugo-Zapadnye_1885/page/n143/mode/2up); перелік волостей за станами, друк. с. 285 ([скан](https://archive.org/details/MostImportantVillagesEuropeanRussia/1885.Vivser_Vyp_3_Gubernii_Malorossiyskie_I_Yugo-Zapadnye_1885/page/n148/mode/2up)))
+У виданні волость названа «Корышковская» й віднесена до 3-го стану. Під її заголовком у списку важливіших поселень наведено 13 позицій: «Корышковъ», «Берлядка», «Гальчинцы», «Грабовцы», «Долговцы», «Копайгородъ», «Кацмазовъ», «Лѣсовые Берлинцы», «Обуховъ», «Перепельчинцы», «Романковцы», «Степанки» та «Хреновка». Це перелік, поданий виданням як список важливіших поселень, а не доказ повного адміністративного складу волості. ([*Волости и важнейшие селения Европейской России*, вип. III (1885), друк. с. 273, розділ «92. Вол. Корышковская», № 976–988](https://archive.org/details/MostImportantVillagesEuropeanRussia/1885.Vivser_Vyp_3_Gubernii_Malorossiyskie_I_Yugo-Zapadnye_1885/page/n143/mode/2up); перелік волостей за станами, друк. с. 285 ([скан](https://archive.org/details/MostImportantVillagesEuropeanRussia/1885.Vivser_Vyp_3_Gubernii_Malorossiyskie_I_Yugo-Zapadnye_1885/page/n148/mode/2up)))
 
 ## Призовне районування (1873–1875)
 
