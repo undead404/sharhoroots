@@ -1,7 +1,7 @@
 ---
 title: Знайти документ про смерть Софрона Твердохліба
 type: ResearchTask
-status: open
+status: in_progress
 created: 2026-10-14
 targets:
   - content/administrative-division/Lozova-volost.md
