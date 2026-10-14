@@ -1,6 +1,6 @@
 # Sharhoroots project guidance
 
-This repository is an Obsidian vault published with Quartz 4. It serves genealogy, history, and lore researchers of the former Sharhorod raion and surrounding area.
+This repository is an Obsidian vault published with Quartz 4. It serves genealogy, lore, and history researchers focused on the territory that belonged to Sharhorod raion immediately before the 2020 administrative reform. This is a territorial scope, not a general interest in the former raion's surroundings. Areas, people, institutions, events, and records outside that territory are relevant only insofar as they directly document or explain the target territory or its inhabitants. The only external entities to cover in their own right are record-keeping institutions (such as churches or parishes) whose documented coverage overlaps the target territory, and administrative areas whose territory included any part of it; discuss them only in relation to that overlap. Do not include unrelated external records or entities merely because they are nearby or historically interesting.
 
 ## Working with the vault
 
