@@ -35,6 +35,13 @@ Keep source material on this machine. Do not upload documents to a remote OCR se
 - General OCR is not specialist handwriting recognition. For cursive archival records, assess a representative crop first and use a handwriting-recognition model suited to that script and period. Do not present generic OCR or a fluent model guess as a faithful transcription.
 - Do not run OCR over an entire archive when a few representative pages can establish whether the engine/language works.
 
+## Local helper tools
+
+- The core Vision OCR workflow does not require these helpers. Use OpenCode's built-in file tools for searches when possible; if using a shell search, use `rg` when available and fall back to `grep` rather than assuming `rg` exists.
+- For optional image preparation or contact sheets, use ImageMagick's `magick` command (for example, `magick montage ...`). Do not assume standalone `montage` or legacy `convert` executables exist. For basic macOS image inspection, conversion, or resizing, `sips` is also available. The Vision utility reads supported image formats directly, so image conversion is usually unnecessary.
+- Do not assume Python's `PIL`/Pillow module is installed, and do not install it into the system Python for this workflow. Prefer the Swift utility's ImageIO support or macOS `sips`; the OCR skill has no Pillow dependency.
+- If an optional helper is missing, check it with `command -v` and use the fallback above. If the helper is needed, install the declared Homebrew dependencies using the Reprovisioning command; do not repeatedly retry an unavailable command.
+
 ## Local setup checks
 
 ```sh
@@ -46,12 +53,12 @@ ocrmypdf --version
 
 ## Reprovisioning
 
-On macOS, install Xcode Command Line Tools (for `swift`) and Homebrew, then install the recorded CLI dependencies:
+On macOS, install Xcode Command Line Tools (for `swift`) and Homebrew, then install the recorded OCR and optional helper CLI dependencies:
 
 ```sh
 brew bundle install --no-upgrade --file .opencode/skills/local-ocr/Brewfile
 ```
 
-The Brewfile records direct formulae; Homebrew resolves their transitive dependencies. `--no-upgrade` avoids upgrading unrelated already-installed formulae. The versions in the Brewfile are a tested baseline, not a lock: Homebrew installs its current formula versions. Apple Vision, PDFKit, and ImageIO are macOS system frameworks, not Python packages or Brew formulae; the skill utility needs no project Python environment.
+The Brewfile records direct formulae; Homebrew resolves their transitive dependencies. `--no-upgrade` avoids upgrading unrelated already-installed formulae. The recorded OCR versions are a tested baseline, not a lock: Homebrew installs its current formula versions. Apple Vision, PDFKit, and ImageIO are macOS system frameworks, not Python packages or Brew formulae; the skill utility needs no project Python environment.
 
 Apple Vision is provided by macOS and runs locally. OCRmyPDF/Tesseract are optional complementary tools, not prerequisites for the Vision utility. If a tool is missing, report the exact missing executable and the affected workflow; do not confuse a missing optional tool with Vision being unavailable. OpenCode shell commands may require approval under project permissions.
