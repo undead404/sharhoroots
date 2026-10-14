@@ -5,11 +5,11 @@ creator: "Издательство товарищества Л. М. Фиша"
 date: "1913"
 type: "primary"
 language: "Russian"
-url: "https://rusneb.ru/catalog/000199_000009_003801686"
+url: "https://archive.org/details/volostnyjastanichnyjaselskijagminnyj62"
 shelfmark: ""
-access: "unknown"
+access: "public digital scan at Internet Archive"
 local_copy: ""
-last_checked: 2026-10-13
+last_checked: 2026-10-14
 ---
 
 # Волостныя, станичныя, сельския, гминныя правления и управления, а также полицейские станы всей России с обозначением места их нахождения
@@ -20,13 +20,13 @@ Administrative directory of volost and other local offices, with their locations
 
 ## Useful locators
 
-- Mogilev uyezd, page 162: lists 14 offices, including «Сербянская — Бѣляны-Шаргородъ» and «Шаргородская — м. Шаргородъ»; the separate name «Беляно-Шаргородская» is not present in the photographed list. Here «Бѣляны-Шаргородъ» is shorthand for the settlement «Бѣляны-Шаргородскіе», corresponding to «Беляны Шаргородские» under Serbyan volost in the 1905 digital index.
-- Yampol uyezd appears in the other user-provided crop from the same page, useful for comparing neighboring county entries.
+- Mogilev uyezd, printed page 162 (Internet Archive viewer leaf `n63`): the full list contains 14 offices and their locations. It includes «Сербянская — Бѣляны-Шаргородъ» and «Шаргородская — м. Шаргородъ»; the separate name «Беляно-Шаргородская» is not present on this page. Here «Бѣляны-Шаргородъ» is shorthand for the settlement «Бѣляны-Шаргородскіе», corresponding to «Беляны Шаргородские» under Serbyan volost in the 1905 digital index.
+- Yampol uyezd appears in the adjacent column on the same printed page.
 
 ## Access and local copy
 
-- [National Electronic Library catalog](https://rusneb.ru/catalog/000199_000009_003801686); [Presidential Library catalog record](https://www.prlib.ru/item/404525). The relevant page was provided as two image crops for this research. They remain in disposable `.agent-work/`; no reusable full copy is retained. Direct automated access to the NЭБ record returned HTTP 403; only the supplied page excerpt was inspected.
+- Full scan and OCR are available at [Internet Archive](https://archive.org/details/volostnyjastanichnyjaselskijagminnyj62); the relevant scan is [printed page 162, viewer leaf n63](https://archive.org/details/volostnyjastanichnyjaselskijagminnyj62/page/n63/mode/1up). The printed page image was inspected directly; OCR text was used to locate it, not as sole evidence. Bibliographic records: [National Electronic Library](https://rusneb.ru/catalog/000199_000009_003801686) and [Presidential Library](https://www.prlib.ru/item/404525). A full copy is not retained locally.
 
 ## Citation
 
-*Волостныя, станичныя, сельския, гминныя правления и управления, а также полицейские станы всей России с обозначением места их нахождения*. Киев: Издательство товарищества Л. М. Фиша, 1913. p. 162, «Могилевский уезд» and «Ямпольский уезд» entries. The excerpt was supplied by the user; the complete volume was not inspected.
+*Волостныя, станичныя, сельския, гминныя правления и управления, а также полицейские станы всей России с обозначением места их нахождения*. Киев: Издательство товарищества Л. М. Фиша, 1913. Printed p. 162, «Могилевский уезд» entry; digitized scan, Internet Archive, viewer leaf n63, https://archive.org/details/volostnyjastanichnyjaselskijagminnyj62/page/n63/mode/1up. The scan page was inspected directly.
