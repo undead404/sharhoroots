@@ -19,8 +19,10 @@ Use this skill when asked to edit, polish, clean up, or improve one or more vaul
 1. Read the whole target note, its frontmatter, and enough nearby or linked notes to understand its subject, structure, and conventions. Before relocating material, inspect the likely destination note.
 2. State the article's reader-facing question in your own reasoning. Keep material that answers it or provides necessary context; cut repetition, tangents, low-value source-comparison commentary, and research-process narration that does not help the reader.
 3. Rewrite for clear, economical Ukrainian prose unless the user requests another language. Preserve original-language quotations and titles when they are evidence. Follow the note's existing structure and style rather than imposing a template.
-4. Remove conversational artifacts such as assistant/user exchanges, prompt residue, self-referential drafting commentary, and chatty transitions. Do not mistake attributed testimony, oral tradition, or a necessary explanation of evidential limits for conversational filler.
-5. Keep reader-facing evidence qualifications that materially prevent misunderstanding. Move operational research notes (failed access, tool errors, search history, next-step reminders) out of published prose and into an existing relevant task/log when appropriate. Do not create a task for every removed aside.
+4. Prefer scannable structure over bulky paragraphs: split distinct points into a list, use a short heading or another Markdown structure when it helps readers find information, and keep connected explanation in prose. Do not add formatting just for its own sake.
+5. Avoid opaque internal identifiers in reader-facing prose, such as “У рядку 111001.” Refer to the record by its meaningful subject and use a human-readable source locator (for example, printed page, section, or entry) in the citation. Retain an identifier only if readers need it, and explain what it identifies.
+6. Remove conversational artifacts such as assistant/user exchanges, prompt residue, self-referential drafting commentary, and chatty transitions. Do not mistake attributed testimony, oral tradition, or a necessary explanation of evidential limits for conversational filler.
+7. Keep reader-facing evidence qualifications that materially prevent misunderstanding. Move operational research notes (failed access, tool errors, search history, next-step reminders) out of published prose and into an existing relevant task/log when appropriate. Do not create a task for every removed aside.
 
 ## Evidence and integrity
 
