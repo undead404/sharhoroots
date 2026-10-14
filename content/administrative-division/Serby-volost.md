@@ -14,15 +14,20 @@ type: AdministrativeArea
 ---
 ## Історія
 
+### 1876
+
+Лист № 408 від 31 серпня 1876 року на бланку **Сербівської волості** стосується Лозівського запасного магазину, яким завідував волосний старшина Лаврентій Матусяк. Це підтверджує зв’язок правління з магазином у Лозовій, але лист прямо не визначає адміністративної належності села ([ДАХмО, ф. 281, оп. 1, спр. 223, зображення 29](https://www.familysearch.org/uk/records/images/search-results?imageGroupNumbers=121308869)).
+
 ## 1885
 
-За виданням ["Волости и важнейшие селения Евр. России, вып. III" (1885)](https://archive.org/details/MostImportantVillagesEuropeanRussia/1885.Vivser_Vyp_3_Gubernii_Malorossiyskie_I_Yugo-Zapadnye_1885/page/n143/mode/2up) – належала до 3 стану [[Mogilev-uezd|Могилівського повіту]].
+За виданням ["Волости и важнейшие селения Евр. России, вып. III" (1885)](https://archive.org/details/MostImportantVillagesEuropeanRussia/1885.Vivser_Vyp_3_Gubernii_Malorossiyskie_I_Yugo-Zapadnye_1885/page/n149/mode/2up) **Сербівська волость** належала до 3 стану [[Mogilev-uezd|Могилівського повіту]]. Перелік населених пунктів наведено на друкованій с. 274 ([скан, сторінка n144](https://archive.org/details/MostImportantVillagesEuropeanRussia/1885.Vivser_Vyp_3_Gubernii_Malorossiyskie_I_Yugo-Zapadnye_1885/page/n144/mode/2up)).
 
 - село Серби (нині Гонтівка)
 - село [[Budne|Будне]]
 - село [[Ivashkivtsi|Івашківці]]
 - село [[Konatkivtsi|Конатківці]]
 - село [[Lozova|Лозова]]
+- сільце [[Teklivka|Теклівка]]
 - село Шаргородські Біляни (нині [[Biliany|Біляни]])
 - село Шендерівка
 

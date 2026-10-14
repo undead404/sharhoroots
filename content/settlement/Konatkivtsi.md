@@ -44,7 +44,7 @@ type: Place
 
 ### 1885
 
-> [!quote] ["Волости и важнейшие селения Евр. России, вып. III" (1885)](https://archive.org/details/MostImportantVillagesEuropeanRussia/1885.Vivser_Vyp_3_Gubernii_Malorossiyskie_I_Yugo-Zapadnye_1885/page/n143/mode/2up) – № 1033
+> [!quote] ["Волости и важнейшие селения Евр. России, вып. III" (1885), друк. с. 274](https://archive.org/details/MostImportantVillagesEuropeanRussia/1885.Vivser_Vyp_3_Gubernii_Malorossiyskie_I_Yugo-Zapadnye_1885/page/n144/mode/2up) – № 1033
 > Колишнє власницьке село Конатківці при річці Устриці.
 >
 > Дворів 150, мешканців 999.

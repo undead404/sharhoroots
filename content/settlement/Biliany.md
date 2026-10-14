@@ -30,7 +30,7 @@ type: Place
 
 На 1850 рік у Білянах княгині Кароліні Петрівні Вітгенштейн належало селян: 779 чоловіків, 746 жінок ([ДАВіО-177-1-1182а](https://drive.google.com/drive/folders/1opmIlG8LRHiAFX6j66bs9WGaViA_NHX7?usp=drive_link)).
 
-> [!quote] ["Волости и важнейшие селения Евр. России, вып. III" (1885)](https://archive.org/details/MostImportantVillagesEuropeanRussia/1885.Vivser_Vyp_3_Gubernii_Malorossiyskie_I_Yugo-Zapadnye_1885/page/n143/mode/2up) – № 1036
+> [!quote] ["Волости и важнейшие селения Евр. России, вып. III" (1885), друк. с. 274](https://archive.org/details/MostImportantVillagesEuropeanRussia/1885.Vivser_Vyp_3_Gubernii_Malorossiyskie_I_Yugo-Zapadnye_1885/page/n144/mode/2up) – № 1036
 > Колишнє власницьке село Шаргородські Біляни, на річці Лозовій.
 >
 > Дворів 430, мешканців 2350.

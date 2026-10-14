@@ -29,10 +29,10 @@ type: Place
 
 ### 1885
 
-> [!quote] ["Волости и важнейшие селения Евр. России, вып. III" (1885)](https://archive.org/details/MostImportantVillagesEuropeanRussia/1885.Vivser_Vyp_3_Gubernii_Malorossiyskie_I_Yugo-Zapadnye_1885/page/n143/mode/2up) – № 1035
-> **Теклівка**, колишнє власницьке сільце.
->
-> Дворів 113, мешканців 526.
+> [!quote] ["Волости и важнейшие селения Евр. России, вып. III" (1885), друк. с. 274](https://archive.org/details/MostImportantVillagesEuropeanRussia/1885.Vivser_Vyp_3_Gubernii_Malorossiyskie_I_Yugo-Zapadnye_1885/page/n144/mode/2up) – № 1035
+> Текловка, д. б. вл., дв. 113, ж. 526; п. д.
+
+Позначку «д.» (деревня) тут перекладаю як «сільце»: до появи власної парафії **Теклівка** була приписана до [[Lozova-orthodox-Intercession|парафії Лозової]]; власна парафія, ймовірно, постала на межі XIX–XX століть, близько 1901 року ([[Teklivka-orthodox-Marymas|Церква Різдва Богородиці]]). У довіднику поселення наведене в переліку Сербянської волості; зазначено 113 дворів і 526 мешканців.
 
 ### 1897
 
