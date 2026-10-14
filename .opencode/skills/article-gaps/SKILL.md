@@ -1,0 +1,38 @@
+---
+name: article-gaps
+description: Review a vault article for worthwhile unanswered historical or genealogical questions and create focused, non-duplicate research tasks in tasks/.
+---
+
+# Find researchable article gaps
+
+Review the specified article (or the article attached to the request), identify unanswered questions that could add meaningful value for genealogists or historians, and create research-task notes for the worthwhile ones. This is a task-triage pass, not research or article editing.
+
+## Workflow
+
+1. **Resolve the target.** Use the supplied repository-relative article path. If none is supplied, use the attached article. If there is no unambiguous article, ask which one; do not guess. Confirm it exists and read it in full, including frontmatter and headings.
+2. **Understand its scope and entity type.** Identify the reader-facing question, entity, period, and kinds of claims the article is meant to cover. Use its path and frontmatter (such as `type: Place`, `PlaceOfWorship`, or `Organization`) and its actual subject to choose relevant coverage checks below; do not force every check onto every article. Read directly linked notes and nearby relevant context only as needed to understand the article and avoid suggesting something it already answers. Do not turn this into a broad vault audit.
+3. **Check the research queue.** Read `tasks/TEMPLATE.md` and search `tasks/` for semantically overlapping tasks, not just matching filenames. Check tasks in every state so completed, blocked, or `no_result` work is not recreated as if new. An existing task may be reported as a match; do not silently edit or reopen it.
+4. **Check type-specific coverage as well as textual clues.** A useful gap may be entirely absent, so do not limit the audit to questions explicitly raised in the prose. Compare the article with the relevant prompts below, its own stated scope, and nearby articles of the same type. Treat these as questions to assess, not mandatory fields to fill mechanically:
+   - **Settlements and places:** historical names and their dates; administrative affiliations over time; constituent or dependent settlements where relevant; associated parishes and record coverage; important local institutions, communities, families, and people.
+   - **Administrative divisions:** when the unit existed; its administrative level, center, and parent unit; which settlements it covered, with dated evidence; and predecessor/successor units or boundary changes where useful.
+   - **Churches, parishes, and other places of worship:** settlements served and changes in the catchment over time; denomination/rite and institutional affiliations; available registers and their date ranges/gaps; documented operating history and building status (for example active, closed, repurposed, abandoned, or demolished), with dates and evidence where known; and notable clergy or congregants.
+   - **Organizations and institutions:** purpose and period of operation; area or population served; predecessor/successor or related entities; relevant records; and people whose roles or documented connections illuminate its history.
+   - **People connected to any entity:** check for notable or locally significant people and families with a sourced, meaningful connection—such as residents, founders, owners, clergy, officials, teachers, or community leaders—and for existing person notes that should be linked. “Famous” is not a required quota: do not invent a notable connection, imply kinship from a shared name, or create a task merely because no famous person is mentioned.
+
+   For each absent or thin area, ask whether it matters to genealogical or historical readers and whether a plausible research lead exists in the article, linked notes, repository source records, or relevant source collections already identified in the vault. Create tasks only for worthwhile answerable questions, not to satisfy a checklist.
+5. **Apply a reader-value and evidence gate.** For every candidate, state what reader-facing question it answers and what material misunderstanding or meaningful omission it could resolve. The article's silence alone is not evidence that information is missing, that an event occurred, or that an identity is correct. Do not invent facts, sources, relationships, or promising leads. Exclude generic requests to “add more detail,” speculative family connections, trivia, questions outside the article's scope, and gaps that would not materially improve understanding.
+6. **Create atomic tasks.** Create one task per independently answerable question, using `tasks/TEMPLATE.md` and the existing `tasks/research-*.md` naming and prose conventions. Each task must:
+   - use a concise, question-shaped title and a unique descriptive kebab-case filename;
+   - have frontmatter `type: ResearchTask`, `status: queued`, the current date, and a `targets` YAML list containing the target article path (plus another existing article only when the answer would genuinely inform it);
+   - explain the reader/research value, cite the exact article passage or linked-note lead that prompted the question, and preserve uncertainty;
+   - list only plausible search terms, collections, source types, or existing local leads, clearly as leads rather than evidence;
+   - state one verifiable completion condition in `## Критерій завершення`.
+
+   Preserve the template's sections and instructions. Do not claim that a source was inspected when it was not. Use `queued`: creating a task does not mean research has started. Do not create an umbrella task for independent questions or a task whose only deliverable is to improve wording.
+7. **Check navigation links separately from research gaps.** Prefer an Obsidian wikilink when a relevant local article exists. If a relevant entity (for example, a parish settlement) has no article in this site, it may be useful to link its name externally to the corresponding Wikipedia article for navigation. A narrow lookup may be used only to confirm that the exact Wikipedia page exists and refers to the same entity; do not use Wikipedia's content to support historical claims, cite it as evidence, or create a research task solely to add a navigation link. If the identity is ambiguous or no suitable page is confirmed, do not guess a URL. Report this as a link opportunity; do not edit the article.
+8. **Stay within scope.** Do not conduct substantive source research, edit article files, change existing task statuses or contents, create source records, or create articles. Do not search the web for historical facts. You may inspect an obviously relevant existing task or source record to determine whether a proposed gap is already addressed, but do not represent that inspection as verification of its underlying historical source.
+9. **Report clearly.** List every task created with its path and research question. Also list strong candidates already covered by an existing task, with that path; useful navigation-link opportunities for relevant entities without a local article (including a confirmed Wikipedia URL when available); and briefly explain any worthwhile-looking lead you excluded. If no task qualifies, say so and explain briefly; do not create a placeholder task.
+
+## Task quality check
+
+Before saving each task, verify that it has one answerable research question and one outcome; a concrete clue rather than an assumption; the correct article target(s); no duplicate in the queue; an honest `queued` status; and a completion condition that can be checked. A task is a research lead, not a finding, and its proposed source paths are not evidence until the source is actually examined.
