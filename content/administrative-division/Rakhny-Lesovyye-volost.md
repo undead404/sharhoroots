@@ -18,8 +18,8 @@ type: AdministrativeArea
 Утворена 1912 у складі:
 
 - [[Rakhny-Lisovi|Рахни-Лісові]]
-- Сліди
-- Бушинка
+- [Сліди](https://uk.wikipedia.org/wiki/Сліди_(Тульчинський_район))
+- [Бушинка](https://uk.wikipedia.org/wiki/Бушинка)
 - [[Strilnyky|Стрільники]]
 - [[settlement/Lopatyntsi|Лопатинці]]
 
