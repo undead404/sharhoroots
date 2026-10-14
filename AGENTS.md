@@ -17,6 +17,11 @@ This repository is an Obsidian vault published with Quartz 4. It serves genealog
 - Quartz builds the `content/` directory by default and ignores paths matching `private`, `templates`, `.obsidian`, and `**/*.excalidraw.md`. Keep research tasks in the repository-root `tasks/` directory, outside the published content tree; never copy them into generated site output.
 - Do not edit generated output or local Obsidian workspace state as a substitute for editing its source.
 
+## Python tooling
+
+- Use the repository's `uv` project (`pyproject.toml`, `uv.lock`, `.python-version`) for Python work. Restore dependencies with `uv sync --locked` and run Python scripts or commands with `uv run` (for example, `uv run python path/to/script.py`). Do not rely on system Python or install dependencies with `pip`.
+- Add Python dependencies with `uv add <package>` and commit the resulting `pyproject.toml` and `uv.lock` changes. Pillow's package name is `Pillow`; import it as `PIL` (for example, `from PIL import Image`).
+
 ## Quartz and verification
 
 - `npm run docs` runs the repository's Quartz build with its local preview server.
