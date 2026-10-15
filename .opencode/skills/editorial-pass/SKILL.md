@@ -19,12 +19,19 @@ Use this skill when asked to edit, polish, clean up, or improve one or more vaul
 
 1. Read the whole target note, its frontmatter, and enough nearby or linked notes to understand its subject, structure, and conventions. Before relocating material, inspect the likely destination note.
 2. State the article's reader-facing question in your own reasoning. Keep material that answers it or provides necessary context; cut repetition, tangents, low-value source-comparison commentary, and research-process narration that does not help the reader.
-3. Rewrite for clear, economical Ukrainian prose unless the user requests another language. Preserve original-language quotations and titles when they are evidence. Follow the note's existing structure and style rather than imposing a template.
+3. Rewrite for clear, economical Ukrainian prose unless the user requests another language. Preserve original-language quotations and titles when they are evidence. For historical articles, prefer chronological organization when the evidence and subject allow; preserve useful thematic structure when chronology would obscure the subject rather than imposing a timeline mechanically.
 4. Treat the frontmatter `description` as the explicit Quartz preview text: make it a compact summary of the article's subject and scope, not a generic tagline. If no description exists, add one in the existing YAML frontmatter style (or create frontmatter containing `description` if needed). Quartz uses this value instead of deriving the preview from body text, so keep it aligned with the article without requiring the opening body paragraph to duplicate it verbatim.
 5. Prefer scannable structure over bulky paragraphs: split distinct points into a list, use a short heading or another Markdown structure when it helps readers find information, and keep connected explanation in prose. Do not add formatting just for its own sake.
 6. Avoid opaque internal identifiers in reader-facing prose, such as “У рядку 111001.” Refer to the record by its meaningful subject and use a human-readable source locator (for example, printed page, section, or entry) in the citation. Retain an identifier only if readers need it, and explain what it identifies.
 7. Remove conversational artifacts such as assistant/user exchanges, prompt residue, self-referential drafting commentary, and chatty transitions. Do not mistake attributed testimony, oral tradition, or a necessary explanation of evidential limits for conversational filler.
 8. Keep reader-facing evidence qualifications that materially prevent misunderstanding. Move operational research notes (failed access, tool errors, search history, next-step reminders) out of published prose and into an existing relevant task/log when appropriate. Do not create a task for every removed aside.
+
+## Chronological organization
+
+- Treat dated events and people’s dated appearances, actions, or life milestones as points on the article’s timeline. Group them under explicit years or clearly labeled approximate year ranges where that helps readers follow the sequence.
+- Anchor each point to the event or milestone date, not the publication, record, or source date that reports it. Preserve the source’s precision and uncertainty (for example, an approximate date stays approximate); never infer a year or range merely to fill a gap.
+- A person's mention belongs at the point supported by the cited event or milestone; do not place a person by birth year alone when the passage concerns a later event. Keep undated material in a clearly contextual or thematic section instead of forcing it into the chronology.
+- Preserve the evidence, attribution, citations, and qualifications for every point when rearranging material. Check that the resulting timeline is in chronological order and that date ranges do not imply more precision than the sources support.
 
 ## Evidence and integrity
 
