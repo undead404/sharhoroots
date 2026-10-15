@@ -20,6 +20,13 @@ This repository is an Obsidian vault published with Quartz 4. It serves genealog
 - Quartz builds the `content/` directory by default and ignores paths matching `private`, `templates`, `.obsidian`, and `**/*.excalidraw.md`. Keep research tasks in the repository-root `tasks/` directory, outside the published content tree; never copy them into generated site output.
 - Do not edit generated output or local Obsidian workspace state as a substitute for editing its source.
 
+## Nysh CLI for archival research
+
+- Use the installed `nysh` CLI when a historical or genealogical question could benefit from its archive catalogs, settlement/parish indexes, fonds descriptions, shared transcriptions, or local scan workflow. First check existing tasks, reusable `sources/` records, and `books/`; then use the relevant source lookup (for example, `nysh sources`, `nysh find`, `nysh parish`, `nysh geog`, or `nysh registry`). Load the matching project skill in `.opencode/skills/` before following a specialized workflow. Nysh is an optional research tool, not a requirement for editing, general historical writing, or Quartz builds.
+- Treat Nysh results as leads with explicit coverage and freshness limits, not as historical evidence. A zero from an incomplete catalog is not proof of absence. For article claims, inspect the underlying source itself and cite the exact locator, following the research rules above.
+- Use case-download, HTR, record-ingest, sharing, cloud, or other stateful/costly workflows only when they fit the request and after following their Nysh skill; get confirmation before starting paid/remote work or publishing/sharing material. Keep Nysh workspaces and private scan data outside this vault unless the user explicitly chooses otherwise.
+- This repository is a Quartz history vault, not a Nysh family-canon site. Do not run `nysh site build` for it; its output and public-person rules do not match this project.
+
 ## Python tooling
 
 - Use the repository's `uv` project (`pyproject.toml`, `uv.lock`, `.python-version`) for Python work. Restore dependencies with `uv sync --locked` and run Python scripts or commands with `uv run` (for example, `uv run python path/to/script.py`). Do not rely on system Python or install dependencies with `pip`.
