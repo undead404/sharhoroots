@@ -37,6 +37,10 @@ type: PlaceOfWorship
 
 Паламар Кирило Шпачинський, за його власним проханням, був переведений паламарем до с. Букатинки ([П.Є.В. (1865) № 5](https://archive.org/details/podillya_vidomosti/PEV.1865/page/n75/mode/2up)).
 
+### 1866
+
+20 вересня священник Авксентій Бардашевський був виключений зі списків як померлий ([П.Є.В. (1866) № 22](https://archive.org/details/podillya_vidomosti/PEV.1866/page/n283/mode/2up)).
+
 ### 1901
 
 > [!quote] "[Приходы и церкви Подольской епархии (1901)](https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D1%85%D0%BE%D0%B4%D1%8B_%D0%B8_%D1%86%D0%B5%D1%80%D0%BA%D0%B2%D0%B8_%D0%9F%D0%BE%D0%B4%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B9_%D0%B5%D0%BF%D0%B0%D1%80%D1%85%D0%B8%D0%B8)"
