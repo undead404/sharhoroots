@@ -24,6 +24,7 @@ Administrative directory of volost and other local offices, with their locations
 - Yampol uyezd, printed page 162 (Internet Archive viewer leaf `n63`): «Мурафская — м. Мурафа» directly gives the listed location of the Murafa volost office in 1913.
 - Yampol uyezd, printed page 162 (Internet Archive viewer leaf `n63`): «Краснянская — м. Красное» directly gives the listed seat of the Krasnyanskaya volost office as the townlet of Krasnoe in the 1913 directory.
 - Yampol uyezd, printed page 162 (Internet Archive viewer leaf `n63`): «Черновецкая — м. Черновцы» directly gives the listed seat of the Chernevtsy volost office as the townlet of Chernevtsy in 1913.
+- Yampol uyezd, printed page 162 (Internet Archive viewer leaf `n63`): «Рожнятовская — с. Рожнятовка» directly gives the listed location of the Rozhniatovka volost office in 1913; the page image was inspected directly.
 
 ## Access and local copy
 
