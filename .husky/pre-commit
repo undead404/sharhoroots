@@ -1,1 +1,13 @@
-npx lint-staged
+# Obsidian launches Git without the shell PATH, so restore nvm's default Node.
+if ! command -v node >/dev/null 2>&1 && [ -s "$HOME/.nvm/nvm.sh" ]; then
+	export NVM_DIR="$HOME/.nvm"
+	. "$NVM_DIR/nvm.sh"
+	nvm use --silent default >/dev/null 2>&1 || true
+fi
+
+if ! command -v node >/dev/null 2>&1; then
+	echo "pre-commit: Node.js is not on PATH and nvm was not found; install Node.js or configure Obsidian's Git PATH."
+	exit 127
+fi
+
+lint-staged
