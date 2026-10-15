@@ -17,6 +17,10 @@ type: Place
 
 ## Історія
 
+### 1871
+
+У справі Подільської палати цивільного суду про купчу на маєток у **Деребчині** рукописна заява та копія купчої називають покупця «Аристу Эрнестову сыну Массу» (кадри 3 і 6). Це прямо пов'язує записаного в документі Ариста Масса з деребчинським маєтком; документ не уточнює зв'язку цього маєтку з окремою економією [[Arystivka|Аристівкою]]. Читання розходиться з біографією Ернста Маса, яка приписує купівлю маєтку самому Ернсту 1871 року; причину розбіжності не встановлено. ([ДАХмО, ф. 196, оп. 9, спр. 1418, група зображень 126661484, кадри 3 і 6](https://www.familysearch.org/uk/records/images/search-results?imageGroupNumbers=126661484); [Wolfgang Sartor, “Mahs, Ernst,” *Neue Deutsche Biographie online*, 01.03.2024](https://www.deutsche-biographie.de/gnd1306575567.html#dbocontent))
+
 ### 1885
 
 > [!quote] ["Волости и важнейшие селения Евр. России, вып. III" (1885)](https://archive.org/details/MostImportantVillagesEuropeanRussia/1885.Vivser_Vyp_3_Gubernii_Malorossiyskie_I_Yugo-Zapadnye_1885/page/n143/mode/2up) – № 1497:
