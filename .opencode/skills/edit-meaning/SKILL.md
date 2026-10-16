@@ -45,9 +45,8 @@ Do not add a blank or placeholder section merely to satisfy this list. If useful
 
 ## Research-gap tasks
 
-- Check `tasks/TEMPLATE.md` and search `tasks/` for semantic duplicates in **all** states before creating a task. Do not modify or reopen an existing task as part of this editorial pass; report it instead.
 - Create tasks only for meaningful unanswered historical/genealogical questions that could improve the article and have a concrete clue or plausible source lead. Do not create a task just to improve wording, fill an empty heading, or ask generically for more information. Do not conduct the research as part of this pass.
-- Use one Markdown task per independently answerable question, based on `tasks/TEMPLATE.md`, with `type: ResearchTask`, `status: queued`, the current date, a `targets` list, preserved uncertainty, the article passage or other concrete clue, plausible research leads clearly labeled as leads, and one verifiable completion condition. A task is not a finding.
+- For each worthwhile candidate, load and follow `create-research-task`. Supply the concrete article passage or other clue, the unanswered question, plausible leads, preserved uncertainty, and the target article path. Do not modify or reopen an existing task; report a duplicate instead. A task is a lead, not a finding.
 
 ## Frontmatter, language, and structural boundaries
 
