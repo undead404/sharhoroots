@@ -30,7 +30,7 @@ Keep source material on this machine. Do not upload documents to a remote OCR se
 
 ## Accuracy and evidence
 
-- Never send scan images, screenshots, or crops to an LLM or ask an LLM to inspect them. All OCR/HTR here must run locally. Text extracted locally may be analyzed as text, but OCR/HTR output is a reading aid, not verified source text; preserve uncertainty rather than silently repairing names, dates, numbers, or claims.
+- Never send scan images, screenshots, or crops to an LLM or ask an LLM to inspect them. All OCR/HTR here must run locally. Text extracted locally may be analyzed as text, but OCR/HTR output is a reading aid, not user-confirmed source text; preserve uncertainty rather than silently repairing names, dates, numbers, or claims. If the user supplies or corrects a transcription, accept that reading as established and preserve only uncertainty the user marks; do not use conflicting OCR output to cast doubt on it.
 - Preserve PDF page numbers. The Vision utility labels pages starting at 1; a printed page number may differ.
 - The utility emits recognized lines in approximate top-to-bottom order. It is not a table/layout reconstruction tool; use local tools to recover structure where possible, and do not ask an LLM to inspect the page for columns, tables, marginalia, or ambiguous reading order.
 - General OCR is not specialist handwriting recognition. For cursive archival records, use local HTR suited to that script and period when available; do not present generic OCR or a fluent model guess as a faithful transcription.
