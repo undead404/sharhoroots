@@ -18,7 +18,8 @@ Keep source material on this machine. Do not upload documents to a remote OCR se
    ```
 
    It processes PDFs page-by-page and common ImageIO image formats locally, defaults to `uk-UA`, `ru-RU`, and `pl-PL`, and prints page-labelled text. It disables language correction to avoid silently normalizing names or historical spelling. Use `--languages uk-UA,pl-PL` to narrow the languages or `--dpi 400` for a higher-resolution PDF render when small print is missed.
-3. If the deliverable is a searchable PDF rather than plain text, use OCRmyPDF/Tesseract:
+3. For cursive or other handwriting, use the local specialist HTR workflow when it is available and appropriate (for example, the `read-case` skill and `nysh read`). Follow that workflow's scope and resource safeguards; do not substitute an LLM's vision for local HTR.
+4. If the deliverable is a searchable PDF rather than plain text, use OCRmyPDF/Tesseract:
 
    ```sh
    ocrmypdf -l ukr+rus+pol --deskew input.pdf output-searchable.pdf
@@ -29,10 +30,11 @@ Keep source material on this machine. Do not upload documents to a remote OCR se
 
 ## Accuracy and evidence
 
-- OCR output is a reading aid, not verified source text. For names, dates, numbers, and claims, inspect the relevant source image/page and report uncertainty rather than silently repairing the OCR.
+- Never send scan images, screenshots, or crops to an LLM or ask an LLM to inspect them. All OCR/HTR here must run locally. Text extracted locally may be analyzed as text, but OCR/HTR output is a reading aid, not verified source text; preserve uncertainty rather than silently repairing names, dates, numbers, or claims.
 - Preserve PDF page numbers. The Vision utility labels pages starting at 1; a printed page number may differ.
-- The utility emits recognized lines in approximate top-to-bottom order. It is not a table/layout reconstruction tool; inspect the page for columns, tables, marginalia, and ambiguous reading order.
-- General OCR is not specialist handwriting recognition. For cursive archival records, assess a representative crop first and use a handwriting-recognition model suited to that script and period. Do not present generic OCR or a fluent model guess as a faithful transcription.
+- The utility emits recognized lines in approximate top-to-bottom order. It is not a table/layout reconstruction tool; use local tools to recover structure where possible, and do not ask an LLM to inspect the page for columns, tables, marginalia, or ambiguous reading order.
+- General OCR is not specialist handwriting recognition. For cursive archival records, use local HTR suited to that script and period when available; do not present generic OCR or a fluent model guess as a faithful transcription.
+- If local OCR/HTR is unavailable, fails, or leaves task-relevant text unreadable, ask the user to read the specific field or passage. Name the case/path, exact image filename, PDF page (and printed page if known), and the data needed. Do not ask vaguely to "read the scan" or request more transcription than the task requires. If an OCR executable is missing, report which local path could not run and still make the request specific when the target scan and needed field are known.
 - Do not run OCR over an entire archive when a few representative pages can establish whether the engine/language works.
 
 ## Local helper tools
