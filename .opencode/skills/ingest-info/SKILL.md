@@ -28,8 +28,8 @@ Take information supplied by the user and place only its useful, supported parts
 ## Edit conservatively
 
 - Preserve the destination article's frontmatter, structure, wording conventions, and existing table schemas. Add the detail in the most natural existing section and format. Create a heading only when needed to make a substantive addition understandable; do not create a generic catch-all section.
-- Write new article prose in Ukrainian unless the user requests another language. Preserve useful original-language quotations and source titles. Keep prose concise and distinguish what the supplied source states from interpretation or inference.
-- Preserve every supplied name, date, locator, URL, citation, attribution, and qualification that is relevant to the retained detail. Do not fabricate, complete, normalize by guesswork, or silently strengthen any of them. Do not imply that an uninspected source says more than the user's supplied description establishes.
+- Write all added article text in Ukrainian; do not switch languages at the user's request. Translate or summarize supplied quotations and source descriptions in Ukrainian. Preserve another language only for the exact title of an actual publication. Render foreign personal and place names in Ukrainian script, using established Ukrainian forms or consistent transliteration/transcription; do not add the original foreign spelling alongside them. Keep prose concise and distinguish what the supplied source states from interpretation or inference.
+- Preserve every supplied identity, date, locator, URL, citation, attribution, and qualification that is relevant to the retained detail; render names according to the `content/` language rule above. Do not fabricate, complete, normalize by guesswork, or silently strengthen any of them. Do not imply that an uninspected source says more than the user's supplied description establishes.
 - Add relevant Obsidian wikilinks only to existing notes. When revising prose, bold the article's title at its natural first mention, following the vault convention.
 - Check candidate destinations for existing coverage before adding. If the detail is already present, leave it unchanged unless the payload supplies a clear, non-conflicting improvement such as a missing citation or qualification. Do not silently replace conflicting article content with unverified supplied claims; report the conflict.
 - Do not update Quartz descriptions, unrelated prose, or other files as incidental cleanup.
@@ -37,6 +37,7 @@ Take information supplied by the user and place only its useful, supported parts
 ## Verify and report
 
 After editing, re-read the changed passages in context. Confirm that only justified destination articles changed, supplied evidence and uncertainty remain attached to the claims, and no duplicate was introduced. Check links touched by the edit and inspect the diff for unrelated changes.
+Confirm that all added reader-facing text is Ukrainian and that foreign personal and place names are rendered in Ukrainian script, except when part of an exact publication title.
 
 Report:
 

@@ -36,7 +36,7 @@ Extract only what the payload supplies:
 - number of folios/sheets, if supplied;
 - every supplied scan or document URL.
 
-Preserve the archival identifier and its digits exactly; format separators to match nearby rows (for example, `ЦДІАК 442-1-2088` may be styled `ЦДІАК-442-1-2088`). Translate Russian descriptions into concise Ukrainian table wording, as the user requested. This translation is an editorial rendering, not a verbatim archival title. Retain important names, roles, places, dates, and the source's uncertainty or allegations; do not add facts or imply that a catalog description proves the described event occurred.
+Preserve the archival identifier and its digits exactly; format separators to match nearby rows (for example, `ЦДІАК 442-1-2088` may be styled `ЦДІАК-442-1-2088`). Render the description in concise Ukrainian table wording; this is an editorial translation, not a verbatim archival title. Render foreign personal and place names in Ukrainian script, using established Ukrainian forms or consistent transliteration/transcription, and do not add the original foreign spelling alongside them. Retain important names, roles, places, dates, and the source's uncertainty or allegations; do not add facts or imply that a catalog description proves the described event occurred.
 
 For `Час`, use only years: a single year, a comma-separated list of years, or a year range, as supported by the supplied date(s). Strip day and month from full dates everywhere; for example, `6 жовтня 1836 — 4 лютого 1837` becomes `1836-1837`, while two full dates in the same year become that single year. Do not retain exact day/month dates in `Примітка`. Include a supplied folio count there. Do not infer dates or folio counts that the payload does not provide.
 
@@ -74,6 +74,7 @@ After editing:
 - confirm rows are valid Markdown and chronologically placed where the table's existing order is chronological;
 - search the target tables again to confirm no duplicate archival reference was introduced;
 - confirm links match the submitted URLs and no URL was inferred;
+- confirm table wording is Ukrainian and foreign personal and place names are rendered in Ukrainian script, except when part of an exact publication title;
 - inspect the diff for accidental changes to unrelated prose, frontmatter, or table rows.
 
 Report the target articles and sections, any section created, duplicate rows merged/skipped, ambiguous targets left untouched, and checks run. Do not claim that scan contents were verified unless they were separately inspected.
