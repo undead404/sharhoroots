@@ -30,8 +30,7 @@ This repository is an Obsidian vault published with Quartz 4. It serves genealog
 
 ## Python tooling
 
-- Use the repository's `uv` project (`pyproject.toml`, `uv.lock`, `.python-version`) for Python work. Restore dependencies with `uv sync --locked` and run Python scripts or commands with `uv run` (for example, `uv run python path/to/script.py`). Do not rely on system Python or install dependencies with `pip`.
-- Add Python dependencies with `uv add <package>` and commit the resulting `pyproject.toml` and `uv.lock` changes. Pillow's package name is `Pillow`; import it as `PIL` (for example, `from PIL import Image`).
+- Before any Python work—including writing, running, testing, or adding Python dependencies—load `.opencode/skills/python-tools/SKILL.md` and follow it. The skill contains the Python project configuration under `.opencode/skills/python-tools/` so Cloudflare Pages does not detect the vault root as a Python project.
 
 ## Quartz and verification
 
