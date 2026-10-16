@@ -10,6 +10,7 @@ tags:
   - village
   - hamlet
 title: Юліямпіль
+type: Place
 ---
 ## Історія
 

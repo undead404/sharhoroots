@@ -1,4 +1,5 @@
 import z from "zod";
+import { schemaOrgTypes } from "./schemaOrgTypes";
 
 const nonEmptyString = z.string().min(1);
 
@@ -10,14 +11,8 @@ export const frontmatterSchema = z.object({
   dissolutionDate: z.optional(z.number().min(0)),
   foundingDate: z.optional(z.number().min(0)),
   tags: z.optional(z.nullable(z.array(nonEmptyString))),
-  title: nonEmptyString,
-  type: z.optional(z.union([
-    z.literal("AdministrativeArea"),
-    z.literal("GovernmentOrganization"),
-    z.literal('Organization'),
-    z.literal("Place"),
-    z.literal('PlaceOfWorship')
-  ])),
+  title: z.string().trim().min(1),
+  type: z.enum(schemaOrgTypes),
 });
 
 export type Frontmatter = z.infer<typeof frontmatterSchema>;

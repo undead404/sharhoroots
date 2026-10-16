@@ -2,6 +2,7 @@
 aliases:
   - Хутір Дячковського
 title: Хутір Дячковського
+type: Place
 tags:
   - khutir
   - defunct

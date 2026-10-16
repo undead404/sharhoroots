@@ -10,6 +10,7 @@ tags:
   - khutir
   - defunct
 title: Мишівське
+type: Place
 ---
 ## Історія
 
