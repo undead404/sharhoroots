@@ -5,6 +5,7 @@ This repository is an Obsidian vault published with Quartz 4. It serves genealog
 ## Working with the vault
 
 - Preserve existing Markdown structure, YAML frontmatter, Obsidian wikilinks, embeds, and naming conventions. Prefer the conventions of nearby notes over introducing a new format.
+- Whenever creating or editing YAML frontmatter under `content/`, load and follow the `content-frontmatter` skill. Treat its field definitions as the standard for metadata; keep optional fields optional, do not guess missing values, and do not make unrelated metadata sweeps.
 - Whenever creating or editing a `Дотичні фонди` table, load and follow the `related-fonds-table` skill, regardless of which command or workflow triggered the edit.
 - Whenever creating or editing a `Переписи та ревізії` section or its table, load and follow the `census-revision-table` skill, regardless of which command or workflow triggered the edit.
 - Whenever creating or editing a `Дотичні справи` table, load and follow the `related-cases-table` skill, regardless of which command or workflow triggered the edit. The specialized census/revision rule takes precedence for `Переписи та ревізії` tables.
