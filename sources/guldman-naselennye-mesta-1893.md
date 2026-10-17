@@ -9,7 +9,7 @@ url: "https://archive.org/details/guldmanvknaselennyemestapodolskojgub65"
 shelfmark: "Internet Archive: guldmanvknaselennyemestapodolskojgub65"
 access: "open"
 local_copy: "books/guldman-naselennye-mesta-podolskoi-gubernii-1893.pdf"
-last_checked: 2026-10-14
+last_checked: 2026-10-18
 ---
 
 # Населенные места Подольской губернии (1893)
@@ -20,6 +20,7 @@ An alphabetical directory of settlements in Podolia, with administrative affilia
 
 ## Useful locators
 
+- Printed p. 590 (local PDF p. 601; [Internet Archive viewer leaf n600](https://archive.org/details/guldmanvknaselennyemestapodolskojgub65/page/n600/mode/1up)): user-provided transcription of the table row reads «Волость Копайгородская / Уезда Могилевскаго» and gives the benefice and excise districts. This directly attests the volost in Mogilev uyezd in the 1893 directory; the transcription was supplied by the user after OCR surfaced the locator.
 - Printed p. 56 (local PDF p. 68): «Бѣляны Шаргородскія, с., Могилевскаго уѣзда, Сербянской волости». The entry gives 323 households and 3,070 residents, and lists distances and local administrative/judicial districts. Checked against the page image; preserve the source's spelling. The reported figures describe this entry, not necessarily directly comparable measurements from another edition.
 
 ## Access and local copy
