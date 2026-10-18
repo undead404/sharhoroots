@@ -38,7 +38,7 @@ type: Organization
 
 ### 1799
 
-Імператорським указом осідок архієпископа визначили в Кам'янці, тож єпископ Іоанникій переїхав туди із Шаргорода ([П.Є.В. (1863) № 14](https://archive.org/details/podillya_vidomosti/PEV.1863/page/n709/mode/2up), [П.Є.В. (1865) № 20](https://archive.org/details/podillya_vidomosti/PEV.1865/page/869/mode/2up)).
+Імператорським указом осідок архієпископа визначили в [Кам'янці](https://uk.wikipedia.org/wiki/Кам%27янець-Подільський), тож єпископ Іоанникій переїхав туди із Шаргорода ([П.Є.В. (1863) № 14](https://archive.org/details/podillya_vidomosti/PEV.1863/page/n709/mode/2up), [П.Є.В. (1865) № 20](https://archive.org/details/podillya_vidomosti/PEV.1865/page/869/mode/2up)).
 
 Префектом Шаргородської семінарії, а також учителем, став парох [[Sharhorod-orthodox-John-Forerunner|Церкви Івана Предтечі]] Андрій Кисилевський ([П.Є.В. (1865) № 21](https://archive.org/details/podillya_vidomosti/PEV.1865/page/915/mode/2up)).
 
