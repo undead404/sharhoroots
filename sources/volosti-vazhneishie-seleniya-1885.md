@@ -9,7 +9,7 @@ url: "https://archive.org/details/MostImportantVillagesEuropeanRussia"
 shelfmark: ""
 access: "open"
 local_copy: ""
-last_checked: 2026-10-14
+last_checked: 2026-10-18
 ---
 
 # Волости и важнейшие селения Европейской России. Выпуск III
@@ -20,7 +20,7 @@ Official statistical directory of volosts and significant settlements in the sou
 
 ## Useful locators
 
-- Podolia governorate, Yampol uyezd: printed p. 282, section «145. Вол. Мурафская»; entry no. 1497 identifies «Деребчинъ». The scan is available at [Internet Archive, page n147](https://archive.org/details/MostImportantVillagesEuropeanRussia/1885.Vivser_Vyp_3_Gubernii_Malorossiyskie_I_Yugo-Zapadnye_1885/page/n147/mode/2up). The matching full-text OCR is [available here](https://archive.org/stream/MostImportantVillagesEuropeanRussia/1885.Vivser_Vyp_3_Gubernii_Malorossiyskie_I_Yugo-Zapadnye_1885_djvu.txt).
+- Подільська губернія, Ямпільський повіт: друк. с. 283, рубрика «145. Вол. Мурафская», № 1496–1506 — 11 записів поселень. № 1496 називає волосне правління у Старій Мурафі. [Internet Archive, розворот n148](https://archive.org/details/MostImportantVillagesEuropeanRussia/1885.Vivser_Vyp_3_Gubernii_Malorossiyskie_I_Yugo-Zapadnye_1885/page/n148/mode/2up), PDF-стор. 149. Користувацьке читання всіх 11 записів отримано 2026-10-18 та збережено в `tasks/research-murafa-volost-1885-complete-roster.md`; це підстава завершеної звірки, а не машинний OCR. Попередній локатор «с. 282, n147» для цієї рубрики виправлено. [Машинний OCR видання](https://archive.org/stream/MostImportantVillagesEuropeanRussia/1885.Vivser_Vyp_3_Gubernii_Malorossiyskie_I_Yugo-Zapadnye_1885_djvu.txt) залишається лише допоміжним текстом.
 - Podolia governorate, Yampol uyezd: printed pp. 284–285, «Перечень волостей по станам»; p. 285 explicitly places Murafa volost in the 2nd and 3rd police camps. [Internet Archive scan, page n149](https://archive.org/details/MostImportantVillagesEuropeanRussia/1885.Vivser_Vyp_3_Gubernii_Malorossiyskie_I_Yugo-Zapadnye_1885/page/n149/mode/2up).
 - Podolia governorate, Yampol uyezd: printed pp. 282–283, entry no. 1525 lists «Дружинъ» under «147. Вол. Рожнятовская»; the county’s volost-by-camp list on p. 285 includes Rozhnyatovskaya but not a separately named Dzhuryn volost. [Internet Archive scan, pages n147–n148](https://archive.org/details/MostImportantVillagesEuropeanRussia/1885.Vivser_Vyp_3_Gubernii_Malorossiyskie_I_Yugo-Zapadnye_1885/page/n147/mode/2up).
 - Podolia governorate, Yampol uyezd: printed pp. 282–283, «144. Вол. Краснянская», entries nos. 1484–1495 list 12 important settlements. [Internet Archive scan, page n148](https://archive.org/details/MostImportantVillagesEuropeanRussia/1885.Vivser_Vyp_3_Gubernii_Malorossiyskie_I_Yugo-Zapadnye_1885/page/n148/mode/2up).
@@ -37,4 +37,4 @@ Official statistical directory of volosts and significant settlements in the sou
 
 ## Citation
 
-Центральный статистический комитет. *Волости и важнейшие селения Европейской России. Вып. III: Губернии Малороссийские и Юго-Западные*. Санкт-Петербург, 1885. Подольская губерния, Могилевский уезд, печатная с. 274, раздел «98. Вол. Сербянская», записи № 1030–1037; Ямпольский уезд, печатная с. 282, раздел «145. Вол. Мурафская», запись № 1497; pp. 284–285, перечень волостей по станам.
+Центральный статистический комитет. *Волости и важнейшие селения Европейской России. Вып. III: Губернии Малороссийские и Юго-Западные*. Санкт-Петербург, 1885. Подольская губерния, Могилевский уезд, печатная с. 274, раздел «98. Вол. Сербянская», записи № 1030–1037; Ямпольский уезд, печатная с. 283, раздел «145. Вол. Мурафская», записи № 1496–1506; pp. 284–285, перечень волостей по станам.

@@ -15,12 +15,12 @@ type: Place
 
 ### 1885
 
-> [!quote] "[Волости и важнейшие селения Евр. России, вып. III" (1885)](https://archive.org/details/MostImportantVillagesEuropeanRussia/1885.Vivser_Vyp_3_Gubernii_Malorossiyskie_I_Yugo-Zapadnye_1885/page/n143/mode/2up) – № 1500
-> Колишнє власницьке сільце Клекотин.
+> [!quote] ["Волости и важнейшие селения Евр. России, вып. III" (1885)](https://archive.org/details/MostImportantVillagesEuropeanRussia/1885.Vivser_Vyp_3_Gubernii_Malorossiyskie_I_Yugo-Zapadnye_1885/page/n148/mode/2up) — с. 283, № 1500
+> Колишнє власницьке сільце **Клекотин** (нині Клекотина). У складі [[Murafa-volost|Мурафської волости]].
 >
 > Дворів 148, мешканців 949.
 >
-> 2 водні млини.
+> Заклад, позначений скороченням «п. д.», 2 водні млини.
 
 ### 1897
 
