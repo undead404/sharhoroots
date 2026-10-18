@@ -114,7 +114,7 @@
     "check": "npm run lint:frontmatter && npm test && tsc --noEmit && npx prettier . --check",
     "docs": "npx quartz build --serve -d docs",
     "format": "npx prettier . --write",
-    "lint:markdown": "markdownlint-cli2 \"AGENTS.md\" \".opencode/**/*.md\" \"content/**/*.md\" \"sources/**/*.md\" \"tasks/**/*.md\"",
+    "lint:markdown": "markdownlint-cli2 \"AGENTS.md\" \".agents/**/*.md\" \".opencode/**/*.md\" \"content/**/*.md\" \"sources/**/*.md\" \"tasks/**/*.md\"",
     "lint:frontmatter": "tsx scripts/check-frontmatter.ts",
     "prepare": "husky",
     "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1",
