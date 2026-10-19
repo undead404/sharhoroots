@@ -75,12 +75,13 @@ type: Place
 ## Переписи та ревізії
 
 | Роки | Архівна справа   | Посилання                                                                                                                   | Примітка                                        |
-| ---- | ---------------- | --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
+| ---- | -------------- | --------- | -------- |
 | 1834 | ДАВіО-177-1-1149 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1GrexEHxYvRVHiJ5bpL3cJOlcrQQ5PnDW?usp=drive_link) | Підшивка, див. 589а. Ревізькі казки, однодворці |
 | 1850 | ДАВіО-177-1-1172 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1FNIPJ7CQr7bbG75sO7VvFRCnjvBKISp1?usp=drive_link) | Підшивка, див. 1108. Ревізька казка, селяни     |
 | 1854 | ДАВіО-177-1-1186 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1DBle7rStZGFL7ZhJNhGfYv1_bNGDQCQ6?usp=drive_link) | Підшивка, див. 1357. Ревізькі казки, однодворці |
 | 1858 | ДАВіО-177-1-1188 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1Ky3e6Gx97epezSIEUTmQv9OlFNYvpPPE?usp=drive_link) | Підшивка, див. 381. Ревізькі казки, селяни      |
 | 1858 | ДАВіО-177-1-1194 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1a1ViPJx8fJgZ1_iukI-XVjhUuYas1GtR?usp=drive_link) | Підшивка, 1029, 1069. Ревізькі казки, військові |
+| 1888 | ДАВіО-331-1-14 |  | Посімейний список с. Козлівки; 45 арк. ([опис ДАВіО, ф. 331, оп. 1](https://davio.gov.ua/funds/d/d331-1.pdf)). **☠️ Фонд 331 — у переліку фондів із дустом** ([ДАВіО, с. 6](https://davio.gov.ua/pub/book/rdust.pdf#page=6)). |
 
 ## Дотичні справи
 

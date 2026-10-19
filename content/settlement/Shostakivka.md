@@ -101,13 +101,14 @@ type: Place
 ## Переписи та ревізії
 
 | Роки | Архівна справа   | Посилання                                                                                                                   | Примітка                                          |
-| ---- | ---------------- | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
+| ---- | -------------- | --------- | -------- |
 | 1811 | ДАВіО-177-1-1103 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1gtDFNiwhKNvrXiY0VegC5_V04r8ECb_B?usp=drive_link) | Підшивка, див. 15. Ревізька казка, чиншова шляхта |
 | 1834 | ДАВіО-177-1-1137 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1oROcCNpeCULiv6k38N2G-e8NTg7iFIwu?usp=drive_link) | Підшивка, див. 878. Ревізька казка, однодворці    |
 | 1854 | ДАВіО-177-1-1185 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1kGTm02jtrrDquMNSMkbWN9t_MRQ0oZ48?usp=drive_link) | Підшивка, див. 1205. Однодворці                   |
 | 1858 | ДАВіО-177-1-1197 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1rNNwVKDbpkb2GSRZiD8fBMhqi54UTCW5?usp=drive_link) | Підшивка, див. 658. Ревізька казка, селяни        |
 | 1858 | ДАВіО-177-1-1199 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1hXL5rKyJQwOI9sa8gpCujAV6G_ka1uDt?usp=drive_link) | Підшивка, див. 1037 Ревізькі казки, військові     |
 | 1858 | ДАВіО-177-1-1199 | [Сергій Фазульянов - Google Drive](https://drive.google.com/drive/folders/1hXL5rKyJQwOI9sa8gpCujAV6G_ka1uDt?usp=drive_link) | Підшивка, див. 1037. Ревізькі казки, військові.   |
+| 1881 | ДАВіО-331-1-7 |  | Подвірний список с. Шостаківки; 94 арк. ([опис ДАВіО, ф. 331, оп. 1](https://davio.gov.ua/funds/d/d331-1.pdf)). **☠️ Фонд 331 — у переліку фондів із дустом** ([ДАВіО, с. 6](https://davio.gov.ua/pub/book/rdust.pdf#page=6)). |
 
 ## Дотичні справи
 
