@@ -113,6 +113,10 @@ type: Place
 
 Містом досі володіли Любомирські ([П.Є.В. (1863) № 14](https://archive.org/details/podillya_vidomosti/PEV.1863/page/n709/mode/2up)).
 
+### 1878
+
+20 вересня у **Шаргороді**, в канцелярії судового слідчого 1-го участка [[Mogilev-uezd|Могилівського повіту]], виконувач обов'язків слідчого 2-го участка допитав Якова Андрійовича Кордона — 55-річного селянина Сербів. Кордон свідчив про виконання обов'язків старшини [[Serby-volost|Сербівської волості]] та складання акта щодо роздачі хліба із запасного магазину [[Lozova|Лозової]]. За неписьменного свідка підписався Лазар ([ДАХмО, ф. 281, оп. 1, спр. 223, арк. 82, зображення 90](https://www.familysearch.org/uk/records/images/search-results?imageGroupNumbers=121308869)).
+
 ### 1885
 
 > [!quote] ["Волости и важнейшие селения Евр. России, вып. III" (1885)](https://archive.org/details/MostImportantVillagesEuropeanRussia/1885.Vivser_Vyp_3_Gubernii_Malorossiyskie_I_Yugo-Zapadnye_1885/page/n143/mode/2up) – № 1056
