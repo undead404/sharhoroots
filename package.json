@@ -108,14 +108,14 @@
   },
   "lint-staged": {
     "**/*.md": "markdownlint-cli2",
-    "content/**/*.md": "tsx scripts/check-frontmatter.ts"
+    "content/**/*.md": "node --import tsx scripts/check-frontmatter.ts"
   },
   "scripts": {
     "check": "npm run lint:frontmatter && npm test && tsc --noEmit && npx prettier . --check",
     "docs": "npx quartz build --serve -d docs",
     "format": "npx prettier . --write",
     "lint:markdown": "markdownlint-cli2 \"AGENTS.md\" \".agents/**/*.md\" \".opencode/**/*.md\" \"content/**/*.md\" \"sources/**/*.md\" \"tasks/**/*.md\"",
-    "lint:frontmatter": "tsx scripts/check-frontmatter.ts",
+    "lint:frontmatter": "node --import tsx scripts/check-frontmatter.ts",
     "prepare": "husky",
     "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1",
     "quartz": "./quartz/bootstrap-cli.mjs",
