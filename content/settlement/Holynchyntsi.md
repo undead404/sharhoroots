@@ -86,3 +86,7 @@ type: Place
 | 1892-1893 | ДАХмО-281-1-3603  | Справа про знайдений труп дитини в с. Голинчинцях Ямпільського повіту                                                                                                                  | [FamilySearch](https://www.familysearch.org/uk/records/images/search-results?imageGroupNumbers=121940233) |          |
 | 1897      | ДАХмО-281-1-5332  | Справа про звинувачення селянина села Голинчинців Ямпільського п. Говзінського С. у замаху на зґвалтування селянки Коникової А.                                                        | [FamilySearch](https://www.familysearch.org/uk/records/images/search-results?imageGroupNumbers=121943461) |          |
 | 1927      | ДАВіО-Р2217-6-91  | Список осіб, позбавлених виборчих прав, по Джуринському району                                                                                                                         | [Google Photos](https://photos.app.goo.gl/kc1cSv4Ehv8wwuhK6)                                              | За покажчиком змісту розділ починається на с. 25; додані особи — на с. 31. |
+
+## Див. також
+
+- [[Syniozhupannyky|Синьожупанники]]
