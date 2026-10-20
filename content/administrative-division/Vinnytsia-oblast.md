@@ -12,6 +12,10 @@ tags:
 type: AdministrativeArea
 ---
 
+> [!figure]
+> ![[vinnytsia-oblast-districts-2020.jpg]]
+> _Карта районів і територіальних громад Вінницької області, 2020 рік. У легенді оригіналу райони позначено як проєктні; червоним показано їхні межі та центри, білим — межі громад. Міністерство розвитку громад та територій України. [Джерело: Вікісховище](https://commons.wikimedia.org/wiki/File:Vinnytsia_Oblast_2020_subdivisions.jpg). [Ліцензія CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Без змін._
+
 ## Історія
 
 ### 1932

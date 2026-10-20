@@ -8,6 +8,11 @@ coordinates:
 title: Ярошенка (залізнична станція)
 type: Place
 ---
+
+> [!figure]
+> ![[yaroshenka-station-2017.jpg]]
+> _Будівля вокзалу станції Ярошенка з боку колій, 29 січня 2017 року. Авторка — токатема. [Джерело: Вікісховище](https://commons.wikimedia.org/wiki/File:Ярошенка_(станція).jpg). Ліцензія [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)._
+
 ## Історія
 
 ### 1925
