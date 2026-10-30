@@ -1,24 +1,27 @@
 {
- "version": "0.35.0",
+ "version": "0.38.6",
  "files": {
   "find-surname/references/antipatterns.md": "8e4cf12f8b9b7ae918958b6565907e1b78c191c2cd5bad042b671bd3fa0832fa",
-  "find-surname/references/search-channels.md": "d47a2256ef83d57806239d87f41815cdb044c37e23e68d1353bf8b5769235598",
+  "find-surname/references/search-channels.md": "7c18837da101ed6644673fa5de7c3ae75b11a91226951f976e72bd5f0da7b5d4",
   "find-surname/references/workflows.md": "80ed67d9d30bbd8b53ef6745b4d7f33d5a485c4ecd45c3386974f9c1163017a6",
-  "keep-canon/references/canon.md": "7bcee3783241d6645bd1d5c3c2d187986e2d80df978ea686539925e813b54ba9",
-  "read-case/references/htr-tuning.md": "97c255d0e0dd16bfbc763163a4537ac40afc07144016efecc661673758d371b4",
+  "keep-canon/references/canon.md": "57423ab436d35be9e7853debd7def436d7d9d7b9166853bfc9df6afd3160e74b",
+  "read-case/references/htr-tuning.md": "15c058fd41e8f0e8051adb60e31bffc8637f6e13874f72bb3a69abaa15c78261",
   "start-research/references/case-folders.md": "497cdda69dfae7e9d7a017e6f2ea3ae4c2aed5fc68e136433501bdc6a33dbf0b",
-  "start-research/references/first-session.md": "8f679ceb74767abd9740d5f477fec503bb455c587eed504ce013df6bde6ed922",
-  "where-to-dig/references/where-to-dig-archives.md": "c862413ac57575a3bd8e045d8313d1134f7cad9d0ba8d7987653fbc681ceba2d",
-  "where-to-dig/references/where-to-dig-channels.md": "0e75b6fef97f9efd4bab369ee52ee1d48b4a82a9bd4b0916eed42ade9da49ffa",
-  "where-to-dig/references/where-to-dig-genres.md": "8cb8650e959dec228636ce6f08d8e90e687e47a9dd045ee0198dcd37b225b8ef",
-  "where-to-dig/references/where-to-dig-traditions.md": "0066ff3eda3f781f7a9bb99f4f99ed7edfc912264188a288986c8fbb93f02962",
-  "where-to-dig/references/where-to-dig.md": "d93103d4ca0f430720048f4058f15ec163996c1df5d06f01e89725dbbcdf71f5",
+  "start-research/references/first-session.md": "d22d234f6d7f43c2d81b9fc823c327bcf26f94c48f3b29a7ae8b2cdb78ef8673",
+  "where-to-dig/references/where-to-dig-archives.md": "dd5b932d223c190765698473e58a7b48eddd742cf5eb6efd81a092de929097b0",
+  "where-to-dig/references/where-to-dig-channels.md": "7d3c58739a3cb99be3524f66940471ff0fc9db97c9ccf44fd0a95cd1b0b2b1b1",
+  "where-to-dig/references/where-to-dig-genres.md": "6e3e618ed67b549e9a8f29a2cba2c552d8b51037e5243eb4c70fcc238e29deb0",
+  "where-to-dig/references/where-to-dig-traditions.md": "82c8ee8fea82933d6e38e7f7a00c4b43712927b112a8cc1c98beb524e1d05c8e",
+  "where-to-dig/references/where-to-dig.md": "4c8ba9e6ded57021dc9a3ec06e48eb519002594ab63da3192b6008df005e3b13",
   "build-site/SKILL.md": "925b813e5f40eea703030c4bc6f22b990752f2cc1fbb97df2d420bc341a76092",
   "case-notebook/SKILL.md": "c319dde21d6b9d1b0641ec901cf13e20422bd35e8b2e4003683cb2975cb20c48",
   "label-lines/SKILL.md": "d9ba76b52891b85551fbd27ec0bc0fca90279736018d7622e5e7350362d232e5",
   "label-lines/references/arbiter-prompt.md": "37434d025af9d5aee86445e6c3a23a04c447bbb2a11a733f83fd36ecca3e96fc",
   "label-lines/references/label-genres.md": "33c7945030930f57466c4f6341163fffbd217509fb12dc7d461679fdfb6feb1a",
   "run-case-remote/references/cloud-reading.md": "9ad6e542a82983426f6e5fbb48e520aa4082da7323580f9e740ce6c22722e15f",
-  "train-model/SKILL.md": "7551783135da9fae5ebe6f89896c5352733561cc0792728ce194fa8c2c955351"
+  "train-model/SKILL.md": "7551783135da9fae5ebe6f89896c5352733561cc0792728ce194fa8c2c955351",
+  "share-case/references/share-special.md": "c10073f5818dfef6127a6b61fd1f2c3968fa84bbb870a63ab68877034cfb8b2f",
+  "zvid/SKILL.md": "94e6483483eaf2bb778d28739a58dd5f221c67eb97acb6e955e86744c9065e63",
+  "zvid/references/zvid-agent-prompt.md": "aafbca60077a7cc3dff1ae6d1ca4120b4c6f648db52b475bc6b4149e48bf687d"
  }
 }

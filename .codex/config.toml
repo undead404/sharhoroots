@@ -3,5 +3,5 @@ approval_policy = "on-request"
 approvals_reviewer = "user"
 
 [sandbox_workspace_write]
-writable_roots = ["/Users/Vitalii_Perehonchuk/Projects/fornysh"]
+writable_roots = ["/Users/Vitalii_Perehonchuk/Documents/Нишпорка"]
 network_access = true
