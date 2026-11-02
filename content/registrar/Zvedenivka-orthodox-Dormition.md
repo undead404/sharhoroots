@@ -27,6 +27,10 @@ type: PlaceOfWorship
 
 Церква згоріла; пізніше на її місці з'явилася нова ([Приходы и церкви Подольской епархии (1901)](https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D1%85%D0%BE%D0%B4%D1%8B_%D0%B8_%D1%86%D0%B5%D1%80%D0%BA%D0%B2%D0%B8_%D0%9F%D0%BE%D0%B4%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B9_%D0%B5%D0%BF%D0%B0%D1%80%D1%85%D0%B8%D0%B8)).
 
+### 1799
+
+У топографічному описі 1799 року **церква Успіння Богородиці** у [[Zvedenivka|Зведенівці]] описана як стара дерев'яна, переведена з унії до Російської церкви. При ній служив один священник, який мешкав у церковному будинку; для священнослужителя була окрема школа.[^opys-1799-206-207]
+
 ### 1862
 
 Коштом селянина Димитрія Мельничука виконано капітальний ремонт: підведено кам'яний фундамент, дощаний дах замінено залізним, пофарбовано стіни всередині та зовні ([Приходы и церкви Подольской епархии (1901)](https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D1%85%D0%BE%D0%B4%D1%8B_%D0%B8_%D1%86%D0%B5%D1%80%D0%BA%D0%B2%D0%B8_%D0%9F%D0%BE%D0%B4%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B9_%D0%B5%D0%BF%D0%B0%D1%80%D1%85%D0%B8%D0%B8)).
@@ -94,3 +98,5 @@ type: PlaceOfWorship
 | 1831 | ДАХмО-315-1-7359 | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/7359), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115086147) | Підшивка |
 | 1859 | ДАХмО-315-1-8469 | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/8469), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115459655) | Підшивка |
 | 1861 | ДАХмО-315-1-8563 | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/8563), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115459870) | Підшивка |
+
+[^opys-1799-206-207]: [Топографічний опис Подільської губернії 1799 р. Вінницький, Ямпільський, Брацлавський повіти](https://arhivevin.cz5.quickconnect.to/d/s/tuj5qyK9RnPeOpbZIdzAhfwdoN75ToPn/xR7Q9mM-za87rjoX_OIueORaSA4OcedP-wr1A3q4lgQo) / за ред. Ю. В. Легуна. Вінниця: ТОВ «Нілан-ЛТД», 2017. 396 с., іл. ISBN 978-966-924-616-5. С. 206–207.
