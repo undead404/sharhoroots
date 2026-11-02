@@ -21,6 +21,10 @@ type: PlaceOfWorship
 
 ## Історія
 
+### 1799
+
+У топографічному описі 1799 року **церква Святого Димитрія** у [[Holynchyntsi|Голинчинцях]] описана як стара дерев’яна, переведена з унії. При ній служив один священник, який мешкав у церковному будинку; для священнослужителя була окрема школа.[^topohrafichnyi-opys-1799-207]
+
 ### 1862
 
 21 квітня за чудову енергійну службу нагороджений скуф'єю священник с. Голинчинець Василій Бочковський ([П.Є.В. (1862) № 13](https://archive.org/details/podillya_vidomosti/PEV.1862/page/n493/mode/2up)).
@@ -99,3 +103,5 @@ type: PlaceOfWorship
 | 1831 | ДАХмО-315-1-7359 | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/7359), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115086147) | Підшивка |
 | 1859 | ДАХмО-315-1-8469 | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/8469), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115459655) | Підшивка |
 | 1861 | ДАХмО-315-1-8563 | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/8563), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115459870) | Підшивка |
+
+[^topohrafichnyi-opys-1799-207]: [Топографічний опис Подільської губернії 1799 р. Вінницький, Ямпільський, Брацлавський повіти](https://arhivevin.cz5.quickconnect.to/d/s/tuj5qyK9RnPeOpbZIdzAhfwdoN75ToPn/xR7Q9mM-za87rjoX_OIueORaSA4OcedP-wr1A3q4lgQo) / за ред. Ю. В. Легуна. Вінниця: ТОВ «Нілан-ЛТД», 2017. 396 с., іл. ISBN 978-966-924-616-5. С. 207.
