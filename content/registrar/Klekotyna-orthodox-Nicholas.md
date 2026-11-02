@@ -18,6 +18,8 @@ type: PlaceOfWorship
 
 ## Історія
 
+Топографічний опис 1799 року згадує **церкву Святого Миколая** серед храмів [[Nova-Murafa|Нової Мурафи]] та її передмістя. Для Миколаївської, Успенської й Вознесенської церков разом зазначено трьох православних священників, які мали церковні будинки.[^topohrafichnyi-opys-1799-213-214]
+
 1831 року парафію об'єднали з Успенською.
 
 1875 року закрита.
@@ -52,3 +54,5 @@ type: PlaceOfWorship
 | 1823 | ДАХмО-315-1-7195 | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/7195), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115082120)                                                   | Підшивка |
 | 1827 | ДАХмО-315-1-7298 | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/7298), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115083867)                                                   | Підшивка |
 | 1831 | ДАХмО-315-1-7359 | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/7359), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115086147)                                                   | Підшивка |
+
+[^topohrafichnyi-opys-1799-213-214]: [Топографічний опис Подільської губернії 1799 р. Вінницький, Ямпільський, Брацлавський повіти](https://arhivevin.cz5.quickconnect.to/d/s/tuj5qyK9RnPeOpbZIdzAhfwdoN75ToPn/xR7Q9mM-za87rjoX_OIueORaSA4OcedP-wr1A3q4lgQo) / за ред. Ю. В. Легуна. Вінниця: ТОВ «Нілан-ЛТД», 2017. 396 с., іл. ISBN 978-966-924-616-5. С. 213–214; також примітки редактора.
