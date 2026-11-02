@@ -24,6 +24,10 @@ type: PlaceOfWorship
 
 ## Історія
 
+### 1799
+
+У топографічному описі 1799 року **Церква Святої Трійці** названа однією з двох дерев'яних церков [[Sloboda-Sharhorodska|Слободи-Шаргородської]], переведених з унії до православ'я. Обидві будівлі оцінено як посередні.[^topohrafichnyi-opys-1799-217-218]
+
 ### 1861
 
 13 квітня рукоположений священник Лука Людкевич ([П.Є.В. 1861](https://archive.org/details/podillya_vidomosti/PEV.1862/page/n41/mode/2up)).
@@ -97,3 +101,5 @@ type: PlaceOfWorship
 | 1840 | ДАХмО-315-1-7515  | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/7515), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115206120) | Підшивка |
 | 1848 | ДАХмО-315-1-7966  | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/7966), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115324273) | Підшивка |
 | 1870 | ДАХмО-315-1-11818 | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/11818), [FamilySearch](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/11818)                                   | Підшивка |
+
+[^topohrafichnyi-opys-1799-217-218]: [Топографічний опис Подільської губернії 1799 р. Вінницький, Ямпільський, Брацлавський повіти](https://arhivevin.cz5.quickconnect.to/d/s/tuj5qyK9RnPeOpbZIdzAhfwdoN75ToPn/xR7Q9mM-za87rjoX_OIueORaSA4OcedP-wr1A3q4lgQo) / за ред. Ю. В. Легуна. Вінниця: ТОВ «Нілан-ЛТД», 2017. 396 с., іл. ISBN 978-966-924-616-5. С. 217–218.

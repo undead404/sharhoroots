@@ -30,6 +30,10 @@ type: PlaceOfWorship
 
 На кошти парафіян збудована дерев'яна церква ([Приходы и церкви Подольской епархии (1901)](https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D1%85%D0%BE%D0%B4%D1%8B_%D0%B8_%D1%86%D0%B5%D1%80%D0%BA%D0%B2%D0%B8_%D0%9F%D0%BE%D0%B4%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B9_%D0%B5%D0%BF%D0%B0%D1%80%D1%85%D0%B8%D0%B8)).
 
+### 1799
+
+У топографічному описі 1799 року **Церква Різдва Богородиці** названа однією з двох дерев'яних церков [[Sloboda-Sharhorodska|Слободи-Шаргородської]], переведених з унії до православ'я. Обидві будівлі оцінено як посередні.[^topohrafichnyi-opys-1799-217-218]
+
 ### 1857
 
 Священником церкви став Петро Янковський ([Приходы и церкви Подольской епархии (1901)](https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D1%85%D0%BE%D0%B4%D1%8B_%D0%B8_%D1%86%D0%B5%D1%80%D0%BA%D0%B2%D0%B8_%D0%9F%D0%BE%D0%B4%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B9_%D0%B5%D0%BF%D0%B0%D1%80%D1%85%D0%B8%D0%B8)).
@@ -118,3 +122,5 @@ type: PlaceOfWorship
 | 1834 | ДАХмО-315-1-7401 | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/7401), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115083848) | Підшивка |
 | 1840 | ДАХмО-315-1-7515 | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/7515), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115206120) | Підшивка |
 | 1848 | ДАХмО-315-1-7966 | [ВікіДжерела](https://uk.wikisource.org/wiki/Архів:ДАХмО/315/1/7966), [FamilySearch](https://www.familysearch.org/en/records/images/search-results?imageGroupNumbers=115324273) | Підшивка |
+
+[^topohrafichnyi-opys-1799-217-218]: [Топографічний опис Подільської губернії 1799 р. Вінницький, Ямпільський, Брацлавський повіти](https://arhivevin.cz5.quickconnect.to/d/s/tuj5qyK9RnPeOpbZIdzAhfwdoN75ToPn/xR7Q9mM-za87rjoX_OIueORaSA4OcedP-wr1A3q4lgQo) / за ред. Ю. В. Легуна. Вінниця: ТОВ «Нілан-ЛТД», 2017. 396 с., іл. ISBN 978-966-924-616-5. С. 217–218.
