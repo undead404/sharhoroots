@@ -18,6 +18,5 @@ type: Place
 ## Реєстратори
 
 - православним:
-  - (у XVIII ст.) [[Derebchyn-orthodox-John-Theologian|Церква Святого Івана Богослова]] (?)
   - (з XVIII ст.) [[Derebchyn-orthodox-Michael-Sobor|Церква Собору Архістратига Михаїла]]
 - католикам – у Мурафі [[Murafa-catholic|Костел Непорочного зачаття Пресвятої діви Марії]]
