@@ -146,6 +146,15 @@ type: Place
 
 Ванда Петрівна Собанська зазначена із маєтком при Джурині площею 2439 десятин.[^dakhmo-230-1-660-8-46]
 
+### 1941–1943 — порятунок переслідуваних євреїв
+
+До Джуринського гетто Віллі Арем, керівник будівельного підрозділу організації Тодта в Немирові, допоміг переправити родину Менчерів і студентку Дору Зальцман. У дослідженні Беати Космали та Ревіталь Людвіг-Кедмі названо перекладача Осіаса Менчера, його дружину й приблизно тринадцятирічного сина; імен дружини та сина цей виклад не подає. Перед переправленням до румунської зони окупації Арем переховував їх у своєму помешканні в Немирові.[^ahrem-menczer]
+
+Ліза Гойман, яка перебувала в Джурині, згодом свідчила про інший вид його допомоги: Арем возив листи до Бухареста, завдяки чому в’язні отримували гроші та іншу підтримку. Її свідчення не означає, що він також перевіз її до гетто. Докладніше — у статті про [[Dzhuryn-judaic#Допомога в’язням гетто|єврейське товариство Джурина]].[^ahrem-heumann]
+
+[^ahrem-menczer]: Беата Космала, Ревіталь Людвіг-Кедмі. [*Verbotene Hilfe. Deutsche Retterinnen und Retter während des Holocaust*](https://ulis-buecherecke.ch/Neue%20Eintr%C3%A4ge%202020/deutsche_retter_waehrend_des_holocaust.pdf). Цюрих: Verlag Pestalozzianum; Донауверт: Auer Verlag, 2003. ISBN 3-03755-002-3; 3-403-04085-2. С. 83–84, підрозділ про порятунок родини Менчерів. Зв’язок переправлення з Джурином: [Portal Rheinische Geschichte, матеріал про Віллі Арема](https://www.rheinische-geschichte.lvr.de/Projekte/Widerstandskarte/willi-ahrem-brachte-juden-aus-dem-deutsch-besetzten-teil-weissrusslands-ueber-die-grenze-in-den-rumaenisch-besetzten-teil/DE-2086/lido/dc00019210), розділ опису, абзаци про родину Менчерів і Джурин. Точної дати переправлення тут не встановлено.
+[^ahrem-heumann]: Беата Космала, Ревіталь Людвіг-Кедмі. [*Verbotene Hilfe. Deutsche Retterinnen und Retter während des Holocaust*](https://ulis-buecherecke.ch/Neue%20Eintr%C3%A4ge%202020/deutsche_retter_waehrend_des_holocaust.pdf). Цюрих: Verlag Pestalozzianum; Донауверт: Auer Verlag, 2003. С. 84–85, підрозділ про Лізу Гойман і наведений лист до Яд Вашем.
+
 ### 1945
 
 У липні 1945 року [нагороджено](https://uk.wikisource.org/wiki/%D0%A3%D0%BA%D0%B0%D0%B7_%D0%9F%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D1%96%D1%97_%D0%92%D0%A0_%D0%A3%D0%A0%D0%A1%D0%A0_%D0%B2%D1%96%D0%B4_9.7.1945_%C2%AB%D0%9F%D1%80%D0%BE_%D0%BD%D0%B0%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F_%D0%BE%D1%80%D0%B4%D0%B5%D0%BD%D0%B0%D0%BC%D0%B8_%C2%AB%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D1%81%D1%8C%D0%BA%D0%B0_%D1%81%D0%BB%D0%B0%D0%B2%D0%B0%C2%BB_%D1%82%D0%B0_%D0%BC%D0%B5%D0%B4%D0%B0%D0%BB%D1%8F%D0%BC%D0%B8_%C2%AB%D0%9C%D0%B5%D0%B4%D0%B0%D0%BB%D1%8C_%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D1%81%D1%82%D0%B2%D0%B0%C2%BB_%E2%80%A6_%D0%92%D1%96%D0%BD%D0%BD%D0%B8%D1%86%D1%8C%D0%BA%D0%BE%D1%97_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%96%C2%BB) матерів, які народили та виховали дев'ять дітей, – орденом "Материнська слава" I ступеня:
