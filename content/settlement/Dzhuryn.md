@@ -171,6 +171,12 @@ type: Place
 [^ahrem-menczer]: Беата Космала, Ревіталь Людвіг-Кедмі. [*Verbotene Hilfe. Deutsche Retterinnen und Retter während des Holocaust*](https://ulis-buecherecke.ch/Neue%20Eintr%C3%A4ge%202020/deutsche_retter_waehrend_des_holocaust.pdf). Цюрих: Verlag Pestalozzianum; Донауверт: Auer Verlag, 2003. ISBN 3-03755-002-3; 3-403-04085-2. С. 83–84, підрозділ про порятунок родини Менчерів. Зв’язок переправлення з Джурином: [Portal Rheinische Geschichte, матеріал про Віллі Арема](https://www.rheinische-geschichte.lvr.de/Projekte/Widerstandskarte/willi-ahrem-brachte-juden-aus-dem-deutsch-besetzten-teil-weissrusslands-ueber-die-grenze-in-den-rumaenisch-besetzten-teil/DE-2086/lido/dc00019210), розділ опису, абзаци про родину Менчерів і Джурин. Точної дати переправлення тут не встановлено.
 [^ahrem-heumann]: Беата Космала, Ревіталь Людвіг-Кедмі. [*Verbotene Hilfe. Deutsche Retterinnen und Retter während des Holocaust*](https://ulis-buecherecke.ch/Neue%20Eintr%C3%A4ge%202020/deutsche_retter_waehrend_des_holocaust.pdf). Цюрих: Verlag Pestalozzianum; Донауверт: Auer Verlag, 2003. С. 84–85, підрозділ про Лізу Гойман і наведений лист до Яд Вашем.
 
+### 1942–1944 — медична допомога та втрати гетто
+
+За Сімхою Вайсбухом, узимку 1942–1943 років у гетто **Джурина** запрацювала лікарня на 56 ліжок із двома лікарями та трьома медсестрами; на початку 1943 року діяла аптека, яка розподіляла ліки з Бухареста. Автор наводить близько 400 померлих під час епідемій за 1941–1944 роки й близько 500 загиблих загалом серед місцевих і депортованих євреїв. Ці оцінки мають різне охоплення й не становлять поіменного обліку. Докладніше про медиків, родинне свідчення про лікування та межі порівняння втрат — у статті про [[Dzhuryn-judaic#Медична допомога та смертність у гетто|єврейське товариство Джурина]].[^dzhuryn-medical]
+
+[^dzhuryn-medical]: Сімха Вайсбух. [«Djurin»](https://www.jewishgen.org/yizkor/suceava/suc127.html), англійський переклад Моше Девере на JewishGen. С. 128–129 — лікарня, аптека та смертність під час епідемій; с. 131 — підсумкові втрати.
+
 ### 1943 — їдальня для в’язнів гетто
 
 У гетто **Джурина** діяла їдальня, створена з ініціативи депортованого рабина Баруха Гагера з вижницької хасидської династії. За енциклопедією гетто Яд Вашем, у 1943 році вона обслуговувала приблизно 800–1000 осіб. Докладніше про її підтримку — у статті про [[Dzhuryn-judaic#Їдальня Баруха Гагера в гетто|єврейське товариство Джурина]].[^hager-dzhuryn-kitchen]
