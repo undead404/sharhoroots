@@ -59,6 +59,7 @@ This repository is an Obsidian vault published with Quartz 4. It serves genealog
 
 ## Python tooling
 
+- For ad hoc scripting and data processing, prefer Python using the `python-tools` skill over Ruby, Perl, or other general-purpose scripting languages. Use existing project tools and straightforward shell commands when sufficient. Use another language when required by the component being maintained or an existing tool.
 - Before any Python work—including writing, running, testing, or adding Python dependencies—load `.agents/skills/python-tools/SKILL.md` and follow it. The skill contains the Python project configuration under `.agents/skills/python-tools/` so Cloudflare Pages does not detect the vault root as a Python project.
 
 ## Quartz and verification
