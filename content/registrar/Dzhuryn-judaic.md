@@ -230,6 +230,10 @@ ESJF окремо описує довоєнну ділянку в [[Dzhuryn|Дж
 [^dzhuryn-survey-1994]: [«DZHURIN (DZHURYN, DŻURYN ,DJURIN ,DZURIN, DZURYN): Vinnytsya oblast»](https://cdp.jewishgen.org/eastern-europe/ukraine/dzhurin), *International Jewish Cemetery Project*, розділ «CEMETERY», запис UA01310101, абзаци про власність і межі та заключний абзац про обстеження М. Л. Фукса 18 жовтня 1994 року.
 [^dzhuryn-esjf-boundaries]: ESJF European Jewish Cemeteries Initiative. [«Dzhuryn Jewish Cemetery Pre-War Section»](https://www.esjf-cemeteries.org/survey/dzhuryn-jewish-cemetery-pre-war-section/), розділ «Cemetery Information», поля координат, довжини периметра й огорожі.
 
+Для нової ділянки кладовища ESJF наводить координати 48.67384, 28.29856 і периметр 207 м. Найдавніший знайдений там надгробок датований 1944 роком: імовірно, ділянку використовували вже тоді. Проте дата на камені не встановлює дати відведення землі чи першого поховання й сама по собі не виключає пізнішого встановлення або перенесення надгробка.[^dzhuryn-esjf-new-section]
+
+[^dzhuryn-esjf-new-section]: ESJF European Jewish Cemeteries Initiative. [«Dzhuryn Jewish Cemetery Post-War Section»](https://www.esjf-cemeteries.org/survey/dzhuryn-jewish-cemetery-post-war-section/), розділ «Cemetery Information», поля координат, периметра та найдавнішого надгробка. Координати й датування наведено за текстовим звітом обстеження; вони не визначають юридичних меж ділянки.
+
 ### Найдавніші надгробки: межі датування
 
 На довоєнній ділянці кладовища [[Dzhuryn|Джурина]] команда ESJF виявила близько десяти надгробків із датами від 1912 до 1950 року. Через густі зарості обстежити всю ділянку не вдалося; дослідники припускають, що старіші камені могли опинитися під землею. Отже, 1912 рік — дата найдавнішого надгробка, знайденого саме цим обстеженням, а не встановлений початок поховань.[^dzhuryn-esjf-dates]
