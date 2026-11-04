@@ -295,6 +295,12 @@ type: Place
 [^dzhuryn-marker-2021-ujcu]: Об’єднана єврейська община України. [Повідомлення про встановлення пам’ятного знака на єврейському кладовищі Джурина](https://t.me/UJCUkraine/376), 22 червня 2021 року, повідомлення № 376, заключний абзац про виконавця й фінансову підтримку.
 [^dzhuryn-marker-2021-jewishgen]: [«Cemetery»](https://sites.google.com/jewishgen.org/dzhuryn/cemetery), сайт *Dzhuryn* на JewishGen, оновлення: березень 2026 року, розділи «Monument» і «Dzhuryn Cemetery Monument Erected in 2021». Використано текстове відтворення напису на знаку.
 
+### Єврейське кладовище: розташування довоєнної ділянки
+
+ESJF подає для довоєнної ділянки кладовища [[Dzhuryn-judaic|єврейської громади]] **Джурина** координати 48.67427, 28.298 і периметр 405 м. За описом, від будинку № 20 на вулиці Шевченка потрібно пройти 80 м на схід, потім ще 160 м ґрунтовою дорогою; кладовище буде ліворуч. Ці дані стосуються обстеженої ділянки й не встановлюють юридичних меж усього кладовища або його охоронної території.[^dzhuryn-esjf-boundaries]
+
+[^dzhuryn-esjf-boundaries]: ESJF European Jewish Cemeteries Initiative. [«Dzhuryn Jewish Cemetery Pre-War Section»](https://www.esjf-cemeteries.org/survey/dzhuryn-jewish-cemetery-pre-war-section/), розділ «Cemetery Information», поля адреси, координат і довжини периметра.
+
 ## Реєстратори
 
 - православним:

@@ -125,6 +125,15 @@ type: Organization
 
 [^ahrem-heumann-1963]: Беата Космала, Ревіталь Людвіг-Кедмі. [*Verbotene Hilfe. Deutsche Retterinnen und Retter während des Holocaust*](https://ulis-buecherecke.ch/Neue%20Eintr%C3%A4ge%202020/deutsche_retter_waehrend_des_holocaust.pdf). Цюрих: Verlag Pestalozzianum; Донауверт: Auer Verlag, 2003. ISBN 3-03755-002-3; 3-403-04085-2. С. 83–85: родина Менчерів, Дора Зальцман і лист Лізи Гойман до Яд Вашем.
 
+### Кладовище: обстеження й межі
+
+В описі обстеження кладовища **єврейського товариства Джурина**, яке М. Л. Фукс із Вінниці провів 18 жовтня 1994 року, зазначено, що ділянкою володіє муніципалітет, а її межі не змінювалися від 1939 року. Це відомості обстеження, а не документ про право власності чи затвердження меж.[^dzhuryn-survey-1994]
+
+ESJF окремо описує довоєнну ділянку в [[Dzhuryn|Джурині]]: координати 48.67427, 28.298, периметр 405 м; навколо неї зберігся мур із проломами. Цей опис дає просторовий орієнтир, але не визначає юридичних меж кладовища чи охоронної території.[^dzhuryn-esjf-boundaries]
+
+[^dzhuryn-survey-1994]: [«DZHURIN (DZHURYN, DŻURYN ,DJURIN ,DZURIN, DZURYN): Vinnytsya oblast»](https://cdp.jewishgen.org/eastern-europe/ukraine/dzhurin), *International Jewish Cemetery Project*, розділ «CEMETERY», запис UA01310101, абзаци про власність і межі та заключний абзац про обстеження М. Л. Фукса 18 жовтня 1994 року.
+[^dzhuryn-esjf-boundaries]: ESJF European Jewish Cemeteries Initiative. [«Dzhuryn Jewish Cemetery Pre-War Section»](https://www.esjf-cemeteries.org/survey/dzhuryn-jewish-cemetery-pre-war-section/), розділ «Cemetery Information», поля координат, довжини периметра й огорожі.
+
 ### Пошкодження кладовища 2013 року
 
 29 квітня 2013 року «Кореспондент» із посиланням на обласну міліцію повідомив про пошкодження 66 могил на старому єврейському кладовищі [[Dzhuryn|Джурина]].[^dzhuryn-vandalism-2013-april] Натомість жовтневе повідомлення «Лівого берега» про судовий розгляд називає 54 надгробки; причина розбіжності невідома.[^dzhuryn-vandalism-2013-october]
