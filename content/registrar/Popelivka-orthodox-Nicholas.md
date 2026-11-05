@@ -6,7 +6,7 @@ foundingDate: 1765
 tags:
   - eastern-orthodox
   - greek-catholic
-title: Церква Чуда Архістратига Михаїла (Політанки)
+title: Церква Святого Миколая (Попелівка)
 type: PlaceOfWorship
 ---
 ## Парафія
