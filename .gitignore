@@ -27,3 +27,10 @@ content/.obsidian/workspace.json
 content/.obsidian/workspace-mobile.json
 content/.obsidian/log
 content/.obsidian/workspace.json
+
+# Quartz 5 plugin cache and CLI build
+.quartz/
+quartz/cli/tui/dist/
+plugins/*/dist/
+plugins/*/node_modules/
+plugins/*/package-lock.json

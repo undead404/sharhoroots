@@ -9,7 +9,6 @@ export const StructuredData: QuartzComponent = ({
   if (!fileData.frontmatter?.type) {
     return null;
   }
-  console.log(fileData.frontmatter);
   const fm = z.parse(frontmatterSchema, fileData.frontmatter);
 
   const title = fm.title;

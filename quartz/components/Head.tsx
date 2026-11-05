@@ -1,5 +1,11 @@
+import { StructuredData } from "./StructuredData";
 import { i18n } from "../i18n";
-import { getFileExtension, joinSegments } from "../util/path";
+import {
+  FullSlug,
+  getFileExtension,
+  joinSegments,
+  pathToRoot,
+} from "../util/path";
 import {
   CSSResourceToStyleElement,
   JSResourceToScriptElement,
@@ -11,8 +17,7 @@ import {
   QuartzComponentProps,
 } from "./types";
 import { unescapeHTML } from "../util/escape";
-import { CustomOgImagesEmitterName } from "../plugins/emitters/ogImage";
-import { StructuredData } from "./StructuredData";
+
 export default (() => {
   const Head: QuartzComponent = (props: QuartzComponentProps) => {
     const { cfg, fileData, externalResources, ctx } = props;
@@ -31,6 +36,9 @@ export default (() => {
     const { css, js, additionalHead } = externalResources;
 
     const url = new URL(`https://${cfg.baseUrl ?? "example.com"}`);
+    const path = url.pathname as FullSlug;
+    const baseDir = fileData.slug === "404" ? path : pathToRoot(fileData.slug!);
+    const iconPath = joinSegments(baseDir, "static/icon.png");
 
     // Url of current page
     const socialUrl =
@@ -39,14 +47,25 @@ export default (() => {
         : joinSegments(url.toString(), fileData.slug!);
 
     const usesCustomOgImage = ctx.cfg.plugins.emitters.some(
-      (e) => e.name === CustomOgImagesEmitterName,
+      (e) => e.name === "CustomOgImages",
     );
     const ogImageDefaultPath = `https://${cfg.baseUrl}/static/og-image.png`;
+
+    const coreStylesheet = css[0]?.content;
+    const coreScript = js.find(
+      (r) => r.loadTime === "beforeDOMReady" && r.contentType === "external",
+    );
 
     return (
       <head>
         <title>{title}</title>
         <meta charSet="utf-8" />
+        {coreStylesheet && (
+          <link rel="preload" href={coreStylesheet} as="style" />
+        )}
+        {coreScript && coreScript.contentType === "external" && (
+          <link rel="preload" href={coreScript.src} as="script" />
+        )}
         {cfg.theme.cdnCaching && cfg.theme.fontOrigin === "googleFonts" && (
           <>
             <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -96,8 +115,10 @@ export default (() => {
           </>
         )}
 
+        <link rel="icon" href={iconPath} />
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />
+        <StructuredData {...props} />
 
         {css.map((resource) => CSSResourceToStyleElement(resource, true))}
         {js
@@ -110,29 +131,6 @@ export default (() => {
             return resource;
           }
         })}
-        <meta
-          name="google-site-verification"
-          content="qevsecCQ5yTqUCrXXaRbn1leTeXHdFD1b8iEFYYjkKU"
-        />
-        <StructuredData {...props} />
-        <link
-          rel="icon"
-          type="image/png"
-          href="/favicon-96x96.png"
-          sizes="96x96"
-        />
-        <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-        <link rel="shortcut icon" href="/favicon.ico" />
-        <link
-          rel="apple-touch-icon"
-          sizes="180x180"
-          href="/apple-touch-icon.png"
-        />
-        <meta
-          name="apple-mobile-web-app-title"
-          content="Генеалогія Шаргородщини"
-        />
-        <link rel="manifest" href="/site.webmanifest" />
       </head>
     );
   };
