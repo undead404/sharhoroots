@@ -289,6 +289,12 @@ type: Place
 [^ahrem-menczer]: Беата Космала, Ревіталь Людвіг-Кедмі. [*Verbotene Hilfe. Deutsche Retterinnen und Retter während des Holocaust*](https://ulis-buecherecke.ch/Neue%20Eintr%C3%A4ge%202020/deutsche_retter_waehrend_des_holocaust.pdf). Цюрих: Verlag Pestalozzianum; Донауверт: Auer Verlag, 2003. ISBN 3-03755-002-3; 3-403-04085-2. С. 83–84, підрозділ про порятунок родини Менчерів. Зв’язок переправлення з Джурином: [Portal Rheinische Geschichte, матеріал про Віллі Арема](https://www.rheinische-geschichte.lvr.de/Projekte/Widerstandskarte/willi-ahrem-brachte-juden-aus-dem-deutsch-besetzten-teil-weissrusslands-ueber-die-grenze-in-den-rumaenisch-besetzten-teil/DE-2086/lido/dc00019210), розділ опису, абзаци про родину Менчерів і Джурин. Точної дати переправлення тут не встановлено.
 [^ahrem-heumann]: Беата Космала, Ревіталь Людвіг-Кедмі. [*Verbotene Hilfe. Deutsche Retterinnen und Retter während des Holocaust*](https://ulis-buecherecke.ch/Neue%20Eintr%C3%A4ge%202020/deutsche_retter_waehrend_des_holocaust.pdf). Цюрих: Verlag Pestalozzianum; Донауверт: Auer Verlag, 2003. С. 84–85, підрозділ про Лізу Гойман і наведений лист до Яд Вашем.
 
+### 1941 — початок окупації та переслідування євреїв
+
+За енциклопедією таборів і гетто USHMM, німецькі війська зайняли **Джурин** 22 липня 1941 року. Євреям наказали позначити будинки зіркою Давида й носити нарукавні пов’язки. Джерело також описує бомбардування з убитими й пораненими, пограбування складу та єврейських крамниць і побиття молільників у синагозі наприкінці вересня. Назва свята — Рош га-Шана чи Йом-Кіпур — залишається непевною. Оцінки постраждалих і відмінності викладів наведено у статті про [[Dzhuryn-judaic#Переслідування на початку окупації 1941 року|єврейське товариство Джурина]].[^dzhuryn-occupation-1941]
+
+[^dzhuryn-occupation-1941]: [*Encyclopedia of Camps and Ghettos, 1933–1945*, т. III](https://polejeanmoulin.com/resources/USHMM-Encyclopedia-Camps-Ghettos-Vol-III-2.pdf), стаття «Djurin», с. 666, PDF-сторінка 192 у другій частині, перші абзаци статті.
+
 ### 1941–1943 — населення гетто
 
 За енциклопедією гетто Яд Вашем, у січні–березні 1943 року в **Джурині** обліковували 4050 євреїв — 997 місцевих і 3053 депортованих. В англійському перекладі Сімхи Вайсбуха для цього періоду наведено іншу кількість місцевих; зазначені ним 2871 особа у вересні — лише депортовані. Про прибуття людей, поселення в домівках і господарських спорудах та розбіжності чисел — у статті про [[Dzhuryn-judaic#Населення й розселення гетто|єврейське товариство Джурина]].[^dzhuryn-population]
