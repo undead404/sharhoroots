@@ -9,9 +9,13 @@ This repository's Python project lives in this skill directory to keep Python co
 
 ## Setup and commands
 
-- Restore the locked environment with `uv sync --locked --project .agents/skills/python-tools`.
-- Run Python commands and scripts with `uv run --project .agents/skills/python-tools python ...` (for example, `uv run --project .agents/skills/python-tools python path/to/script.py`).
-- Add dependencies with `uv add --project .agents/skills/python-tools <package>` and commit the resulting `pyproject.toml` and `uv.lock` changes in this directory.
+Run these commands from the repository root. Keep uv's cache in the writable, Git-ignored `.agent-work/uv-cache/` directory using `--cache-dir "$PWD/.agent-work/uv-cache"`; this avoids requesting access to uv's default cache outside the workspace. Apply this option to other uv commands too.
+
+- Restore the locked environment with `uv --cache-dir "$PWD/.agent-work/uv-cache" sync --locked --project .agents/skills/python-tools`.
+- Run Python commands and scripts with `uv --cache-dir "$PWD/.agent-work/uv-cache" run --project .agents/skills/python-tools python ...` (for example, `uv --cache-dir "$PWD/.agent-work/uv-cache" run --project .agents/skills/python-tools python path/to/script.py`).
+- Add dependencies with `uv --cache-dir "$PWD/.agent-work/uv-cache" add --project .agents/skills/python-tools <package>` and commit the resulting `pyproject.toml` and `uv.lock` changes in this directory.
 - Pillow's package name is `Pillow`; import it as `PIL` (for example, `from PIL import Image`).
+
+The cache setting only addresses cache access; other restricted writes or downloads may still require approval.
 
 The Python version pin, project metadata, and lockfile are all kept beside this skill. Do not add Python project marker files such as `pyproject.toml`, `requirements.txt`, or `.python-version` to the repository root; doing so makes Cloudflare Pages provision Python and run Python dependency installation during the site build.

@@ -7,14 +7,18 @@ description: Extract text locally from PDFs and images, especially Ukrainian, Ru
 
 Keep source material on this machine. Do not upload documents to a remote OCR service.
 
+## Swift cache location
+
+Run the commands below from the repository root. Always pass `-module-cache-path "$PWD/.agent-work/swift-module-cache"` before the Swift script path to keep compiled framework modules in the writable, Git-ignored workspace instead of Swift's default cache outside it. Swift creates the cache directory as needed. This addresses compiler-cache access; installing tools and other restricted operations may still require approval.
+
 ## Choose the right path
 
 1. For a born-digital PDF, try `pdftotext -layout input.pdf -` first. Prefer its existing text layer over rasterizing and OCRing it.
 2. For a scanned PDF or image that needs transcription, use the local Apple Vision utility:
 
    ```sh
-   swift .agents/skills/local-ocr/scripts/vision-ocr.swift input.pdf
-   swift .agents/skills/local-ocr/scripts/vision-ocr.swift scan.png
+   swift -module-cache-path "$PWD/.agent-work/swift-module-cache" .agents/skills/local-ocr/scripts/vision-ocr.swift input.pdf
+   swift -module-cache-path "$PWD/.agent-work/swift-module-cache" .agents/skills/local-ocr/scripts/vision-ocr.swift scan.png
    ```
 
    It processes PDFs page-by-page and common ImageIO image formats locally, defaults to `uk-UA`, `ru-RU`, and `pl-PL`, and prints page-labelled text. It disables language correction to avoid silently normalizing names or historical spelling. Use `--languages uk-UA,pl-PL` to narrow the languages or `--dpi 400` for a higher-resolution PDF render when small print is missed.
@@ -48,7 +52,7 @@ Keep source material on this machine. Do not upload documents to a remote OCR se
 
 ```sh
 swift --version
-swift .agents/skills/local-ocr/scripts/vision-ocr.swift --list-languages
+swift -module-cache-path "$PWD/.agent-work/swift-module-cache" .agents/skills/local-ocr/scripts/vision-ocr.swift --list-languages
 tesseract --list-langs
 ocrmypdf --version
 ```
