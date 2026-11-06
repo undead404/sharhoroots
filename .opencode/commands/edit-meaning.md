@@ -1,5 +1,5 @@
 ---
-description: Clarify an article’s subject, local relevance, organization, and research gaps
+description: Clarify an article’s subject, cut low-value material, and organize useful evidence
 agent: build
 ---
 
