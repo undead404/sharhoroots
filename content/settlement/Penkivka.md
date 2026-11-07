@@ -40,6 +40,12 @@ type: Place
 
 ### 1885
 
+Географічний словник зараховує **Пеньківку** до [[Murafa|старомурафського маєткового ключа]]. Довідник того самого року називає Мурафську Пеньківку колишнім власницьким селом. Яких саме земель села могла стосуватися конфіскація старомурафського маєтку, невідомо.[^sgkp-murafa-estate][^penkivka-1885-estate-status]
+
+[^sgkp-murafa-estate]: «Morachwa» // *Słownik geograficzny Królestwa Polskiego i innych krajów słowiańskich*. Т. VI. Варшава, 1885. За передруком Марціна Коваля [«Murafa - Kościół pod wezwaniem Niepokalanego Poczęcia Najświętszej Maryi Panny»](https://genealogie-kresowe.pl/genealogie/ksiegi-metrykalne/gubernia-podolska/dekanat-jampolski/murafa), 25 серпня 2022 р., абзац про власників і склад ключа після розповіді про ярмарки.
+
+[^penkivka-1885-estate-status]: Центральний статистичний комітет. [*Волости и важнейшие селения Европейской России. Выпуск III: Губернии Малороссийские и Юго-Западные*](https://archive.org/details/MostImportantVillagesEuropeanRussia/1885.Vivser_Vyp_3_Gubernii_Malorossiyskie_I_Yugo-Zapadnye_1885/page/n143/mode/2up). Санкт-Петербург, 1885. № 1507, Мурафська Пеньківка.
+
 > [!quote] ["Волости и важнейшие селения Евр. России, вып. III" (1885)](https://archive.org/details/MostImportantVillagesEuropeanRussia/1885.Vivser_Vyp_3_Gubernii_Malorossiyskie_I_Yugo-Zapadnye_1885/page/n143/mode/2up) – № 1507
 > Колишнє власницьке село **Мурафська Пеньківка**.
 >

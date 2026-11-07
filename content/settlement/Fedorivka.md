@@ -18,6 +18,10 @@ type: Place
 
 У 1799 році в селі налічували 43 двори підданих, 123 особи чоловічої та 118 жіночої статі.[^topohrafichnyi-opys-1799-212]
 
+За географічним словником 1881 року, 500 десятин придатної до вжитку двірської землі у **Федорівці** належали спершу Мостовським, потім Кундлеям, а на час укладання статті — Орликовським.[^sgkp-fedorivka-estate]
+
+[^sgkp-fedorivka-estate]: [«Fedorówka»](https://wikisource.org/wiki/Słownik_geograficzny_Królestwa_Polskiego/Fedorowce) // *Słownik geograficzny Królestwa Polskiego i innych krajów słowiańskich*. Т. II. Варшава, 1881. С. 377, пункт 6, Федорівка над Мурафою, Ямпільський повіт, Пеньківська волость.
+
 > [!quote] ["Волости и важнейшие селения Евр. России, вып. III" (1885)](https://archive.org/details/MostImportantVillagesEuropeanRussia/1885.Vivser_Vyp_3_Gubernii_Malorossiyskie_I_Yugo-Zapadnye_1885/page/n143/mode/2up) – № 1519
 > Колишнє власницьке село **Федорівка**.
 >
