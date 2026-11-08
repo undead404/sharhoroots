@@ -71,6 +71,10 @@ type: PlaceOfWorship
 
 9 листопада дяком був призначений відрахований студент Владимир Кулицький ([П.Є.В. (1866) № 23](https://archive.org/details/podillya_vidomosti/PEV.1866/page/n305/mode/2up)).
 
+### 1867
+
+8 лютого дяк Владимир Кулицький став послушником Бершадського монастиря ([П.Є.В. (1867) № 6](https://archive.org/details/podillya_vidomosti/PEV.1867/page/n63/mode/2up)).
+
 ### 1884
 
 На кошти казни облаштований дерев'яний дім священника ([Приходы и церкви Подольской епархии (1901)](https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D1%85%D0%BE%D0%B4%D1%8B_%D0%B8_%D1%86%D0%B5%D1%80%D0%BA%D0%B2%D0%B8_%D0%9F%D0%BE%D0%B4%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B9_%D0%B5%D0%BF%D0%B0%D1%80%D1%85%D0%B8%D0%B8)).
