@@ -32,6 +32,10 @@ type: PlaceOfWorship
 
 27 квітня цю церкву перевели з 6 благочинного округу до 5 ([П.Є.В. (1867) № 11](https://archive.org/details/podillya_vidomosti/PEV.1867/page/n129/mode/2up)).
 
+31 травня затверджена церковно-парафіяльна опікунська рада ([П.Є.В. (1867) № 13](https://archive.org/details/podillya_vidomosti/PEV.1867/page/n153/mode/2up)).
+
+31 травня церковним старостою затверджений селянин Іван Франко ([П.Є.В. (1867) № 13](https://archive.org/details/podillya_vidomosti/PEV.1867/page/n155/mode/2up)).
+
 ### 1880
 
 Стара церква була закрита ([Приходы и церкви Подольской епархии (1901)](https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D1%85%D0%BE%D0%B4%D1%8B_%D0%B8_%D1%86%D0%B5%D1%80%D0%BA%D0%B2%D0%B8_%D0%9F%D0%BE%D0%B4%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B9_%D0%B5%D0%BF%D0%B0%D1%80%D1%85%D0%B8%D0%B8)).

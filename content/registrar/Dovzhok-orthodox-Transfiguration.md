@@ -39,6 +39,8 @@ type: PlaceOfWorship
 
 27 квітня цю церкву перевели з 5 благочинного округу до 6 ([П.Є.В. (1867) № 11](https://archive.org/details/podillya_vidomosti/PEV.1867/page/n129/mode/2up)).
 
+15 травня священник Іоанн Ярошевич переведений до с. Метлинець Гайсинського повіту ([П.Є.В. (1867) № 13](https://archive.org/details/podillya_vidomosti/PEV.1867/page/n153/mode/2up)).
+
 22 травня з [[Sapizhanka-orthodox-John-Theologian|церкви села Сапіжанки]] сюди переведений священник Симеон Красовський ([П.Є.В. (1867) № 12](https://archive.org/details/podillya_vidomosti/PEV.1867/page/n137/mode/2up)).
 
 ### 1872
