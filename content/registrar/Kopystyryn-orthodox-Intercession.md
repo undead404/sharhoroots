@@ -74,6 +74,8 @@ type: PlaceOfWorship
 
 Можливо, священником саме цієї церкви 16 липня був призначений випускник семінарії Ананія Думанський ([П.Є.В. (1867) № 15](https://archive.org/details/podillya_vidomosti/PEV.1867/page/n199/mode/2up)).
 
+Можливо, паламарем саме цієї церкви 10 жовтня був призначений дяківський син Ксенофонт Смолянський ([П.Є.В. (1867) № 22](https://archive.org/details/podillya_vidomosti/PEV.1867/page/n309/mode/2up)).
+
 ### 1868
 
 Збудована нова будівля церкви ([Приходы и церкви Подольской епархии (1901)](https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D1%85%D0%BE%D0%B4%D1%8B_%D0%B8_%D1%86%D0%B5%D1%80%D0%BA%D0%B2%D0%B8_%D0%9F%D0%BE%D0%B4%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B9_%D0%B5%D0%BF%D0%B0%D1%80%D1%85%D0%B8%D0%B8)).
