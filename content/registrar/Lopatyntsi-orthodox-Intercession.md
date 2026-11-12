@@ -32,9 +32,11 @@ type: PlaceOfWorship
 
 27 квітня цю церкву перевели з 6 благочинного округу до 5 ([П.Є.В. (1867) № 11](https://archive.org/details/podillya_vidomosti/PEV.1867/page/n129/mode/2up)).
 
-31 травня затверджена церковно-парафіяльна опікунська рада ([П.Є.В. (1867) № 13](https://archive.org/details/podillya_vidomosti/PEV.1867/page/n153/mode/2up)).
+31 травня затверджена церковно-парафіяльна опікунська рада ([П.Є.В. (1867) № 13](https://archive.org/details/podillya_vidomosti/PEV.1867/page/n153/mode/2up)). Тоді ж церковним старостою затверджений селянин Іван Франко ([П.Є.В. (1867) № 13](https://archive.org/details/podillya_vidomosti/PEV.1867/page/n155/mode/2up)).
 
-31 травня церковним старостою затверджений селянин Іван Франко ([П.Є.В. (1867) № 13](https://archive.org/details/podillya_vidomosti/PEV.1867/page/n155/mode/2up)).
+### 1868
+
+15 березня, внаслідок звіту благочинного священника 5 округу Іллі Петринського про те, що йому незручно мати Лопатинці в своєму окрузі, цю парафію передали до 7 благочинного округу ([П.Є.В. (1868) № 10](https://archive.org/details/podillya_vidomosti/PEV.1868/page/n189/mode/2up)).
 
 ### 1880
 
