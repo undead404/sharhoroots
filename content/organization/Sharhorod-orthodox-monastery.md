@@ -422,6 +422,12 @@ type: Organization
 - Катерину Дзіржаловську
 - Марію Довбневу ([П.Є.В. (1868) № 4](https://archive.org/details/podillya_vidomosti/PEV.1868/page/n49/mode/2up)).
 
+26 січня монах Віталій переведений до Почаївської лаври ([П.Є.В. (1868) № 12](https://archive.org/details/podillya_vidomosti/PEV.1868/page/n227/mode/2up)).
+
+29 счня рясофорний послушник Андроник Кулицький переведений до Почаївської лаври ([П.Є.В. (1868) № 12](https://archive.org/details/podillya_vidomosti/PEV.1868/page/n227/mode/2up)).
+
+29 лютого братчик дяк Іоанн Бачинський виключений зі списків як померлий ([П.Є.В. (1868) №11](https://archive.org/details/podillya_vidomosti/PEV.1868/page/n215/mode/2up)).
+
 4 березня був оголошений список присутніх і кандидатів по Шаргородському духовно-училищному округу, священники:
 1. 
    - c. Яришівки Александр Змачинський
@@ -536,7 +542,9 @@ type: Organization
    - кандидат с. Підлісного Ялтушкова Антоній Любинецький
    - кандидат с. Семенок Філимон Крижановський ([П.Є.В. (1868) № 8](https://archive.org/details/podillya_vidomosti/PEV.1868/page/n145/mode/2up)).
 
-29 лютого братчик дяк Іоанн Бачинський виключений зі списків як померлий ([П.Є.В. (1868) №11](https://archive.org/details/podillya_vidomosti/PEV.1868/page/n215/mode/2up)).
+25 березня рясофорні послушники Яків Розворович і Павел Красовський пострижені в монахи ([П.Є.В. (1868) № 12](https://archive.org/details/podillya_vidomosti/PEV.1868/page/n227/mode/2up)).
+
+25 квітня до лав послушників зарахований однодворець с. Баланівки Ольгопільського повіту Михайло Шандровський ([П.Є.В. (1868) № 12](https://archive.org/details/podillya_vidomosti/PEV.1868/page/n227/mode/2up)).
 
 ### 1890-ті
 
