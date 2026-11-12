@@ -7,6 +7,8 @@ description: Route user-provided historical or genealogical information into rel
 
 # Route user-provided information into articles
 
+When creating or revising quotations, source citations, footnotes, or author/editor notes, load and follow `../citations-and-notes/SKILL.md`. This includes paraphrasing evidence and moving cited passages; stay within this workflow’s editing scope.
+
 Take information supplied by the user and place its useful parts in the existing vault article or articles that best fit. Treat the user's statements—including their own readings or transcriptions—as established facts unless they mark uncertainty or ask for verification. This is a local routing and editing workflow, not a research or fact-checking task.
 
 ## Scope

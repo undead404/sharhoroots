@@ -5,6 +5,8 @@ description: Reorganize, move, split, merge, or rename Obsidian/Quartz articles 
 
 # Curate vault articles
 
+When creating or revising quotations, source citations, footnotes, or author/editor notes, load and follow `../citations-and-notes/SKILL.md`. This includes paraphrasing evidence and moving cited passages; stay within this workflow’s editing scope.
+
 Make requested structural changes without losing an article's evidence, inbound links, attachments, or published URL history. A title edit alone is not necessarily a URL change; check the actual Quartz route before deciding whether a redirect is needed.
 
 ## Before editing

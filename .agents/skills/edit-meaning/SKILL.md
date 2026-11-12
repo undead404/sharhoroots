@@ -5,6 +5,8 @@ description: "Edit article meaning and structure: establish its subject and loca
 
 # Edit an article's meaning and structure
 
+When creating or revising quotations, source citations, footnotes, or author/editor notes, load and follow `../citations-and-notes/SKILL.md`. This includes paraphrasing evidence and moving cited passages; stay within this workflow’s editing scope.
+
 Use this skill for a meaning-focused editorial pass, not for a general language polish. The goal is to make clear what an article is about, why it belongs in this site, and how its established information best serves genealogists, historians, and local-lore researchers.
 
 ## Scope and evidence

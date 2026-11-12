@@ -5,6 +5,8 @@ description: Polish article prose and descriptions for readability, audience fit
 
 # Edit an article's wording
 
+When creating or revising quotations, source citations, footnotes, or author/editor notes, load and follow `../citations-and-notes/SKILL.md`. This includes paraphrasing evidence and moving cited passages; stay within this workflow’s editing scope.
+
 Use this skill as a publishing editor: make an article easier to read and understand for genealogists, historians, and local-lore researchers. Improve expression, not the article's underlying meaning or organization.
 
 ## Scope
