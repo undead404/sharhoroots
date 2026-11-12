@@ -90,6 +90,10 @@ type: Place
 
 За описом Міхала Балінського й Тимотеуша Ліпінського 1845 року та географічним словником 1885 року, на прохання Якима Кароля Потоцького король Станіслав Август Понятовський дозволив 1781 року для [[Murafa|Старої Мурафи]] та **Нової Мурафи** два чотиритижневі ярмарки — навесні на святого Юрія й восени на Воздвиження Хреста. Чи охоплював Нову Мурафу раніший привілей 1766 року на ярмарок після свята святого Михайла, з цих описів неясно.[^nova-murafa-fair-privileges-balinski][^nova-murafa-fair-privileges-sgkp]
 
+Короткий регест надання чотиритижневого ярмарку називає Мурафу спадковим містечком Якима Кароля Потоцького в Брацлавському воєводстві, але не розрізняє Старого й Нового міста. Тому цей запис також не встановлює, чи охоплювало надання Нову Мурафу.[^nova-murafa-fair-regest-s31-99v-100]
+
+[^nova-murafa-fair-regest-s31-99v-100]: Головний архів давніх актів у Варшаві (AGAD), Коронна метрика, книги печатних регестів, S 31, [арк. 99 зв.](http://agadd.home.net.pl/metrykalia/4/3/sygn.%2031/pages/PL_1_4_3-31_0099v.htm) — [100](http://agadd.home.net.pl/metrykalia/4/3/sygn.%2031/pages/PL_1_4_3-31_0100.htm), запис про чотиритижневий ярмарок для Мурафи: останні рядки арк. 99 зв. і продовження на початку арк. 100. Шифр у каталозі: `1/4/0/3/S 31`.
+
 [^nova-murafa-fair-privileges-balinski]: Міхал Балінський, Тимотеуш Ліпінський. «Murachwa albo Morachwa» // [*Starożytna Polska pod względem historycznym, jeograficznym i statystycznym opisana*](https://commons.wikimedia.org/wiki/File:Staro%C5%BCytna_Polska_pod_wzgl%C4%99dem_historycznym%2C_jeograficznym_i_statystycznym_opisana._T._2%2C_cz._2_%28IA_balinski-polska-2-2%29.pdf). Варшава, видання і друк С. Орґельбранда, 1845. Т. II, ч. 2, с. 1375, PDF-сторінка 832.
 
 [^nova-murafa-fair-privileges-sgkp]: Доктор М. [«Morachwa»](https://dir.icm.edu.pl/pl/Slownik_geograficzny/Tom_VI/666) // *Słownik geograficzny Królestwa Polskiego i innych krajów słowiańskich*. Варшава, 1885. Т. VI, с. 666, абзац про Потоцьких.
