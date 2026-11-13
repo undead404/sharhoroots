@@ -29,6 +29,24 @@ enum OCRFailure: Error, CustomStringConvertible {
   }
 }
 
+func diagnostic(_ message: String) {
+  fputs("\(message)\n", stderr)
+}
+
+func reportError(_ error: Error, label: String, depth: Int = 0) {
+  let indent = String(repeating: "  ", count: depth)
+  let nsError = error as NSError
+  diagnostic("\(indent)\(label): \(String(reflecting: error))")
+  diagnostic("\(indent)type=\(String(reflecting: type(of: error))) domain=\(nsError.domain) code=\(nsError.code)")
+  diagnostic("\(indent)description=\(nsError.localizedDescription)")
+  for key in nsError.userInfo.keys.sorted() where key != NSUnderlyingErrorKey {
+    diagnostic("\(indent)userInfo[\(key)]=\(String(reflecting: nsError.userInfo[key]!))")
+  }
+  if depth < 4, let underlying = nsError.userInfo[NSUnderlyingErrorKey] as? Error {
+    reportError(underlying, label: "Underlying error", depth: depth + 1)
+  }
+}
+
 func parseOptions() throws -> Options {
   var options = Options()
   var args = Array(CommandLine.arguments.dropFirst())
@@ -73,7 +91,9 @@ func supportedLanguages() throws -> [String] {
   try VNRecognizeTextRequest().supportedRecognitionLanguages()
 }
 
-func makeRequest(languages: [String], supported: [String]) throws -> VNRecognizeTextRequest {
+func makeRequest(
+  languages: [String], supported: [String], completion: VNRequestCompletionHandler? = nil
+) throws -> VNRecognizeTextRequest {
   let selected = languages.filter { supported.contains($0) }
   guard !selected.isEmpty else {
     throw OCRFailure.unsupportedLanguage(
@@ -85,7 +105,7 @@ func makeRequest(languages: [String], supported: [String]) throws -> VNRecognize
     fputs("Warning: unsupported language(s) skipped: \(missing.joined(separator: ", "))\n", stderr)
   }
 
-  let request = VNRecognizeTextRequest()
+  let request = VNRecognizeTextRequest(completionHandler: completion)
   request.recognitionLevel = .accurate
   request.recognitionLanguages = selected
   request.usesLanguageCorrection = false
@@ -98,9 +118,28 @@ func recognize(
   languages: [String],
   supported: [String]
 ) throws -> String {
-  let request = try makeRequest(languages: languages, supported: supported)
+  var completionError: Error?
+  let request = try makeRequest(languages: languages, supported: supported) { _, error in
+    completionError = error
+  }
   let handler = VNImageRequestHandler(cgImage: image, orientation: orientation, options: [:])
-  try handler.perform([request])
+  do {
+    try handler.perform([request])
+  } catch {
+    diagnostic("Stage: Vision recognition")
+    diagnostic("Image: \(image.width)x\(image.height) pixels, bitsPerComponent=\(image.bitsPerComponent), bitsPerPixel=\(image.bitsPerPixel), bytesPerRow=\(image.bytesPerRow), alphaInfo=\(image.alphaInfo.rawValue), colorSpace=\(String(describing: image.colorSpace)), orientation=\(orientation.rawValue)")
+    diagnostic("Request: revision=\(request.revision), level=accurate, languages=\(request.recognitionLanguages.joined(separator: ",")), languageCorrection=\(request.usesLanguageCorrection)")
+    if let completionError {
+      reportError(completionError, label: "Vision completion error")
+    } else {
+      diagnostic("Vision completion error: none supplied")
+    }
+    throw error
+  }
+  if let completionError {
+    diagnostic("Stage: Vision completion")
+    throw completionError
+  }
 
   let observations = (request.results ?? []).sorted { lhs, rhs in
     let left = lhs.boundingBox
@@ -141,9 +180,20 @@ func processPDF(_ url: URL, dpi: Int, languages: [String], supported: [String]) 
   }
 
   for index in 0..<document.pageCount {
-    guard let page = document.page(at: index) else { continue }
-    let image = try render(page, dpi: dpi)
-    let text = try recognize(image, languages: languages, supported: supported)
+    var stage = "PDF page loading"
+    let text: String
+    do {
+      guard let page = document.page(at: index) else {
+        throw OCRFailure.unreadable("Could not load PDF page \(index + 1)")
+      }
+      stage = "PDF rendering"
+      let image = try render(page, dpi: dpi)
+      stage = "Vision recognition"
+      text = try recognize(image, languages: languages, supported: supported)
+    } catch {
+      diagnostic("Context: file=\(url.path), PDF page=\(index + 1)/\(document.pageCount), dpi=\(dpi), stage=\(stage)")
+      throw error
+    }
     print("=== \(url.lastPathComponent) | PDF page \(index + 1) of \(document.pageCount) ===")
     print(text)
   }
@@ -163,7 +213,13 @@ func processImage(_ url: URL, languages: [String], supported: [String]) throws {
     let properties = CGImageSourceCopyPropertiesAtIndex(source, index, nil) as? [CFString: Any]
     let orientationValue = properties?[kCGImagePropertyOrientation] as? NSNumber
     let orientation = orientationValue.flatMap { CGImagePropertyOrientation(rawValue: $0.uint32Value) } ?? .up
-    let text = try recognize(image, orientation: orientation, languages: languages, supported: supported)
+    let text: String
+    do {
+      text = try recognize(image, orientation: orientation, languages: languages, supported: supported)
+    } catch {
+      diagnostic("Context: file=\(url.path), image frame=\(index + 1)/\(frameCount)")
+      throw error
+    }
     let label = frameCount == 1 ? "image" : "image frame \(index + 1) of \(frameCount)"
     print("=== \(url.lastPathComponent) | \(label) ===")
     print(text)
@@ -195,7 +251,8 @@ func run() throws {
       }
     } catch {
       failures += 1
-      fputs("OCR error: \(error)\n", stderr)
+      diagnostic("OCR failed: \(url.path)")
+      reportError(error, label: "OCR error")
     }
   }
 
@@ -207,6 +264,6 @@ func run() throws {
 do {
   try run()
 } catch {
-  fputs("\(error)\n", stderr)
+  reportError(error, label: "OCR terminated")
   Darwin.exit(1)
 }
