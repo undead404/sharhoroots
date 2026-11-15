@@ -5,6 +5,8 @@ description: Find, verify, reference, and write interesting historical or geneal
 
 # Research sourced local-history facts
 
+Load and follow `../manage-sources/SKILL.md` when finding or maintaining reusable source records, registering local copies or retained texts, or recording inspected passages. That skill owns the source schema and storage contract; keep research queries, access attempts, interpretations, and article application in this workflow's task/evidence record. Existing source metadata is a retrieval aid, not a substitute for inspecting the underlying evidence.
+
 When creating or revising quotations, source citations, footnotes, or author/editor notes, load and follow `../citations-and-notes/SKILL.md`. This includes paraphrasing evidence and moving cited passages; stay within this workflow’s editing scope.
 
 Help the user discover interesting facts without turning plausible stories, search snippets, or weak citations into asserted history. “Proved” means supported by evidence that readers can inspect; do not imply absolute certainty where the sources do not provide it.

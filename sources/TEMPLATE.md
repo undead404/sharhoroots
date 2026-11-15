@@ -1,31 +1,31 @@
 ---
-id: SRC-<short-stable-id>
-title: "<source title>"
-creator: "<author, institution, or unknown>"
-date: "<publication or creation date, if known>"
-type: "<primary | secondary | catalog | reference>"
-language: "<language, if known>"
-url: "<stable URL or archive/catalog URL>"
-shelfmark: "<archive/catalog identifier, if applicable>"
-access: "<open | restricted | unavailable | unknown>"
-local_copy: "<books/<filename>, if present; otherwise empty>"
-last_checked: YYYY-MM-DD
+schema_version: 1
+id: SRC-<stable-id>
+title: "<точна назва видання мовою оригіналу або українська назва запису>"
+type: reference
+# Додайте відомі поля пошуку й доступу; невідомі пропустіть:
+# url: "https://..."
+# local_copy: "books/..."
+# last_checked: "YYYY-MM-DD"
+# language: "французька"
 ---
 
-# <Source title>
+# <Українська назва запису або точна назва видання мовою оригіналу>
 
-## Coverage and usefulness
+## Чинний стан і межі опрацювання
 
-<What this source covers and which research questions it may help answer. This is a retrieval note, not a claim that the source has been inspected for a particular fact.>
+<Що відомо про джерело, які уривки опрацьовано, а що залишається зачіпкою. Не поширюйте опрацювання окремих сторінок на весь твір.>
 
-## Useful locators
+<Поясніть, чим джерело може допомогти в іншому дослідницькому завданні. Разові URL залишайте в поточному завданні або записі доказів.>
 
-- <Page, section, folio, image, volume, or other locator and what it appears to cover. Mark unverified locators as leads.>
+## Пошук і цитування
 
-## Access and local copy
+<Відомі автор чи установа, видання й дата, сталий URL або шифр, бібліографічні відомості. Додайте відомі необов'язкові поля за README.md; невідомі пропустіть. Точні назви видань і джерельні написання імен можна зберігати мовою оригіналу.>
 
-- <Access notes, stable download/viewer URL, and local path under `books/` if a copy is available. Note restrictions; do not store credentials.>
+## Корисні локатори
 
-## Citation
+- <Точна сторінка, аркуш, кадр чи запис і його значення для дослідження. Розрізняйте опрацьовані уривки та неперевірені зачіпки.>
 
-<Preferred citation details or a citation example. Add exact page/folio/image locators in the research record or article when evidence is actually inspected.>
+## Пов'язані дослідження
+
+<За потреби — посилання на наявні завдання з пошуковими запитами, тлумаченнями, історією застосування та технічними записами. Цитати й сирі транскрипції зберігайте мовою джерела, без мовчазних виправлень.>
