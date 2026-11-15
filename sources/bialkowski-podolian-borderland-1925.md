@@ -1,10 +1,26 @@
 ---
+schema_version: 1
 id: SRC-bialkowski-borderland-1925
 title: "Леон Бялковський — Na rubieży podolsko-ukrainnej"
 type: secondary
 url: "https://sbc.org.pl/Content/22462/PDF/22462.pdf"
-last_checked: 2026-11-06
+last_checked: "2026-11-15"
+local_copy: books/kwartalnik-historyczny-1925-39.pdf
+artifacts:
+  - path: sources/texts/bialkowski-podolian-borderland-1925/pdf-612-615.txt
+    kind: extracted_text
+    locator: "С. 591–594; PDF 612–615"
+    provenance: "Локальний pdftotext -layout із наявного текстового шару; без візуальної звірки та виправлень"
+    status: unverified
+inspected:
+  - locator: "С. 591–594; PDF 612–615, опис розмежування 1546 року"
+    basis: machine_only
+    note: "Опрацьовано текстовий шар; не людська звірка друку чи оригіналу акта"
 ---
+
+## Чинний стан: розмежування 1546 року
+
+С. 591–593 містять наведений автором опис місцевих меж Корони й Литви. С. 592–593: Данко Копистиринський мешкає в Барі, Петро Браткович не прибув і надіслав письмовий опис; цей опис починається від Верхняцької землі. С. 594 — тлумачення Бялковського про відсутність власників на південніших землях. Точну геоприв'язку урочищ не встановлено; латинські й кириличні видання самого акта ще не опрацьовано. Повторне використання: державні межі, землеволодіння та місцеві особи XVI століття. Розмежування й застосування: `tasks/research-murafa-polish-lithuanian-border.md`.
 
 # Джерело й доступ
 

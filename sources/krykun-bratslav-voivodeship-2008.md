@@ -1,10 +1,26 @@
 ---
+schema_version: 1
 id: SRC-krykun-bratslav-2008
 title: "Микола Крикун — Брацлавське воєводство у XVI–XVIII століттях"
 type: secondary
 url: "https://history.org.ua/LiberUA/978-966-8197-52-9/978-966-8197-52-9.pdf"
-last_checked: 2026-11-06
+last_checked: "2026-11-15"
+local_copy: books/krykun-bratslav-voivodeship-2008.pdf
+artifacts:
+  - path: sources/texts/krykun-bratslav-voivodeship-2008/pdf-014-017.txt
+    kind: extracted_text
+    locator: "С. 12–15; PDF 14–17"
+    provenance: "Локальний pdftotext -layout із наявного текстового шару; без візуальної звірки та виправлень"
+    status: unverified
+inspected:
+  - locator: "С. 12–15; PDF 14–17"
+    basis: machine_only
+    note: "Прочитано опис кордонів і оцінку карт Боплана в текстовому шарі; самі карти й акти не перевірені"
 ---
+
+## Чинний стан: кордони
+
+С. 12: автор посилається на розмежування 1546 і 1570 років та реконструкцію Александра Яблоновського. С. 14–15: описує карти Боплана 1648 і 1650 років, зокрема відтинок Чернівці — Мурафа, далі суходіл на північ, і застерігає про включення частин Подільського воєводства. Це різні часові й джерельні зрізи; карта XVII століття не встановлює державного кордону XV століття. Праця придатна для інших завдань про межі та адміністративний устрій Брацлавщини. Застосування: `tasks/research-murafa-polish-lithuanian-border.md`.
 
 # Бібліографія й локальна копія
 
