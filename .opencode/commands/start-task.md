@@ -7,7 +7,7 @@ Load and follow the `@research-facts` skill. Find a research task in `tasks/` an
 
 Handle states as follows:
 
-- `in_progress`: continue from the task's existing record without repeating completed work.
+- `in_progress`: read the current-state checkpoint and linked evidence first, then continue the unresolved next step under research-facts. For older tasks without a checkpoint, reconstruct it from the latest conclusions and relevant log sections; do not repeat completed work or reset cumulative search coverage.
 - `queued`: change to `in_progress` and begin research.
 - `fail`: inspect the recorded technical failure, retry only after addressing or working around it, and change to `in_progress` when work can proceed. If the failure still prevents work, record the concrete error and leave/set `fail`.
 - `no_result`: review the exhausted search and try again only through a materially different or newly available research route; record why this retry is worthwhile, avoid repeating exhausted methods, and change to `in_progress` when proceeding. If no viable new route exists, leave it `no_result` and report that rather than pretending it restarted.
