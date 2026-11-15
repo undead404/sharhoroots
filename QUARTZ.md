@@ -15,6 +15,8 @@ This site uses Quartz **5.0.0**, based on upstream commit
 - `content/_redirects` preserves old mixed-case URLs and existing renamed routes.
   Quartz 5 emits lowercase canonical URLs; wikilinks retain their source filenames.
   The alias plugin also generates case redirects on case-sensitive build systems.
+  Keep permanent moves explicit with status `301`; Cloudflare defaults to `302`.
+  Alias HTML intentionally uses `noindex` and must stay out of the sitemap.
 
 Use Node.js 22 or newer and npm 10.9.2 or newer:
 
@@ -30,6 +32,9 @@ all community plugins are installed by npm and the engine links the local plugin
 Do not disable install scripts without running `npm run build:plugins` separately.
 
 Run `npm run check` for frontmatter validation, tests, TypeScript, and formatting.
+After a full build, run `node scripts/check-indexing.mjs public` to check sitemap
+pages for missing HTML, indexing exclusions, and conflicts with redirect rules.
+This checks local output; verify HTTP status codes and headers after deployment.
 The migration passed all 168 tests and TypeScript checking. Repository-wide
 Prettier validation also reports pre-existing formatting issues outside this
 migration; do not reformat the vault just to clear them.
