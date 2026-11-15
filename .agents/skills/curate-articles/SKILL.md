@@ -13,6 +13,7 @@ Make requested structural changes without losing an article's evidence, inbound 
 
 1. Confirm the requested scope. Do not infer permission to rewrite historical claims while reorganizing an article.
 2. Read the source note and nearby destination notes. Preserve YAML frontmatter, citations, Obsidian wikilinks, embeds, attachments, and the established folder/type conventions.
+   For extraction or merging, load and follow `../content-placement/SKILL.md` to assess entity boundaries and plan primary treatment and linked context in related articles.
 3. Search the vault for links to the current note, its filename, aliases, and relevant headings. Include indexes, tables, and Markdown links—not only prose backlinks.
 4. Inspect `content/_redirects` before changing paths. Its format is one old route and one destination route per line. Preserve existing lines and their order; the file contains routes with different prefixes, so do not normalize routes by guesswork.
 5. Determine the actual old and new published routes from the repository's Quartz path rules and any relevant frontmatter/configuration. A content file path is not automatically a URL with a `content/` prefix. If a route cannot be determined confidently, stop and ask rather than writing a speculative redirect.

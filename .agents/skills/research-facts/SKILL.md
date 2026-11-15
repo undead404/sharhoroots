@@ -13,6 +13,8 @@ This evidence workflow governs claims found in outside sources and the assistant
 
 ## Workflow
 
+When selecting destinations, load and follow `../content-placement/SKILL.md`. For each article-worthy finding, identify the historical subject, primary existing page and section, useful cross-references, and any justified extraction proposal; check that routing implies no unsupported institutional continuity. Record placement in the existing evidence/disposition record, without adding a new task template or treating a registrar as the home for the population it served.
+
 1. **Define the question.** Identify the place, period, people or institution, and what would count as an interesting answer. Ask a concise question if the scope is too broad to research responsibly.
 2. **Check the task queue.** Read relevant notes in `tasks/` before starting. Do not duplicate an open task; if the request spans independently answerable questions, keep the current answer focused and capture the other questions as separate tasks.
 3. **Check reusable sources before web searching.** Look through `sources/` for source records relevant to the question, then check the corresponding local copies under `books/`. A source record is a lead and retrieval aid, not evidence; verify the source itself and its relevant passage. A previously downloaded copy may satisfy the requirement to process a source document, but record what you actually inspected and its precise locator. Do not download another copy when a usable local copy is already present.

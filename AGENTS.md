@@ -40,6 +40,7 @@ This repository is an Obsidian vault published with Quartz 4. It serves genealog
 - When an article's published path changes, update `content/_redirects` and affected internal links in the same change. Preserve existing redirect entries and verify the old and new published paths; do not assume every route has the same prefix.
 - Quartz builds the `content/` directory by default and ignores paths matching `private`, `templates`, `.obsidian`, and `**/*.excalidraw.md`. Keep research tasks in the repository-root `tasks/` directory, outside the published content tree; never copy them into generated site output.
 - Do not edit generated output or local Obsidian workspace state as a substitute for editing its source.
+- When choosing where historical or genealogical information belongs, cross-referencing it, or assessing extraction or merging, load and follow `.agents/skills/content-placement/SKILL.md`. Organize by historical entity; settlement history covers all inhabitants, and article length alone is not a reason to split.
 
 ## Historical administrative research reminder
 
