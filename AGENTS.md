@@ -71,7 +71,9 @@ This repository is an Obsidian vault published with Quartz 4. It serves genealog
 ## Quartz and verification
 
 - `npm run docs` runs the repository's Quartz build with its local preview server.
-- `npm run check` runs TypeScript checking and Prettier validation.
+- `npm run check` runs frontmatter and source validation, tests, TypeScript checking, and repository-wide Prettier validation.
+- `npm run lint:markdown` checks project Markdown using `.markdownlint.jsonc`. For a focused edit, use `npx markdownlint-cli2 ":path/to/note.md" ":.agents/path/to/SKILL.md"` with the actual changed paths; the `:` prefix identifies literal filenames. Prefer the CLI, which loads the JSONC configuration correctly, over a custom library call or a copied rule configuration. Keep the existing MD055/MD056 table rules unless a rule change is explicitly requested.
 - `npm test` runs the TypeScript tests.
-- Run `npm run check` after TypeScript or formatting changes; run `npm test` when changes affect tested behavior. For content-only edits, preserve note conventions and links and report any checks that were not run.
+- Run `npm run check` after TypeScript, formatter-configuration, or code-formatting changes; run `npm test` when changes affect tested behavior. For Markdown-only prose, research-log, or agent-instruction edits, run focused Markdown linting and the applicable frontmatter/source validators instead of invoking repository-wide Prettier solely because Markdown changed. Preserve note conventions and links and report any checks that were not run.
+- Distinguish Markdown lint from Prettier formatting. In markdownlint-cli2 output, `Linting: N files` reports coverage; `Summary: 0 issues in 0 files` is a successful result with no affected files, not evidence that no files were checked. Report Prettier failures separately from Markdown-rule violations; do not loosen Markdown rules or reformat unrelated content to clear existing repository-wide Prettier differences.
 - Do not reformat unrelated files or run `npm run format` across the repository unless explicitly requested.
