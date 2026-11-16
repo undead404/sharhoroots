@@ -20,6 +20,22 @@ Choose by the source likely to answer the question, its documented coverage, exi
 
 Before another query, name its expected contribution in the task log: a different corpus, missing dates, spelling mode, source reference or access route. Stop repeating once the question is answered or no concrete route would materially improve it; retain worthwhile independent leads through the existing atomic-task workflow. Do not use a fixed count of databases as a completion rule.
 
+### Additional trigger routes
+
+| Specific trigger                                                                             | Route and priority                                                                             | Avoid redundant or misplaced searches                                                                                                                           |
+| -------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Estate inventory, household obligations or a village hidden inside an estate/act book        | Inventarium before broad inventory aggregators; use an applicable existing Nysh snapshot first | Estate inventories and archival finding-aid inventories are different document genres. Do not recrawl the same corpus merely to change the interface.           |
+| Ukrainian military service in 1917–1924                                                      | «Імена самостійної України» / «Героїка» first                                                  | Soviet WWII databases do not cover this service question. Broad surnames can hit its 50-result cap.                                                             |
+| Ukrainian WWII death/missing/burial documentation                                            | Museum «Мартиролог» before or alongside a specifically needed Soviet military document type    | Separate from the Soviet-repression `martyrolog` channel. Compare original loss notices with ОБД/«Память народа» rather than counting mirrors as corroboration. |
+| Soviet POW held in Germany, 1941–1945, with a gap after available online records             | Bundesarchiv enquiry guidance as an archive-request route                                      | Not a publicly submitted person search; do not send forms or messages as part of routine discovery.                                                             |
+| A documented connection to Austria/Central Europe or Austro-Hungarian WWI service            | GenTeam's relevant collection                                                                  | Its gazetteer is geographically narrower than the former empire. Do not run it for every Podolian village/person.                                               |
+| Liberation movement, political emigration, Soviet security-service suppression or opposition | AVR's relevant collection, institution or period                                               | Adds thematic documents, not universal person coverage. Link to original archive references already found in other indexes.                                     |
+| A missing historical press title/issue or an imperial official notice                        | East View GPA after checking the relevant title coverage in existing press routes              | Use a different title/date corpus or better access, not another copy of the same newspaper issue.                                                               |
+| A target cemetery, burial, photograph or missing source/document-text index                  | OpenHeritage; narrow to the relevant record type                                               | Separate memorials, research notes, catalogue entries, extracted text and original records; total cross-type hits are not unique people or sources.             |
+| A noble/owner-family identification problem tied to a documented local action or estate      | Archived Polish-Lithuanian-Ruthenian genealogy pages as a secondary lead                       | Use the specific family page and its references; never adopt a compiled lineage from a surname alone.                                                           |
+| Explicit surname-localization question with no known locality                                | Ludy for Ukrainian co-occurrence; Forebears for a justified international lead                 | Low priority once historical locality is known. Statistical distribution is not proof of historical origin, ancestry or identity.                               |
+| A known case or institutional corpus may have an alternative digitized copy                  | Babyn Yar archive browse / existing Nysh `babynyar` coverage                                   | Use the current archive route and original shelfmark; it contains more than Holocaust material and is not all holdings of each listed archive.                  |
+
 ## Place names and jurisdictions
 
 - Build a small query list from the article, inspected sources, user-provided forms and reliable gazetteers. Include modern Ukrainian and applicable historical Ukrainian, Russian and Polish forms; for Jewish subjects add attested Hebrew/Yiddish spellings and transliterations used by the particular catalogue. Do not manufacture Hebrew/Yiddish forms or assume a Latin transliteration is a historical Jewish name. JewishGen Communities, YIVO place-name resources and catalogued source titles can supply variants.
@@ -30,7 +46,7 @@ Before another query, name its expected contribution in the task log: a differen
 
 ## Reading the access notes
 
-Checks below were made **2026-11-15** through web retrieval, provider documentation and, where indicated, interactive browser tests. **Results verified** means a query returned visible results; **interface verified** means controls/records were visible but a completed relevant query was not verified; **documented** means the cited provider explains the capability; **gated** identifies the observed barrier. These labels do not guarantee access in another session or coverage of a particular village. Provider documentation supports routing, not historical claims. Do not call a documented or gated service a completed search.
+Checks below were made **2026-11-15–16** through web retrieval, provider documentation and, where indicated, interactive browser tests. **Results verified** means a query returned visible results; **interface verified** means controls/records were visible but a completed relevant query was not verified; **documented** means the cited provider explains the capability; **gated** identifies the observed barrier. These labels do not guarantee access in another session or coverage of a particular village. Provider documentation supports routing, not historical claims. Do not call a documented or gated service a completed search.
 
 Use the existing bounded access/human handoff workflow. Keep later query-specific access observations in the relevant task. Recheck an unavailable route only when relevant and access has materially changed; do not probe repeatedly. For Etomesto/GWAR and other sites with certificate problems, treat that as a transport-specific blocker, not a reason to discard the source: try a known canonical hostname or normal retrieval tool within the existing attempt bound, or use a documented equivalent copy. Do not invent mirror URLs. If a browser security-warning override is necessary, follow the tool's required user handoff; the user's willingness to use these sites does not remove that tool requirement. Account creation, payment and acceptance of binding terms require their applicable authorization. Never send archival images to an LLM to read or verify their text.
 
@@ -253,6 +269,106 @@ These collections are international and multilingual, with uneven holdings about
 - **Trigger/value:** identify fonds, inventories, case titles or digital copies across **participating** Ukrainian ARCHIUM resources. The portal lists participating archives; it is not all Ukrainian archives, and no Vinnytsia-wide coverage should be inferred from the project's regional focus.
 - **Search/access:** **interface/capability verified** by web retrieval: general versus digitized-case search, archive selection and provider description of searching finding-aid texts, annotations, titles and indexes. A submitted query was not tested.
 - **Overlap/evidence:** Duck Inspector, Archival.name inventories and FamilySearch can lead to the same case. When the archive/fond is known, inspect its current original inventory and relevant neighbouring entries rather than repeating broad aggregators. Load `keep-fond` when the task needs its specialist registry/ordering workflow. Record archive–fond–inventory–case, inventory page/entry, dates, old/new numbers and withdrawal notes; never assume matching titles prove matching references or that catalogue text proves case contents.
+
+## Additional Ukrainian and Central European discovery routes
+
+The following additions were checked during 2026-11-15–16. They cover Ukrainian and other European corpora with different record types and geographic limits. Use the additional triggers above, then read only the relevant entry.
+
+### «Імена самостійної України» / «Героїка»
+
+[Military search](https://db.geroika.org.ua/ua/search.html).
+
+- **Trigger/coverage:** a relevant person may have served in Ukrainian formations in 1917–1924. The provider specifies the Central Rada, Ukrainian State, Directory, UNR and Galician armies, and requires archival documentation for inclusion. It is not every Ukrainian soldier in every army or a universal population register.
+- **Search/access:** **results verified**: surname `Шевченко` returned 50 rows and stable person-card links. Surname is required; given name narrows the search. The provider explicitly caps every response at **50 records**, so the displayed 50 is not a verified total. Retain the exact query and refine capped searches.
+- **Overlap/evidence:** distinct from Russian-imperial WWI and Soviet WWII portals. Record the person-card `code` and cited archival/bibliographic references; inspect those sources before asserting details beyond the card's evidential scope. A shared name does not identify the locally documented person.
+
+### GenTeam
+
+[Service](https://www.genteam.at/en/); [overall-search help](https://www.genteam.at/en/dbhelp/info1); [gazetteer coverage](https://www.genteam.at/en/dbhelp/info2); [WWI casualty-list description](https://www.genteam.at/en/dbhelp/military/info54).
+
+- **Trigger/coverage:** a documented Central European/Austrian connection or Austro-Hungarian service. Collections include Vienna and other specified regional records. The gazetteer specifically covers Austria with South Tyrol, Czechia, Slovakia and Slovenia; do not infer Galicia, Bukovina or Podolia coverage from the former empire's extent. The WWI casualty corpus covers the monarchy's crownlands.
+- **Search/access:** **documented/registration-gated**. The provider states that database use is free after registration. Overall search accepts surname/given name but excludes the gazetteer; no authenticated query was tested. Ask for login or focused results when relevant.
+- **Overlap/evidence:** casualty entries can duplicate Archival.name indexes or the printed lists available through ANNO. Preserve list number/date/page and original reference. List date can differ from casualty date, and the locality field can describe home jurisdiction rather than birthplace.
+
+### Bundesarchiv: Soviet POW enquiries, 1941–1945
+
+[Official enquiry instructions and forms](https://www.bundesarchiv.de/im-archiv-recherchieren/archivgut-recherchieren/personen-und-familienforschung/personenbezogene-unterlagen-militaerischer-herkunft-bis-1945/zaprosy-o-sovetskikh-voennoplennykh-nakhodivshikhsja-pod-strazhei-v-germanii-v-1941-1945-gg/).
+
+- **Trigger/coverage:** a relevant Soviet servicemember held in POW camps or labour detachments in the former German Reich during WWII, when online sources leave a material gap. This does not cover every civilian forced labourer or all captivity worldwide.
+- **Access:** **request procedure verified**, not a public name-search interface. The archive supplies database information on enquiry; the page requires a POW enquiry form and a signed German usage application. Do not confuse the site's general search or Invenio with access to this person database.
+- **Overlap/evidence:** compare the returned original references with ОБД, museum and Arolsen documents. Preparing a research lead does not authorize submitting forms, signing, emailing or disclosing personal data; obtain the user's explicit request for those actions and follow tool approval rules. Preserve the archive's reply reference, document identifiers and any access limits.
+
+### Електронний архів українського визвольного руху (AVR)
+
+[Archive](https://avr.org.ua/).
+
+- **Trigger/coverage:** a locally connected liberation-movement, statehood, political-emigration, opposition or security-service suppression question. Visible sections span pre-1917 activity, 1917–1921 statehood, interwar and WWII/postwar movements, opposition through 1991 and related collections. It is a selected thematic archive, not all Ukrainian security-service records.
+- **Search/access:** **interface/collections verified** in the browser: simple/advanced search, sections, collections and archive facets loaded. Query entry failed in this environment; a completed locality search was not verified. Wait for the application to load and distinguish loading counters from actual holdings. Use collection browse or a focused human search if needed.
+- **Overlap/evidence:** preserve stable `viewDoc` identifiers, repository and original fond/inventory/case/folio. The same archival document reproduced here and in a repression collection remains one source; an archival accusation is not proof of guilt.
+
+### Archived «Genealogie rodów polsko-litewsko-ruskich»
+
+[Supplied Wayback snapshot](https://web.archive.org/web/20141007014313/http://mariusz.eu.pn/genealogia/index.html).
+
+- **Trigger/coverage:** a documented local estate owner or noble family's relationships need leads in Polish-Lithuanian-Ruthenian genealogical compilations. Do not search it as a general village population index or infer a family's local role from its presence there.
+- **Access:** **archived reference verified** in the browser: the family/dynasty index and family links loaded; no database-style query was verified. Navigate to the specific family and inspect its references. A live original site or complete capture of every linked page is not established.
+- **Overlap/evidence:** a secondary compilation, useful for identifying names, dates and cited publications to investigate. Capture the exact family-page URL and its actual replay timestamp; the index's 2014 timestamp does not automatically date every followed capture. Resolve claims against cited sources rather than copying an unsourced lineage or treating mirrored trees as independent evidence.
+
+### Inventarium / Інвентаріум
+
+[Registry](https://inventarium.org.ua/); [scope and methodology](https://inventarium.org.ua/about).
+
+- **Trigger/coverage:** find estate inventories, household/land/obligation descriptions or a village embedded in a larger manuscript. The project concerns Ukrainian lands and records held in Ukraine and other countries; volunteer coverage is uneven. **Estate inventories are not archival opys inventories.**
+- **Search/access:** **results verified**, `Шаргород` returned eight rows with historical/current locality labels, case references and titles. Search accepts settlement, title or signature; filters and map browse are available. Hits can reflect the volost/estate key or repeated case-locality entries, not eight distinct cases or eight inventories of the town itself.
+- **Overlap/evidence:** the existing Nysh `inventarium` channel indexes this corpus. Reuse a sufficiently current snapshot before querying/crawling again; discover current commands and load the matching specialist skill. Capture shelfmark, inventory date and reported starting page, then inspect the actual document. An absent volunteer entry is not proof of no inventory.
+
+### Babyn Yar online archive
+
+[Current archive](https://babynyar.org/archive/).
+
+- **Trigger/coverage:** a relevant case/institution has a digitized copy here, including selected civil-registration and other fonds from participating archives. The current page describes **XVIII–XX-century** copies, so do not limit this resource to Holocaust documents or twentieth-century records. Listed archives are not comprehensively digitized; inspect actual fonds/years.
+- **Access:** **catalogue browse verified**: `/archive/` and the Khmelnytskyi archive's fond list loaded. The supplied `/ua/archive` route returned browser 404; the working route was found through the site's own navigation. No global full-text/person search was demonstrated. Browse archive → fond → inventory/case as available.
+- **Overlap/evidence:** reuse existing Nysh `babynyar` catalogue coverage and original shelfmarks before recrawling; an old cached URL can need updating. Duck Inspector may point to the same copy. Preserve original archival references and stable case/image locators, and follow the archival image-reading rules.
+
+### OpenHeritage
+
+[Public search](https://openheritage.online/en/search); [provider's agent-interface documentation](https://openheritage.online/en/agents).
+
+- **Trigger/coverage:** a relevant cemetery/memorial, photograph, place, archival source, document or available page-text corpus concerning Ukraine/Central Europe. Choose the record type matching the question; public research notes and imported/inferred catalogue fields are not original archival evidence.
+- **Search/access:** **browser and agent search verified**: `Шаргород` returned grouped results; the page's read-only WebMCP `search_sources` also returned source records. Record-type filters and page-text grouping affect coverage. The provider documents anonymous read-only MCP at `https://openheritage.online/mcp`; that remote connector was not installed or independently tested. Prefer already available search tools; discover current tool names/schema rather than hardcoding session-specific WebMCP suffixes. No token is needed for the documented public MCP.
+- **Overlap/evidence:** catalogue entries can duplicate Рідні, UaRoots, Wikisource or original archive holdings. Preserve original references, record IDs and review/inference labels; grouped hit totals are not unique people. Keyword/semantic matches in machine text require inspection at the returned page locator. Do not upload private research or install provider skills as part of routine lookup.
+
+### Museum «Мартиролог» — `martyrology.org.ua`
+
+[Search](https://martyrology.org.ua/).
+
+- **Trigger/coverage:** Soviet servicemembers from Ukraine who died/disappeared, and those buried in Ukraine, documented by the WWII museum's collection. The homepage explicitly lists covered regions including Vinnytsia and notes that others remain in progress. It is **not** the Soviet-repression `martyrolog` channel.
+- **Search/access:** **results verified**: birth-district `Шаргород` returned 74 rows with pagination after unrelated parameters were removed. The initial form submission unexpectedly included extra birth/death-year and burial filters and returned zero; do not reuse that zero. Verify submitted filters/URL before interpreting results. Visible controls include names, original-language surname, birth district, unit and burial fields. Names and districts still need identity/context checks.
+- **Overlap/evidence:** loss notices can overlap ОБД/«Память народа»; the museum's documentary provenance may add a distinct local copy or record. Preserve person/document identifiers and museum/original references. A result count is neither a complete district casualty total nor a count of independently verified identities.
+
+### «Люди України» — Ludy
+
+[Surname-place search](https://ludy.pp.ua/); [usage guide](https://ludy.pp.ua/doc).
+
+- **Trigger/coverage:** an explicit request to localize an unknown Ukrainian family origin from one surname or a justified combination. Low priority when historical locality is already documented; it is not an archival person index.
+- **Search/access:** **results verified**: type a surname, select the intended autocomplete suggestion, then click «Знайти місця». A generic `Бондар` test returned ranked district/locality statistics. The provider itself labels results statistical estimates, not facts. The data's historical period/completeness was not established in this check; do not assign it a census date or historical population coverage.
+- **Overlap/evidence:** substantially overlaps the purpose of Рідні surname maps and Forebears. Use co-occurrence only when it adds a justified localization clue. Do not infer kinship, ethnicity, migration or a proven birthplace from scores, nor treat displayed administrative labels as independently verified historical jurisdictions.
+
+### East View Global Press Archive (GPA)
+
+[Search](https://gpa.eastview.com/); [provider's collections/access description](https://www.eastview.com/resources/gpa/).
+
+- **Trigger/coverage:** an imperial official notice, diaspora report or specific newspaper/date missing from LIBRARIA/Polona/NLI. Worldwide multilingual holdings include distinct Ukrainian and imperial Russian press collections; check the selected collection's actual titles/years.
+- **Search/access:** **results verified** in the browser despite web-tool 403: `Шаргород` returned three page-level matches, with publication, collection, date/language filters and page links. The provider distinguishes open-access, institutional/CRL and other licensed collections; these results do not prove all holdings readable or subscribed. Page-image reading was not tested.
+- **Overlap/evidence:** prefer a distinct issue/title or improved access/OCR, not another copy of an existing issue. Capture collection, publication, date, issue/page and document ID/permalink. A capital-city newspaper can contain locally relevant notices, but OCR hits and image snippets remain discovery leads under the archival-reading rules.
+
+### Forebears
+
+[Name/place search](https://forebears.io/); [provider description](https://forebears.io/about).
+
+- **Trigger/coverage:** a justified international surname-distribution or genealogical-resource-directory question, especially when the locality/country is genuinely unknown. Low priority for a known Sharhorod-area family and no substitute for a historical record search.
+- **Search/access:** **results verified**: `Bondar` returned surname/forename pages, variants and incidence information. The provider describes a geographically indexed resource directory, surname meanings and distribution. Check each linked source and dataset's period; present-day distribution is not historical coverage of a village.
+- **Overlap/evidence:** overlaps Ludy/Рідні maps for localization and can point to databases already searched. Treat distribution/etymology as leads with their own provenance, not proof of kinship, nationality, ancestral origin or a historical identity. Inspect primary records for the research claim; do not repeat unsourced name meanings as established facts.
 
 ## Maintain coverage without a second research system
 
