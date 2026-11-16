@@ -128,6 +128,16 @@ Use the existing bounded access/human handoff workflow. Keep later query-specifi
 - **Search/access:** **documented/gated**. Help confirms newspaper full-text, phrase/Boolean and title/date filtering, with basic newspaper use available without registration. Direct web access returned 403 and the browser showed a verification screen; a live query was not completed. Catalogue and digitization access are item-specific.
 - **Overlap/evidence:** select titles or archive collections missing from LIBRARIA/JewishGen. Preserve NLI item ID and original holding archive, or newspaper/date/issue/page/article ID. Match Hebrew-script forms from a reliable source; OCR coverage does not verify readings.
 
+- **Title-specific access and identity, checked 2026-11-16:** the general search returned 403 while a known newspaper's own catalogue page was readable. Try a relevant title page within the bounded access workflow before treating the whole resource as inaccessible. Match publication city and available dates as well as title: [NLI `demet`](https://www.nli.org.il/en/newspapers/demet) is Warsaw's *Der Emeś*, with six issues from 1928–1929; it is not Moscow's *Emes / Der emes* cited for 1925. Such a mismatch is a coverage exclusion, not a negative full-text search of the required newspaper.
+
+### Soviet Yiddish Press bibliography explorer
+
+[Bibliography and user guide](https://syp.parasolcorpus.org/).
+
+- **Trigger/value:** locate library holdings when a Soviet or Russian-imperial Yiddish newspaper is identified but the needed issue is missing from an online newspaper collection. The guide describes data from the National Library of Russia, Russian State Library, Vernadsky National Library of Ukraine and Ukrainian Book Chamber; it excludes territories outside Soviet control in 1939, including Vilnius titles.
+- **Search/access:** **interface and guide inspected, 2026-11-16; no completed holdings query verified.** Use Periodical View for a named title, then check the library and date coverage. The guide distinguishes year volumes from individual issues and says some Vernadsky catalogue holdings were not found during partial checks. A year-volume entry does not prove that the required dated issue survives.
+- **Overlap/evidence:** this is a bibliography of holdings, not a digitized newspaper archive or full-text search. Record title identity, library, year/issue coverage and any checked/not-found label before requesting the specific issue; do not infer online scans from a holdings row.
+
 ## Holocaust documentation
 
 ### Yad Vashem
@@ -269,6 +279,14 @@ These collections are international and multilingual, with uneven holdings about
 - **Trigger/value:** identify fonds, inventories, case titles or digital copies across **participating** Ukrainian ARCHIUM resources. The portal lists participating archives; it is not all Ukrainian archives, and no Vinnytsia-wide coverage should be inferred from the project's regional focus.
 - **Search/access:** **interface/capability verified** by web retrieval: general versus digitized-case search, archive selection and provider description of searching finding-aid texts, annotations, titles and indexes. A submitted query was not tested.
 - **Overlap/evidence:** Duck Inspector, Archival.name inventories and FamilySearch can lead to the same case. When the archive/fond is known, inspect its current original inventory and relevant neighbouring entries rather than repeating broad aggregators. Load `keep-fond` when the task needs its specialist registry/ordering workflow. Record archive–fond–inventory–case, inventory page/entry, dates, old/new numbers and withdrawal notes; never assume matching titles prove matching references or that catalogue text proves case contents.
+
+### ДАВіО: electronic archive and Synology
+
+[Official «Електронний архів» page](https://davio.gov.ua/page/elektronniy_arhiv).
+
+- **Trigger/route:** when a known Vinnytsia fond needs an inventory or digital copy, follow the current official links. The page separates «Довідковий апарат», «Описи», case collections and «Книга обліку справ, на які створено цифрові копії». An inventory is not the case itself. A legacy fond-list link to `/funds/404.pdf` does not exhaust access: try «Описи» → «Описи фондів нових актів» in the public Synology Drive. Folder labels can use padded numbers; check the relevant forms, such as `Р-699`, `0699`, `699`. Use the current shared link rather than inventing file URLs or relying on an old internal `file_id`.
+- **Access/retry, learned 2026-11-16:** a text-only QuickConnect response may show only `Connecting…`; it does not expose the directory. Use an available interactive browser within the bounded access workflow. For this archive, the user explained that Synology's `Unable to connect` means a temporary power outage in the archive building. Keep the route eligible and retry after power/access returns; do not repeatedly probe during the outage or label it a permanent gate, missing inventory or search zero. Agent browser-control failures are a separate limitation, not evidence about the server.
+- **Coverage/evidence:** inspect the actual folder contents, pagination or virtual-list range before claiming absence. Preserve the inventory's exact filename, share link, fond–inventory code and inspected page/entry. A previous folder count or another task's successful access is a navigation aid, not current coverage. If work depends on the offline inventory, record that temporary dependency in the task and resume when available; a human check is useful only if their access works.
 
 ## Additional Ukrainian and Central European discovery routes
 

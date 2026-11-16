@@ -17,6 +17,14 @@ For specialist routes beyond these six services, start with the triggers in [Spe
 
 Access observations above are from browser tests on 2026-11-15, not permanent site policies. The user logged into ЦДІАК-442 and FamilySearch in this chat's browser. Authenticated ЦДІАК-442 descriptions and pagination were verified; FamilySearch login was reported by the user, with post-login record access still to be checked. Do not assume these sessions survive in a later chat or another agent environment. Reuse an available session before asking the user to log in again. Never retain credentials, cookies or authentication tokens in repository files.
 
+## Duck Inspector: public API details
+
+Verified on 2026-11-16 against the provider's [OpenAPI schema](https://inspector.duckarchive.com/openapi.yml) and successful live queries. Refresh the schema or [agent guide](https://inspector.duckarchive.com/llms.txt) before relying on these parameters in a later session.
+
+- `POST /api/search` accepts a JSON body; supplied fields combine with **AND**. For example, `{"title":"Мураф","year_from":"1920","year_to":"1930","fuzziness":0}` returned results. `title` searches titles, descriptions and linked-author text; it is not a full transcription search. Year bounds are strings and match overlapping record date ranges.
+- `fuzziness: 0` or omission means **substring matching**, not exact words or exact titles. Positive values use trigram word similarity (`0.3` loose through `1` exact words). Record the actual setting; do not describe a substring zero as an exhaustive exact-name search.
+- `archive`, `fond`, `inventory` and `file` filter by exact, case-sensitive catalogue codes. Use provider catalogue spellings; the documented API rejects Latin letters in text values. The response is capped at **50 rows with no further pagination**; narrow capped queries. The documented rate limit is **5 requests per 10 seconds per client**. An exact-fond zero still describes only this index's coverage, not the archive's holdings.
+
 ## Verify access and record coverage
 
 Submit a relevant query and observe results, a scoped zero, or a concrete gate. Opening a homepage or filling a form alone does not demonstrate working search. Distinguish search counts, public previews, full entries, source links and access to the underlying document. A failure in a web retrieval tool does not imply that browser search is blocked; use an available browser within the bounded access workflow. Prefer supported connectors or documented APIs when they can perform the search adequately.
