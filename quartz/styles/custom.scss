@@ -1,3 +1,33 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+@media all and ($mobile) {
+  .page > #quartz-body {
+    // Let wide tables scroll inside the article instead of sizing the page.
+    grid-template-columns: minmax(0, 1fr);
+
+    > .center,
+    > footer,
+    > .sidebar {
+      min-width: 0;
+      overflow-wrap: anywhere;
+    }
+
+    > .center,
+    > footer {
+      width: 100%;
+      box-sizing: border-box;
+    }
+
+    > .sidebar.left {
+      flex-wrap: wrap;
+      gap: 0.75rem 0.5rem;
+
+      // Keep the title readable and leave a separate row for the controls.
+      > .page-title {
+        flex-basis: 100%;
+        min-width: 0;
+        order: -2;
+      }
+    }
+  }
+}
