@@ -1,4 +1,40 @@
+---
+schema_version: 1
+id: SRC-pamiatky-vinnytskoi-oblasti-slovnykova-chastyna-2011
+title: "Пам’ятки історії та культури Вінницької області: словникова частина"
+type: reference
+date: "2011"
+language: українська
+url: "https://history.org.ua/LiberUA/978-617-533-042-5/978-617-533-042-5.pdf"
+local_copy: books/pamiatky-vinnytskoi-oblasti-slovnykova-chastyna-2011.pdf
+last_checked: "2026-11-16"
+artifacts:
+  - path: books/pamiatky-vinnytskoi-oblasti-slovnykova-chastyna-2011-history.pdf
+    kind: copy
+    locator: "Копія Інституту історії України, 219 PDF-сторінок"
+    provenance: "Завантажено 2026-11-16 з основного URL; бібліографічний запис https://resource.history.org.ua/item/0009084"
+  - path: sources/texts/pamiatky-vinnytskoi-oblasti-slovnykova-chastyna-2011/pdf-153-tesseract.txt
+    kind: ocr
+    locator: "Копія Інституту історії України, PDF-стор. 153; розворот друкованих с. 302–303"
+    provenance: "2026-11-16: pdftoppm, масштаб до 3600 пікселів, поворот 180° через sips, Tesseract ukr; без виправлень"
+    engine: "Tesseract ukr"
+    status: unverified
+inspected:
+  - locator: "Копія ВНТУ, PDF-стор. 1–3"
+    basis: source_text
+    note: "Опрацювання 2026-11-05: назва, бібліографія, анотація; докладніше нижче"
+  - locator: "Копія Інституту історії України, PDF-стор. 2–3, 150, 153–157"
+    basis: machine_only
+    note: "2026-11-16: локальний Tesseract ukr. Пошук розділу Шаргородського району, зокрема рядка Покутиного на PDF-стор. 153. Людина OCR не підтверджувала; не використовувати його як підтверджене читання"
+---
+
 # Пам’ятки історії та культури Вінницької області: словникова частина (2011)
+
+## Чинний стан
+
+Є дві копії різного обсягу: попередній файл ВНТУ (62 PDF-сторінки) та отримана 2026-11-16 копія Інституту історії України (219 PDF-сторінок, зокрема розвороти). Їхню повноту й тотожність усіх сторінок не перевірено. Нова копія корисна для дослідження інших пам’яток області, відсутніх у короткому файлі. Машинне читання рядка Покутиного містить пам’ятник Володі Загурному, а не підтвердження меморіалу Голодомору. Межі й пошуки — `tasks/research-pokutyne-holodomor-memorial.md`.
+
+## Попередні відомості та опрацювання
 
 ## Бібліографічний опис
 
