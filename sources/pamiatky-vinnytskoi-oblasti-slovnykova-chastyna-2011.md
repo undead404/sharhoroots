@@ -9,6 +9,12 @@ url: "https://history.org.ua/LiberUA/978-617-533-042-5/978-617-533-042-5.pdf"
 local_copy: books/pamiatky-vinnytskoi-oblasti-slovnykova-chastyna-2011.pdf
 last_checked: "2026-11-16"
 artifacts:
+  - path: sources/texts/pamiatky-vinnytskoi-oblasti-slovnykova-chastyna-2011/pdf-070-tesseract.txt
+    kind: ocr
+    locator: "Копія Інституту історії України, PDF-стор. 70, рядок 15 Політанок у розділі Шаргородського району"
+    provenance: "2026-11-16: pdftoppm -scale-to 3600, поворот 180° через sips, Tesseract ukr; сирий вивід без виправлень"
+    engine: "Tesseract ukr"
+    status: unverified
   - path: books/pamiatky-vinnytskoi-oblasti-slovnykova-chastyna-2011-history.pdf
     kind: copy
     locator: "Копія Інституту історії України, 219 PDF-сторінок"
@@ -20,6 +26,9 @@ artifacts:
     engine: "Tesseract ukr"
     status: unverified
 inspected:
+  - locator: "Копія Інституту історії України, PDF-стор. 69–71; рядок Політанок на PDF-стор. 70"
+    basis: machine_only
+    note: "2026-11-16: локальний Tesseract ukr; OCR читає курганну групу (3) на південний схід від села з невстановленою культурною належністю. Людиною не звірено; для статті використано окремий текстовий запис каталогу 2015 року"
   - locator: "Копія ВНТУ, PDF-стор. 1–3"
     basis: source_text
     note: "Опрацювання 2026-11-05: назва, бібліографія, анотація; докладніше нижче"
