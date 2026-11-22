@@ -134,7 +134,7 @@
   },
   "scripts": {
     "build": "./quartz/bootstrap-cli.mjs build",
-    "build:plugins": "npm --prefix plugins/places-map run build",
+    "build:plugins": "npm --prefix plugins/places-map run build && npm --prefix plugins/article-title run build",
     "check": "npm run lint:frontmatter && npm run lint:sources && npm test && tsc --noEmit && npx prettier . --check",
     "docs": "CHOKIDAR_USEPOLLING=1 ./quartz/bootstrap-cli.mjs build --serve",
     "format": "npx prettier . --write",

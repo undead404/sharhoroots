@@ -139,7 +139,7 @@ plugins:
     layout:
       position: right
       priority: 50
-  - source: "@quartz-community/article-title"
+  - source: ./plugins/article-title
     enabled: true
     layout:
       position: beforeBody

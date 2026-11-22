@@ -1,0 +1,26 @@
+{
+  "name": "article-title",
+  "version": "1.0.0",
+  "type": "module",
+  "exports": {
+    ".": "./dist/index.js",
+    "./components": "./dist/index.js"
+  },
+  "quartz": {
+    "name": "article-title",
+    "displayName": "Заголовок та інші назви",
+    "version": "1.0.0",
+    "category": "component",
+    "components": {
+      "ArticleTitle": {
+        "name": "ArticleTitle",
+        "displayName": "Заголовок та інші назви",
+        "description": "Заголовок статті з іншими назвами з поля aliases",
+        "version": "1.0.0"
+      }
+    }
+  },
+  "scripts": {
+    "build": "esbuild index.ts --bundle --platform=node --format=esm --packages=external --outfile=dist/index.js"
+  }
+}
