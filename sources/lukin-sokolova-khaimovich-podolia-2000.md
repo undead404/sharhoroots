@@ -48,6 +48,18 @@ artifacts:
     provenance: "Без змін скопійовано наявний локальний OCR .agent-work/murafa-inn/315-col-3.txt; нове розпізнавання не проводили"
     engine: Apple Vision
     status: unverified
+  - path: sources/texts/lukin-sokolova-khaimovich-podolia-2000/pdf-217-col3-sharhorod-demography-ocr.txt
+    kind: ocr
+    locator: "PDF 217, третя колонка розвороту, друкована с. 432; демографічний блок розділу про Шаргород"
+    provenance: "OCR виконано 2026-11-17 Tesseract -l rus + pdftoppm -r 600; колонку виділено обрізкою PIL"
+    engine: Tesseract
+    status: unverified
+  - path: sources/texts/lukin-sokolova-khaimovich-podolia-2000/pdf-320-col4-notes-128-152-ocr.txt
+    kind: ocr
+    locator: "PDF 320, четверта колонка розвороту; примітки 128–152 до розділу про Шаргород"
+    provenance: "OCR виконано 2026-11-17 Tesseract -l rus + pdftoppm -r 600; колонку виділено обрізкою PIL"
+    engine: Tesseract
+    status: unverified
 inspected:
   - locator: "С. 639 / PDF 320, примітки 86–87"
     basis: user_reading
@@ -67,6 +79,12 @@ inspected:
   - locator: "С. 216 / PDF 109, абзац про виробничий кооператив; с. 629 / PDF 315, прим. 36"
     basis: machine_only
     note: "2026-11-16 повторно опрацьовано наявний локальний OCR Apple Vision. Примітка 36 відсилає до Emes, 04.04.1925; газетного оригіналу не отримано. Читання людиною не підтверджене; зображень LLM не переглядала. Решта попередніх читань та їхні межі збережені нижче."
+  - locator: "С. 432 / PDF 217, третя колонка; демографічний блок розділу про Шаргород; примітки 133–136"
+    basis: machine_only
+    note: "OCR Tesseract виконано 2026-11-17. Демографічний блок читається чітко; одне число 1992 р. можливо є 1993 р. (пор. ЕЕЕ). Прочитані примітки: 133 — АЮЗР Ч.5 Т.2 С.448, 567, 719, 725; 134 — ЕЭ Т.15 С.917 + Powiat Mohylowski S.287; 135 — Зингер С.23 + Altshuler; 136 — Gur-Gurevitz + Долина + Гельстон. Числа не підтверджені людиною; очікується підтвердження перед застосуванням до статті."
+  - locator: "С. 639 / PDF 320, четверта колонка; примітки 128–152 до розділу про Шаргород"
+    basis: machine_only
+    note: "OCR Tesseract виконано 2026-11-17. Примітки 128–152 прочитані; примітка 129 нечитабельна в OCR. «Ровоб-Совзки» в прим. 134 — очевидна OCR-похибка прізвища. Читання людиною не підтверджене."
 ---
 
 # «100 еврейских местечек Украины», вип. 2: «Подолия»
