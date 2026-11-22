@@ -42,6 +42,10 @@ type: PlaceOfWorship
 
 17 жовтня дозволено збудування церкви коштом парафіян ([П.Є.В. (1866) № 22](https://archive.org/details/podillya_vidomosti/PEV.1866/page/n279/mode/2up)).
 
+### 1868
+
+На місце померлого Іоанна Жолткевича до [[Mykhailivka-orthodox-Michael-Miracle|церкви с. Михайлівки]] затверджений єпископом на училищному з'їзді священник с. Пиньківки Афанасій Бернасовський ([П.Є.В. (1868) № 14](https://archive.org/details/podillya_vidomosti/PEV.1868/page/263/mode/2up)).
+
 ### 1872
 
 Збудована нова, більша церква, а на місці старої збудована каплиця ([Приходы и церкви Подольской епархии (1901)](https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D1%85%D0%BE%D0%B4%D1%8B_%D0%B8_%D1%86%D0%B5%D1%80%D0%BA%D0%B2%D0%B8_%D0%9F%D0%BE%D0%B4%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B9_%D0%B5%D0%BF%D0%B0%D1%80%D1%85%D0%B8%D0%B8)).
