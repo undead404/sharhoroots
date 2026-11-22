@@ -1,9 +1,16 @@
 import assert from "node:assert/strict";
 import fs from "node:fs/promises";
 import path from "node:path";
+import { fromHtml } from "hast-util-from-html";
 
 // Run after a full build; checks the deployable files, not source assumptions.
 const output = process.argv[2] ?? "public";
+const origin = "https://sharhoroots.koreni.org.ua";
+const robots = await fs.readFile(path.join(output, "robots.txt"), "utf8");
+assert.match(
+  robots,
+  new RegExp(`^Sitemap: ${origin.replaceAll(".", "\\.")}/sitemap\\.xml$`, "m"),
+);
 const sitemap = await fs.readFile(path.join(output, "sitemap.xml"), "utf8");
 const urls = [...sitemap.matchAll(/<loc>([^<]+)<\/loc>/g)].map(
   ([, url]) => new URL(url),
@@ -17,11 +24,79 @@ function htmlPath(route) {
   return path.join(output, `${slug}.html`);
 }
 
+function elements(html) {
+  const result = [];
+  function visit(node) {
+    if (node.type === "element") result.push(node);
+    for (const child of node.children ?? []) visit(child);
+  }
+  visit(fromHtml(html));
+  return result;
+}
+
+function verifyMetadata(html, url) {
+  const nodes = elements(html);
+  const canonicals = nodes.filter(
+    (node) =>
+      node.tagName === "link" && node.properties.rel?.includes("canonical"),
+  );
+  assert.equal(canonicals.length, 1, `Canonical count: ${url}`);
+  assert.equal(
+    canonicals[0].properties.href,
+    url.href,
+    `Canonical differs from sitemap: ${url}`,
+  );
+  const og = nodes.find(
+    (node) => node.tagName === "meta" && node.properties.property === "og:url",
+  );
+  assert.equal(og?.properties.content, url.href, `Open Graph URL: ${url}`);
+  const scripts = nodes.filter(
+    (node) =>
+      node.tagName === "script" &&
+      node.properties.type === "application/ld+json",
+  );
+  assert.equal(scripts.length, 1, `JSON-LD count: ${url}`);
+  const data = JSON.parse(
+    scripts[0].children.map((node) => node.value ?? "").join(""),
+  );
+  assert.equal(data["@context"], "https://schema.org");
+  const graph = data["@graph"];
+  const ids = new Set(graph.map((node) => node["@id"]));
+  assert.equal(ids.size, graph.length, `Duplicate entity IDs: ${url}`);
+  const page = graph.find((node) => node["@id"] === `${url.href}#webpage`);
+  const site = graph.find((node) => node["@id"] === `${origin}/#website`);
+  const publisher = graph.find(
+    (node) => node["@id"] === `${origin}/author#person`,
+  );
+  assert.equal(page?.url, url.href);
+  assert.equal(page.inLanguage, "uk-UA");
+  assert.equal(page.isPartOf["@id"], site["@id"]);
+  assert.equal(page.publisher["@id"], publisher["@id"]);
+  assert.equal(site.publisher["@id"], publisher["@id"]);
+  assert.equal(publisher["@type"], "Person");
+  assert.equal(publisher.name, "Віталій Дмитрович Перегончук");
+  if (page.mainEntity) assert(ids.has(page.mainEntity["@id"]));
+  for (const node of graph) {
+    assert.equal(node.author, undefined, `Unverified author: ${url}`);
+    assert.notEqual(node.dissolutionDate, "Historical/Defunct");
+  }
+  return graph;
+}
+
 for (const url of urls) {
   assert.equal(url.origin, "https://sharhoroots.koreni.org.ua");
   assert.equal(url.search + url.hash, "", `Non-canonical URL: ${url}`);
   const route = decodeURI(url.pathname);
   const html = await fs.readFile(htmlPath(route), "utf8");
+  const graph = verifyMetadata(html, url);
+  if (route === "/registrar/sloboda-sharhorodska-orthodox-marymas") {
+    const subject = graph.find((node) => node["@type"] === "PlaceOfWorship");
+    assert.equal(subject.geo["@type"], "GeoCoordinates");
+    assert.equal(subject.containedInPlace["@type"], "Place");
+    assert.equal(subject.containedInPlace.name, "Слобода-Шаргородська");
+    assert.equal(subject.foundingDate, "1750");
+    assert.equal(subject.publisher, undefined);
+  }
   const metas = html.match(/<meta\b[^>]*>/gi) ?? [];
   assert(
     !metas.some(
@@ -35,6 +110,21 @@ for (const url of urls) {
     !metas.some((meta) => /http-equiv\s*=\s*["']?refresh\b/i.test(meta)),
     `Sitemap page redirects: ${url}`,
   );
+}
+
+// Generated folder/tag pages are not necessarily included in ContentIndex's sitemap.
+let generated = 0;
+for (const file of await fs.readdir(output, { recursive: true })) {
+  if (!file.endsWith(".html") || file === "404.html") continue;
+  const route =
+    file === "index.html"
+      ? "/"
+      : `/${file.replace(/index\.html$|\.html$/g, "")}`;
+  if (routes.has(route)) continue;
+  const html = await fs.readFile(path.join(output, file), "utf8");
+  if (/<meta\b[^>]*http-equiv=["']?refresh/i.test(html)) continue;
+  verifyMetadata(html, new URL(encodeURI(route), origin));
+  generated++;
 }
 
 const redirects = await fs.readFile(path.join(output, "_redirects"), "utf8");
@@ -51,4 +141,6 @@ for (const line of redirects.split("\n")) {
   assert(routes.has(target), `Redirect target absent from sitemap: ${target}`);
   count++;
 }
-console.log(`Indexing checks passed: ${urls.length} URLs, ${count} redirects.`);
+console.log(
+  `Indexing checks passed: ${urls.length} sitemap URLs, ${generated} generated pages, ${count} redirects; canonical, Open Graph and JSON-LD verified.`,
+);

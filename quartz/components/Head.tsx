@@ -17,6 +17,7 @@ import {
   QuartzComponentProps,
 } from "./types";
 import { unescapeHTML } from "../util/escape";
+import { canonicalUrl } from "../util/canonical";
 
 export default (() => {
   const Head: QuartzComponent = (props: QuartzComponentProps) => {
@@ -44,7 +45,7 @@ export default (() => {
     const socialUrl =
       fileData.slug === "404"
         ? url.toString()
-        : joinSegments(url.toString(), fileData.slug!);
+        : canonicalUrl(cfg.baseUrl ?? "example.com", fileData.slug!);
 
     const usesCustomOgImage = ctx.cfg.plugins.emitters.some(
       (e) => e.name === "CustomOgImages",
@@ -109,6 +110,9 @@ export default (() => {
 
         {cfg.baseUrl && (
           <>
+            {fileData.slug !== "404" && (
+              <link rel="canonical" href={socialUrl} />
+            )}
             <meta property="twitter:domain" content={cfg.baseUrl}></meta>
             <meta property="og:url" content={socialUrl}></meta>
             <meta property="twitter:url" content={socialUrl}></meta>

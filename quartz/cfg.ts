@@ -71,6 +71,8 @@ export interface GlobalConfiguration {
    *   Quartz will avoid using this as much as possible and use relative URLs most of the time
    */
   baseUrl?: string;
+  /** Public site publisher, distinct from individual page authors and subjects. */
+  publisher?: { name: string; url: string };
   theme: Theme;
   /**
    * Allow to translate the date in the language of your choice.

@@ -7,6 +7,10 @@ configuration:
     provider: plausible
   locale: uk-UA
   baseUrl: sharhoroots.koreni.org.ua
+  # Identity documented on content/author.md; this does not assign page authorship.
+  publisher:
+    name: Віталій Дмитрович Перегончук
+    url: https://sharhoroots.koreni.org.ua/author
   ignorePatterns:
     - private
     - templates
@@ -177,6 +181,8 @@ plugins:
     enabled: true
     options:
       links:
+        Про проєкт: https://sharhoroots.koreni.org.ua/
+        Автор і зв’язок: https://sharhoroots.koreni.org.ua/author
         Генеалогія Шаргородщини на Facebook: https://www.facebook.com/groups/1748115539548381
     layout:
       position: footer
