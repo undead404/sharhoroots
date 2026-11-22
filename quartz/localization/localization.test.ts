@@ -100,11 +100,11 @@ test("tag display labels preserve canonical links and unrelated prose", () => {
   localizeHtml(tree);
   const result = serialized(tree);
   assert.match(result, /"href":"\.\.\/tags\/eastern-orthodox"/);
-  assert.match(result, /"value":"Православ’я"/);
-  assert.match(result, /"value":"#Греко-католицизм"/);
+  assert.match(result, /"value":"православ’я"/);
+  assert.match(result, /"value":"#греко-католицизм"/);
   assert.match(result, /"value":"eastern-orthodox"/);
   assert.equal(tagLabel("unknown/topic"), "unknown / topic");
-  assert.equal(tagLabel("area/volost"), "Територія / Волость");
+  assert.equal(tagLabel("area/volost"), "територія / волость");
 });
 
 test("every canonical vault tag has a Ukrainian display label", () => {
@@ -131,11 +131,11 @@ test("virtual tag pages have localized titles and unchanged routes", () => {
   } as never);
   assert.equal(
     pages.find((p) => p.slug === "tags/eastern-orthodox")?.title,
-    "Православ’я",
+    "православ’я",
   );
   assert.equal(
     pages.find((p) => p.slug === "tags/greek-catholic")?.title,
-    "Греко-католицизм",
+    "греко-католицизм",
   );
   assert.equal(pages.find((p) => p.slug === "tags/index")?.title, "Усі теги");
 });
@@ -174,7 +174,7 @@ test("frame localizes nested upstream components and preserves map JSON", () => 
         ),
     } as unknown as PageFrameProps),
   );
-  assert.match(result, /href="\.\.\/tags\/eastern-orthodox"[^>]*>Православ’я/);
+  assert.match(result, /href="\.\.\/tags\/eastern-orthodox"[^>]*>православ’я/);
   assert.match(result, /aria-label="Навігаційний шлях"/);
   assert.match(result, /aria-label="Граф усіх сторінок"/);
   assert.match(
