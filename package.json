@@ -140,6 +140,7 @@
     "format": "npx prettier . --write",
     "lint:frontmatter": "node --import tsx scripts/check-frontmatter.ts",
     "check:indexing": "node scripts/check-indexing.mjs",
+    "check:localization": "node --import tsx scripts/check-localization.ts",
     "lint:markdown": "markdownlint-cli2 \"AGENTS.md\" \".agents/**/*.md\" \".opencode/**/*.md\" \"content/**/*.md\" \"sources/**/*.md\" \"tasks/**/*.md\"",
     "prepare": "husky && npm run build:plugins",
     "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1",

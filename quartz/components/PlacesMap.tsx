@@ -142,11 +142,17 @@ PlacesMap.afterDOMLoaded = `
     if (!rawData) return;
     const places = JSON.parse(rawData);
 
-    const map = L.map('quartz-map').setView([48.764995517698665, 28.163189727188115], 11);
+    const map = L.map('quartz-map', { zoomControl: false }).setView([48.764995517698665, 28.163189727188115], 11);
+    L.control.zoom({ zoomInTitle: 'Збільшити масштаб', zoomOutTitle: 'Зменшити масштаб' }).addTo(map);
+    map.attributionControl.setPrefix('<a href="https://leafletjs.com" title="Бібліотека інтерактивних мап">Leaflet</a>');
+    map.on('popupopen', ({ popup }) => {
+      const closeButton = popup.getElement()?.querySelector('.leaflet-popup-close-button');
+      closeButton?.setAttribute('aria-label', 'Закрити вікно');
+    });
     window.quartzMapInstance = map;
 
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-      attribution: '&copy; OpenStreetMap contributors'
+      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">учасники OpenStreetMap</a>'
     }).addTo(map);
 
     const markers = L.markerClusterGroup({
@@ -156,7 +162,7 @@ PlacesMap.afterDOMLoaded = `
     });
 
     places.forEach(place => {
-      const config = typeConfig[place.type] || { label: place.type, color: '#9ca3af' };
+      const config = typeConfig[place.type] || { label: 'Місце', color: '#9ca3af' };
       
       let datesHtml = '';
       if (place.foundingDate) datesHtml += \`<span style="color: var(--gray);">Засновано: \${place.foundingDate}</span><br>\`;
@@ -171,7 +177,7 @@ PlacesMap.afterDOMLoaded = `
         popupAnchor: [0, -36]
       });
 
-      const marker = L.marker([place.lat, place.lng], { icon: customIcon });
+      const marker = L.marker([place.lat, place.lng], { icon: customIcon, title: place.title, alt: place.title });
       marker.bindPopup(\`
         <div style="font-family: var(--bodyFont); line-height: 1.4;">
           <strong><a href="\${place.url}">\${place.title}</a></strong><br>

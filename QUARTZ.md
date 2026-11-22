@@ -12,6 +12,24 @@ This site uses Quartz **5.0.0**, based on upstream commit
   `prepare`. Its component remains in `quartz/components/PlacesMap.tsx`.
 - Local structured metadata uses `StructuredData.tsx` in `Head.tsx`, with the
   existing Schema.org types and frontmatter validation.
+- Ukrainian UI adapters live in `quartz/localization/`, enabled by `quartz.ts`
+  for `uk-UA`. They use transformer, page-generator, resource, and frame APIs;
+  community packages are not patched. Tag labels in `uk.ts` affect display only:
+  frontmatter, search index tags, filenames, and `/tags/<id>` routes stay canonical.
+  Add a Ukrainian label there when introducing a new tag (tests check coverage).
+- The core locale file is not a shared override for npm plugins: each community
+  package bundles its own locale resources. Current gaps include the Markdown
+  converter's `Footnotes`/back-reference defaults, Obsidian's automatic callout
+  titles, search messages and SVG title, and graph/breadcrumb accessibility labels.
+  The `figure` image fallback comes from an empty image alt, rather than a literal
+  `Image` string in generated HTML. The adapter uses its existing caption as alt.
+  Explicit callout titles and nonempty image alts are preserved.
+- The Ukrainian frame retains the default layout, translating rendered component
+  output on the server (including nested tag/folder lists). A small search DOM
+  adapter handles dynamic messages and tag suggestions across SPA navigation;
+  `data-tag` and `#<canonical-id>` query tokens keep the search plugin's semantics.
+  Its canonical ghost completion is hidden because suggestions have display labels.
+  Leaflet controls use its own options and popup event for Ukrainian labels.
 - `content/_redirects` preserves old mixed-case URLs and existing renamed routes.
   Quartz 5 emits lowercase canonical URLs; wikilinks retain their source filenames.
   The alias plugin also generates case redirects on case-sensitive build systems.
@@ -35,6 +53,10 @@ Run `npm run check` for frontmatter validation, tests, TypeScript, and formattin
 After a full build, run `node scripts/check-indexing.mjs public` to check sitemap
 pages for missing HTML, indexing exclusions, and conflicts with redirect rules.
 This checks local output; verify HTTP status codes and headers after deployment.
+After a full build, also run `npm run check:localization`. This checks sitemap,
+tag, and error pages, including the regression article
+`/registrar/sloboda-sharhorodska-orthodox-marymas`, for Ukrainian labels, dates,
+HTML language/direction, accessibility labels, and stable tag/footnote identifiers.
 The migration passed all 168 tests and TypeScript checking. Repository-wide
 Prettier validation also reports pre-existing formatting issues outside this
 migration; do not reformat the vault just to clear them.
