@@ -282,6 +282,8 @@ These collections are international and multilingual, with uneven holdings about
 
 ### ДАВіО: electronic archive and Synology
 
+- **Inventory download rule:** when searching an inventory in Synology, download the entire inventory folder first: right-click the folder and select `Download` in its context menu. Do not substitute individual-slide downloads or the general top-level `Download` button. Reuse an existing complete local copy. Retain the inventory in ignored `books/` and search locally under the existing OCR/HTR and archival-reading rules; full download does not authorize LLM vision of Cyrillic or Latin scans. User-reported example: `Р-2355-06`, 275 slides, a 1.3 GiB ZIP, downloaded in 20 minutes; observed size and duration, not a guarantee. Its complete local copy is `books/ДАВіО-Р2355-6`.
+
 [Official «Електронний архів» page](https://davio.gov.ua/page/elektronniy_arhiv).
 
 - **Trigger/route:** when a known Vinnytsia fond needs an inventory or digital copy, follow the current official links. The page separates «Довідковий апарат», «Описи», case collections and «Книга обліку справ, на які створено цифрові копії». An inventory is not the case itself. A legacy fond-list link to `/funds/404.pdf` does not exhaust access: try «Описи» → «Описи фондів нових актів» in the public Synology Drive. Folder labels can use padded numbers; check the relevant forms, such as `Р-699`, `0699`, `699`. Use the current shared link rather than inventing file URLs or relying on an old internal `file_id`.
