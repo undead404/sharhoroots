@@ -19,6 +19,8 @@ Access observations above are from browser tests on 2026-11-15, not permanent si
 
 ## Duck Inspector: public API details
 
+For browser search links, use `/search` with the query parameters `archive`, `fond`, `inventory` and `file`. User-supplied example for ДАВіО, фонд Р6129, опис 10, справа 1: <https://inspector.duckarchive.com/search?archive=%D0%94%D0%90%D0%92%D1%96%D0%9E&fond=%D0%A06129&inventory=10&file=1>. Preserve the catalogue's fond spelling (`Р6129` here, with Cyrillic `Р` or `П`, but `Д` must be dropped); URL-encode parameter values.
+
 Verified on 2026-11-16 against the provider's [OpenAPI schema](https://inspector.duckarchive.com/openapi.yml) and successful live queries. Refresh the schema or [agent guide](https://inspector.duckarchive.com/llms.txt) before relying on these parameters in a later session.
 
 - `POST /api/search` accepts a JSON body; supplied fields combine with **AND**. For example, `{"title":"Мураф","year_from":"1920","year_to":"1930","fuzziness":0}` returned results. `title` searches titles, descriptions and linked-author text; it is not a full transcription search. Year bounds are strings and match overlapping record date ranges.
