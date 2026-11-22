@@ -43,6 +43,10 @@ type: PlaceOfWorship
 
 20 жовтня видано дозвіл освятити оновлений за рахунок парафіян іконостас ([П.Є.В. (1867) № 22](https://archive.org/details/podillya_vidomosti/PEV.1867/page/n307/mode/2up)).
 
+### 1868
+
+24 червня просфірнею була призначена тамтешня ж паламарська дочка Феодосія Бернасовська, а благочинний мав за рік дати звіт про її благонадійність ([П.Є.В. (1868) № 18](https://archive.org/details/podillya_vidomosti/PEV.1868/page/n347/mode/2up)).
+
 ### 1901
 
 > [!quote] "[Приходы и церкви Подольской епархии (1901)](https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D1%85%D0%BE%D0%B4%D1%8B_%D0%B8_%D1%86%D0%B5%D1%80%D0%BA%D0%B2%D0%B8_%D0%9F%D0%BE%D0%B4%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B9_%D0%B5%D0%BF%D0%B0%D1%80%D1%85%D0%B8%D0%B8)"
