@@ -128,6 +128,52 @@ for (const file of await fs.readdir(output, { recursive: true })) {
 }
 
 const redirects = await fs.readFile(path.join(output, "_redirects"), "utf8");
+const notFound = elements(
+  await fs.readFile(path.join(output, "404.html"), "utf8"),
+);
+assert(
+  notFound.some(
+    (node) =>
+      node.tagName === "meta" &&
+      node.properties.name === "robots" &&
+      node.properties.content === "noindex",
+  ),
+  "Error document must be noindex even when served directly with HTTP 200",
+);
+assert(!routes.has("/404"), "Error document must not appear in sitemap");
+
+const map = elements(await fs.readFile(path.join(output, "map.html"), "utf8"));
+const mapData = map.find((node) => node.properties.id === "map-data");
+assert(mapData, "Map data missing");
+const places = JSON.parse(
+  mapData.children.map((node) => node.value ?? "").join(""),
+);
+const directory = map.find(
+  (node) =>
+    node.tagName === "details" &&
+    node.properties.className?.includes("places-map-list"),
+);
+assert(directory, "Map needs an HTML directory independent of JavaScript");
+const links = [];
+function collectMapLinks(node) {
+  if (node.tagName === "a") links.push(node);
+  for (const child of node.children ?? []) collectMapLinks(child);
+}
+collectMapLinks(directory);
+assert(places.length > 0, "Map places missing");
+assert.deepEqual(
+  links.map((node) => node.properties.href),
+  places.map((place) => place.url),
+  "Every map marker needs a matching HTML link",
+);
+for (const link of links) {
+  const target = new URL(link.properties.href, `${origin}/map`);
+  assert(
+    routes.has(decodeURI(target.pathname)),
+    `Map target missing: ${target}`,
+  );
+}
+
 let count = 0;
 const sources = new Set();
 for (const line of redirects.split("\n")) {

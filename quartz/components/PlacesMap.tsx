@@ -29,7 +29,7 @@ const PlacesMap: QuartzComponent = ({
     .map((f) => {
       const frontmatter = z.parse(frontmatterSchema, f.frontmatter);
       return {
-        title: frontmatter?.title || f.name,
+        title: frontmatter.title || String(f.name ?? f.slug ?? ""),
         url: resolveRelative(fileData.slug!, f.slug!),
         lat: frontmatter.coordinates![0],
         lng: frontmatter.coordinates![1],
@@ -38,7 +38,10 @@ const PlacesMap: QuartzComponent = ({
         isDefunct: frontmatter.tags?.includes("defunct"),
         dissolutionDate: frontmatter.dissolutionDate || null,
       };
-    });
+    })
+    .sort((a, b) =>
+      (a.title ?? "").localeCompare(b.title ?? "", "uk", { numeric: true }),
+    );
 
   return (
     <div class={classNames(displayClass, "places-map-container")}>
@@ -51,6 +54,18 @@ const PlacesMap: QuartzComponent = ({
           zIndex: 0,
         }}
       ></div>
+      <details class="places-map-list">
+        <summary>Місця на мапі ({places.length})</summary>
+        <ul>
+          {places.map((place) => (
+            <li>
+              <a class="internal" href={place.url}>
+                {place.title}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </details>
       <script
         id="map-data"
         type="application/json"
@@ -67,6 +82,12 @@ PlacesMap.css = `
   margin: 2rem 0;
   border: 1px solid var(--lightgray);
   border-radius: 8px;
+}
+.places-map-list {
+  padding: 1rem;
+}
+.places-map-list summary {
+  cursor: pointer;
 }
 /* Ensure popups adapt to Quartz's dark/light modes */
 .leaflet-popup-content-wrapper {

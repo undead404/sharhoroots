@@ -122,6 +122,7 @@ export default (() => {
         <link rel="icon" href={iconPath} />
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />
+        {fileData.slug === "404" && <meta name="robots" content="noindex" />}
         <StructuredData {...props} />
 
         {css.map((resource) => CSSResourceToStyleElement(resource, true))}

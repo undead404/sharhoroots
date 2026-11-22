@@ -63,7 +63,10 @@ test("Head emits one canonical matching Open Graph; excludes 404 and unset domai
     html,
     /property="og:url" content="https:\/\/sharhoroots.koreni.org.ua\/"/,
   );
-  assert.doesNotMatch(renderToString(head(props("404"))), /rel="canonical"/);
+  const notFound = renderToString(head(props("404")));
+  assert.doesNotMatch(notFound, /rel="canonical"/);
+  assert.match(notFound, /name="robots" content="noindex"/);
+  assert.doesNotMatch(html, /name="robots"/);
   const local = props("index");
   local.cfg.baseUrl = undefined;
   assert.doesNotMatch(renderToString(head(local)), /rel="canonical"/);
