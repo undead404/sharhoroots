@@ -8,8 +8,26 @@ type: secondary
 language: "російська"
 url: "https://irbis-nbuv.gov.ua/ulib/item/ukr0000014912"
 local_copy: "books/ukr0006226.pdf"
-last_checked: "2026-11-16"
+last_checked: "2026-11-23"
 artifacts:
+  - path: sources/texts/lukin-sokolova-khaimovich-podolia-2000/pdf-213-col3-school-ocr.txt
+    kind: ocr
+    locator: "PDF 213, третя колонка розвороту / друк. с. 425, освіта й училище для хлопців"
+    provenance: "Локально pdftoppm -r 600, поділ розвороту на чотири вертикальні колонки ImageMagick, Tesseract -l rus --psm 6; без виправлень"
+    engine: "Tesseract rus"
+    status: unverified
+  - path: sources/texts/lukin-sokolova-khaimovich-podolia-2000/pdf-213-col4-school-ocr.txt
+    kind: ocr
+    locator: "PDF 213, четверта колонка / друк. с. 425, продовження про змішане училище"
+    provenance: "Та сама локальна обробка 2026-11-23; сирий OCR без виправлень"
+    engine: "Tesseract rus"
+    status: unverified
+  - path: sources/texts/lukin-sokolova-khaimovich-podolia-2000/pdf-320-col3-notes-ocr.txt
+    kind: ocr
+    locator: "PDF 320, третя колонка / друк. с. 639; зокрема примітки 100–105"
+    provenance: "Без змін скопійовано наявний OCR .agent-work/sharhorod-pages/notes_320_col_3.txt; рушій із самого файла не встановлено"
+    engine: "unknown"
+    status: unverified
   - path: sources/texts/lukin-sokolova-khaimovich-podolia-2000/pdf-320-notes-86-87-user.txt
     kind: transcription
     locator: "С. 639 / PDF 320, примітки 86–87 до розділу про Шаргород"
@@ -61,6 +79,9 @@ artifacts:
     engine: Tesseract
     status: unverified
 inspected:
+  - locator: "Друк. с. 425 / PDF 213, третя й початок четвертої колонки; с. 639 / PDF 320, примітки 100–105"
+    basis: machine_only
+    note: "2026-11-23 опрацьовано локальний Tesseract OCR: відкриття чоловічого училища на початку 1890-х, предмети, сніданок, згодом змішане училище. Прим. 103 машинно дає НХВ, 1893, №20, с.548; 104 — Хроника Восхода, 1899, №31, с.956; 105 — ЕЭ, т.15, с.918, і ВЮЗК, 1911, с.1026. Оригіналів цих повідомлень не перевірено; рік 1911 не прирівняно до доступного довідника 1913 року."
   - locator: "С. 639 / PDF 320, примітки 86–87"
     basis: user_reading
     note: "Користувач підтвердив №86: Krupnik. Agadot Sharigrod. № 1. P. 135; №87: НХВ, 1893, №34, с.654. Цитовані оригінали цим читанням не підтверджені."
