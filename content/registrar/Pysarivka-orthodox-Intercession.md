@@ -39,6 +39,10 @@ type: PlaceOfWorship
 
 10 березня паламар Косма Одудовський помінявся місцями з паламарем Березівки Василем Кохановським ([П.Є.В. (1866) № 7](https://archive.org/details/podillya_vidomosti/PEV.1866/page/n73/mode/2up)).
 
+### 1868
+
+16 серпня затверджена окружна духовна бібліотека 5 благочинного округу Ямпільського повіту, в якій бібліотекарем був обраний священник с. Писарівки Руської Сава Демкович ([П.Є.В. (1868) № 19](https://archive.org/details/podillya_vidomosti/PEV.1868/page/n357/mode/2up)).
+
 ### 1873
 
 > [!quote] [Кліровий розпис 1873 року](https://www.familysearch.org/uk/records/images/search-results?imageGroupNumbers=119336110)
