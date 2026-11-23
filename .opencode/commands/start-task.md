@@ -3,33 +3,31 @@ description: Find and begin or resume an unfinished research task
 agent: build
 ---
 
-Load and follow the `@research-facts` skill. Find a research task in `tasks/` and start or resume its next appropriate step. Optional argument: a task path, filename, or distinctive title; when supplied, use that task. Otherwise filter by the time gate below, then choose deterministically by status priority: `in_progress` and due `deferred` tasks share the first priority; then `queued`, `fail`, `no_result`, `found`, and finally eligible `blocked`. Within each priority choose the oldest `created` date, breaking ties by filename; do not sort `in_progress` ahead of a due `deferred` within their shared priority. Ignore `tasks/TEMPLATE.md`.
+Load and follow the `@research-facts` skill.
 
-## Earliest retry time
+## 1. Select the task
 
-Use `status: deferred` for a temporarily unavailable dependency with a concrete retry time. It requires a quoted frontmatter field `not_before`: an absolute ISO 8601 timestamp with an explicit UTC offset or `Z`, for example `not_before: "2026-11-22T20:15:00+02:00"`. Other statuses may also carry this optional time gate, but a delayed retry should use `deferred` so it returns to the first priority when due. Use `blocked` when there is no concrete retry time. Get the current time and compare instants, not timestamp strings or the execution host's local clock. When converting a user-supplied Kyiv time, use `Europe/Kyiv` for that date so daylight saving time is respected.
+Execute `node --import tsx scripts/find-task.ts $ARGUMENTS` (or `npm run task:find -- $ARGUMENTS`).
 
-- Before `not_before`, skip the task without probing its blocked resource or changing its status. With an explicit task argument, report the earliest retry time and stop; merely naming the task does not waive the delay. A clear new instruction from the user may override it.
-- At or after `not_before`, a `deferred` task is eligible for a retry in the first priority without prior proof that its dependency is available. Checking that dependency is its next step. A restoration estimate plus a buffer permits this check, but does not establish that access has returned. A task still marked `blocked` retains its ordinary dependency rule and last priority.
-- If the field is absent on another status, there is no time gate. If `deferred` lacks `not_before`, or a supplied timestamp is malformed or lacks a timezone, report the metadata problem and skip that candidate without guessing; with an explicit argument, stop for that task.
+- It deterministically resolves the next actionable task (or the specific task when `$ARGUMENTS` is supplied), evaluates time gates (`not_before`), and outputs the task path, metadata, checkpoint, and next action.
+- If the script reports no actionable tasks, an unexpired `not_before` delay, a metadata problem, or a blocker for an explicit argument, report the output and stop.
+- Never mark a task `in_progress` before confirming that its next research step can begin.
 
-This field is an eligibility rule for future invocations, not a scheduled or automatic launch. Apply the priorities above to eligible tasks. If nothing is actionable, distinguish future-deferred tasks (with their earliest retry times) from other blockers. Once work actually resumes, remove the elapsed `not_before` and retain the retry history in the task log.
+## 2. Continue the selected task
 
-## Continue the selected task
+Follow the status guidance and checkpoint returned by the script:
 
-Handle states as follows:
-
-- `in_progress`: read the current-state checkpoint and linked evidence first, then continue the unresolved next step under research-facts. For older tasks without a checkpoint, reconstruct it from the latest conclusions and relevant log sections; do not repeat completed work or reset cumulative search coverage.
-- `deferred`: only when due, read the checkpoint and make one bounded check of the named dependency. If available, change to `in_progress`, remove `not_before`, and continue. If still unavailable with a new concrete retry time, keep `deferred`, update `not_before`, and record the basis and any buffer. If there is no justified next retry time, change to `blocked` and remove the elapsed `not_before`. Do not poll or invent a restoration estimate; without an explicit task argument, continue selection among other eligible candidates after recording the failed retry.
+- `in_progress`: read the current-state checkpoint and linked evidence first, then continue the unresolved next step under `research-facts`.
+- `deferred`: make one bounded check of the named dependency. If available, change to `in_progress`, remove `not_before`, and continue. If still unavailable with a new concrete retry time, keep `deferred`, update `not_before`, and record the basis. If there is no justified retry time, change to `blocked` and remove `not_before`.
 - `queued`: change to `in_progress` and begin research.
-- `fail`: inspect the recorded technical failure, retry only after addressing or working around it, and change to `in_progress` when work can proceed. If the failure still prevents work, record the concrete error and leave/set `fail`.
-- `no_result`: review the exhausted search and try again only through a materially different or newly available research route; record why this retry is worthwhile, avoid repeating exhausted methods, and change to `in_progress` when proceeding. If no viable new route exists, leave it `no_result` and report that rather than pretending it restarted.
-- `found`: apply and disposition the recorded findings in target articles according to `research-facts`; this is follow-through, not a new research pass.
-- `blocked`: resume only if its named essential dependency is now available; otherwise skip it and report the blocker.
+- `fail`: inspect the recorded technical failure, retry only after addressing or working around it, and change to `in_progress` when work can proceed.
+- `no_result`: review the exhausted search and try again only through a materially different or newly available research route; change to `in_progress` when proceeding.
+- `found`: apply and disposition the recorded findings in target articles according to `research-facts` (follow-through, not a new research pass).
+- `blocked`: resume only if its named essential dependency is confirmed available; otherwise report the blocker.
 - `done`: never reopen automatically.
 
-For `found`, perform the article follow-through; select `blocked` only if its dependency is available. Without an explicit task argument, if a candidate cannot proceed (including a `no_result` task with no genuinely new route or a `fail` task whose technical cause persists), leave its status unchanged and try the next candidate, except for recording a due `deferred` retry's outcome as specified above; handle only one actionable research task per invocation. With an explicit task argument, report the blocker and stop. Never mark a task `in_progress` before confirming that its next research step can begin. At the end, report the task selected, its status transition (if any), progress made, and any remaining blocker. If there is no actionable task, say so and summarize the relevant unfinished tasks by status.
+## 3. Article follow-through and completion
 
-Treat `targets` as a working list, not a limit on where findings belong. Before article follow-through, read the actual findings and search `content/` for relevant existing articles, including historical names, aliases, and linked places, people, institutions, or administrative units. Inspect candidate articles and expand or correct `targets` with the repository-relative paths that the findings genuinely inform. Repeat this assessment when research reveals a new connection. An empty `targets: []` means destinations need assessment; it is not evidence that the findings have no article value. Running this command authorizes applying relevant findings to existing articles discovered this way; creating a new article still requires user authorization.
-
-Before setting `status: done`, account for every supported local-person mention and other article-worthy fact or useful qualified inference in `## Докази й відповідь`: identify the destination article and section where it was applied or already appears, or give a finding-specific reason for excluding it under `research-facts`. Verify those destinations in the actual article text and review the content diff. Empty or exhausted `targets`, a completed research log, and a general statement that findings are low-value do not satisfy completion. If a valuable finding still has no suitable existing article, keep `status: found`, record the unresolved destination, and report the proposed article or placement needed; do not discard it or relabel it `no_result`. In the final report, link the articles updated (or identify the existing passages that already cover the findings) and disclose any unapplied valuable findings.
+- Treat `targets` as a working list, not a limit. Before article follow-through, search `content/` for relevant existing articles and expand `targets` with repository-relative paths that findings inform.
+- Before setting `status: done`, account for every supported local-person mention and finding in destination articles. If valuable findings lack a suitable existing article, keep `status: found` and report the needed placement.
+- In the final report, summarize the task selected, status transition, progress made, linked articles updated, and any remaining blockers.

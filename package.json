@@ -146,7 +146,9 @@
     "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1",
     "quartz": "./quartz/bootstrap-cli.mjs",
     "test": "tsx --test",
-    "lint:sources": "node --import tsx scripts/check-sources.ts"
+    "lint:sources": "node --import tsx scripts/check-sources.ts",
+    "task:find": "node --import tsx scripts/find-task.ts",
+    "task:next": "node --import tsx scripts/find-task.ts"
   },
   "type": "module",
   "version": "5.0.0"
