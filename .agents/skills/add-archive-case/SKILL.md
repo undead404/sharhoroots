@@ -1,6 +1,8 @@
 ---
 name: add-archive-case
 description: Add user-supplied archival case descriptions to the narrowest relevant existing article tables.
+metadata:
+  opencode/autoinvoke: "false"
 ---
 
 # Add an archival case

@@ -1,6 +1,8 @@
 ---
 name: article-gaps
 description: Review a vault article for worthwhile unanswered historical or genealogical questions and create focused, non-duplicate research tasks in tasks/.
+metadata:
+  opencode/autoinvoke: "false"
 ---
 
 # Find researchable article gaps

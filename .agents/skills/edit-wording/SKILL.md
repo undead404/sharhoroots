@@ -1,6 +1,8 @@
 ---
 name: edit-wording
 description: Polish article prose and descriptions for readability, audience fit, and correct natural Ukrainian while preserving meaning and evidential strength.
+metadata:
+  opencode/autoinvoke: "false"
 ---
 
 # Edit an article's wording

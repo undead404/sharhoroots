@@ -1,6 +1,8 @@
 ---
 name: edit-meaning
 description: "Edit article meaning and structure: establish its subject and local relevance, cut low-value material, organize useful evidence, and record worthwhile research gaps."
+metadata:
+  opencode/autoinvoke: "false"
 ---
 
 # Edit an article's meaning and structure
