@@ -19,6 +19,8 @@ export interface TaskRecord {
   status: string;
   created: string; // YYYY-MM-DD
   targets: string[];
+  articleValue?: "high" | "normal" | "low";
+  retryReady?: boolean;
   notBefore?: string;
   notBeforeValid?: boolean;
   notBeforeError?: string;
@@ -27,7 +29,7 @@ export interface TaskRecord {
 }
 
 export interface EvaluatedTask extends TaskRecord {
-  priority: number; // 1 to 6, or Infinity
+  priority: number; // 1 to 5, or Infinity
   isDue: boolean;
   isFutureDeferred: boolean;
   eligibilityMessage?: string;
@@ -35,6 +37,7 @@ export interface EvaluatedTask extends TaskRecord {
 }
 
 export interface TaskSelectionResult {
+  tasks: EvaluatedTask[];
   selected?: EvaluatedTask;
   candidates: EvaluatedTask[];
   futureDeferred: EvaluatedTask[];
@@ -153,6 +156,11 @@ export function parseTaskContent(
     status: typeof data.status === "string" ? data.status.trim() : "unknown",
     created: createdStr,
     targets,
+    articleValue:
+      data.article_value === "high" || data.article_value === "low"
+        ? data.article_value
+        : "normal",
+    retryReady: data.retry_ready === true,
     notBefore: notBeforeStr,
     checkpoint: parseCheckpoint(body),
     question: parseQuestion(body),
@@ -230,24 +238,22 @@ export function evaluateTask(
   } else if (isFutureDeferred) {
     // Cannot be started before not_before
     priority = Infinity;
-  } else if (task.status === "in_progress") {
+  } else if (task.status === "found") {
     priority = 1;
+  } else if (task.status === "in_progress") {
+    priority = 2;
   } else if (task.status === "deferred") {
     if (task.notBeforeValid && isDue) {
-      priority = 1;
+      priority = 2;
     } else {
       priority = Infinity;
     }
   } else if (task.status === "queued") {
-    priority = 2;
-  } else if (task.status === "fail") {
     priority = 3;
-  } else if (task.status === "no_result") {
+  } else if (task.status === "fail" && task.retryReady) {
     priority = 4;
-  } else if (task.status === "found") {
+  } else if (task.status === "blocked" && task.retryReady) {
     priority = 5;
-  } else if (task.status === "blocked") {
-    priority = 6;
   }
 
   const guidance = getNextStepGuidance(
@@ -269,7 +275,13 @@ export function compareTasks(a: EvaluatedTask, b: EvaluatedTask): number {
   if (a.priority !== b.priority) {
     return a.priority - b.priority;
   }
-  // Within same priority, choose oldest created date:
+  // Article value only breaks ties within the same status tier.
+  const valueRank = { high: 0, normal: 1, low: 2 };
+  const valueComp =
+    valueRank[a.articleValue ?? "normal"] -
+    valueRank[b.articleValue ?? "normal"];
+  if (valueComp !== 0) return valueComp;
+  // Then choose oldest created date:
   const dateComp = a.created.localeCompare(b.created);
   if (dateComp !== 0) return dateComp;
   // Tie-breaker by filename ascending:
@@ -291,6 +303,7 @@ export async function loadTasks(
     .map((entry) => entry.name);
 
   const candidates: EvaluatedTask[] = [];
+  const tasks: EvaluatedTask[] = [];
   const futureDeferred: EvaluatedTask[] = [];
   const blocked: EvaluatedTask[] = [];
   const done: EvaluatedTask[] = [];
@@ -305,6 +318,7 @@ export async function loadTasks(
     statusCounts[record.status] = (statusCounts[record.status] || 0) + 1;
 
     const evaluated = evaluateTask(record, now);
+    tasks.push(evaluated);
 
     if (record.status === "done") {
       doneCount++;
@@ -339,6 +353,7 @@ export async function loadTasks(
   const selected = candidates.length > 0 ? candidates[0] : undefined;
 
   return {
+    tasks,
     selected,
     candidates,
     futureDeferred,

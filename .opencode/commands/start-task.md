@@ -13,18 +13,17 @@ Execute `node --import tsx scripts/find-task.ts $ARGUMENTS` (or `npm run task:fi
 - If the script reports no actionable tasks, an unexpired `not_before` delay, a metadata problem, or a blocker for an explicit argument, report the output and stop.
 - Never mark a task `in_progress` before confirming that its next research step can begin.
 
+The script is the sole authority for automatic selection order, eligibility, and tie-breaking. Use its selected task; do not independently rank or choose tasks from the directory.
+
 ## 2. Continue the selected task
 
-Follow the status guidance and checkpoint returned by the script:
+Follow the next-action guidance and checkpoint returned by the script under `research-facts`. Read linked evidence before continuing; do not start a new research pass when the returned action is article follow-through.
 
-- `in_progress`: read the current-state checkpoint and linked evidence first, then continue the unresolved next step under `research-facts`.
-- `deferred`: make one bounded check of the named dependency. If available, change to `in_progress`, remove `not_before`, and continue. If still unavailable with a new concrete retry time, keep `deferred`, update `not_before`, and record the basis. If there is no justified retry time, change to `blocked` and remove `not_before`.
-- `queued`: change to `in_progress` and begin research.
-- `fail`: inspect the recorded technical failure, retry only after addressing or working around it, and change to `in_progress` when work can proceed.
-- `no_result`: review the exhausted search and try again only through a materially different or newly available research route; change to `in_progress` when proceeding.
-- `found`: apply and disposition the recorded findings in target articles according to `research-facts` (follow-through, not a new research pass).
-- `blocked`: resume only if its named essential dependency is confirmed available; otherwise report the blocker.
-- `done`: never reopen automatically.
+When maintaining task metadata:
+
+- Set `retry_ready: true` only after confirming and recording that a technical cause was resolved or an essential dependency became available. Recheck before resuming; clear the flag on transition to `in_progress` or if the condition no longer holds. If an automatic candidate cannot proceed, update its checkpoint and eligibility metadata, then rerun the script.
+- Reopen an exhausted search only with a documented materially different or newly available research route; an explicit task argument alone does not establish one.
+- Use optional `article_value` to describe expected article value, with the reason in `## Навіщо це`: `high` for resolving a consequential claim, replacing an excluded source, or adding a substantive documented local person or event; `low` for a minor contextual addition; otherwise `normal`. Do not bulk-rank the backlog.
 
 ## 3. Article follow-through and completion
 

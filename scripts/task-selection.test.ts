@@ -10,6 +10,7 @@ import {
   loadTasks,
   findTaskByQuery,
   parseCheckpoint,
+  parseTaskContent,
   type TaskRecord,
 } from "./task-selection";
 
@@ -71,7 +72,7 @@ test("evaluateTask assigns priority tiers and evaluates time gates", () => {
     created: "2026-10-10",
     targets: [],
   };
-  assert.equal(evaluateTask(inProgress, now).priority, 1);
+  assert.equal(evaluateTask(inProgress, now).priority, 2);
 
   const dueDeferred: TaskRecord = {
     filePath: "tasks/t2.md",
@@ -83,7 +84,7 @@ test("evaluateTask assigns priority tiers and evaluates time gates", () => {
     notBefore: "2026-11-23T10:00:00Z", // 2 hours before now
   };
   const evalDue = evaluateTask(dueDeferred, now);
-  assert.equal(evalDue.priority, 1);
+  assert.equal(evalDue.priority, 2);
   assert.equal(evalDue.isDue, true);
 
   const futureDeferred: TaskRecord = {
@@ -132,7 +133,7 @@ test("evaluateTask assigns priority tiers and evaluates time gates", () => {
     created: "2026-10-20",
     targets: [],
   };
-  assert.equal(evaluateTask(queued, now).priority, 2);
+  assert.equal(evaluateTask(queued, now).priority, 3);
 
   const done: TaskRecord = {
     filePath: "tasks/t7.md",
@@ -284,4 +285,102 @@ test("findTaskByQuery matches by filename, path, and title substring", () => {
     findTaskByQuery(tasks, "Шаргород").match?.filename,
     "research-sharhorod-history.md",
   );
+});
+
+test("found precedes all research tiers, even with lower article value", async (t) => {
+  const statuses = [
+    "found",
+    "in_progress",
+    "deferred",
+    "queued",
+    "fail",
+    "blocked",
+  ];
+  const files = Object.fromEntries(
+    statuses.map((status, index) => [
+      `${status}.md`,
+      `---
+title: ${status}
+status: ${status}
+created: 2026-10-${20 - index}
+article_value: ${status === "found" ? "low" : "high"}
+retry_ready: true
+${status === "deferred" ? 'not_before: "2026-11-23T10:00:00Z"' : ""}
+---`,
+    ]),
+  );
+  const dir = await createTempTasksDir(t, files);
+  const result = await loadTasks(dir, new Date("2026-11-23T12:00:00Z"));
+  assert.equal(result.selected?.status, "found");
+  assert.deepEqual(
+    result.candidates.map((task) => task.status),
+    ["found", "deferred", "in_progress", "queued", "fail", "blocked"],
+  );
+});
+
+test("automatic selection skips exhausted and unready tasks but explicit lookup retains them", async (t) => {
+  const dir = await createTempTasksDir(t, {
+    "exhausted.md": "---\nstatus: no_result\nretry_ready: true\n---",
+    "failed.md": "---\nstatus: fail\n---",
+    "blocked.md": "---\nstatus: blocked\nretry_ready: 'true'\n---",
+    "invalid.md": "---\nstatus: deferred\nnot_before: invalid\n---",
+  });
+  const result = await loadTasks(dir);
+  assert.equal(result.selected, undefined);
+  assert.equal(result.candidates.length, 0);
+  assert.equal(result.invalidTasks.length, 1);
+  for (const filename of [
+    "exhausted.md",
+    "failed.md",
+    "blocked.md",
+    "invalid.md",
+  ]) {
+    assert.equal(
+      findTaskByQuery(result.tasks, filename).match?.filename,
+      filename,
+    );
+  }
+});
+
+test("article value precedes age only within a tier, with normal as the default", async (t) => {
+  const dir = await createTempTasksDir(t, {
+    "old-low.md":
+      "---\nstatus: queued\ncreated: 2026-01-01\narticle_value: low\n---",
+    "new-high.md":
+      "---\nstatus: queued\ncreated: 2026-11-01\narticle_value: high\n---",
+    "default.md": "---\nstatus: queued\ncreated: 2026-02-01\n---",
+    "normal.md":
+      "---\nstatus: queued\ncreated: 2026-02-01\narticle_value: normal\n---",
+  });
+  const result = await loadTasks(dir);
+  assert.deepEqual(
+    result.candidates.map((task) => task.filename),
+    ["new-high.md", "default.md", "normal.md", "old-low.md"],
+  );
+  assert.equal(
+    parseTaskContent("unknown.md", "---\narticle_value: unexpected\n---")
+      .articleValue,
+    "normal",
+  );
+});
+
+test("found and retry readiness cannot bypass time gates", () => {
+  const base: TaskRecord = {
+    filePath: "tasks/gated.md",
+    filename: "gated.md",
+    title: "Gated",
+    status: "found",
+    created: "2026-01-01",
+    targets: [],
+    retryReady: true,
+  };
+  const now = new Date("2026-11-23T12:00:00Z");
+  for (const status of ["found", "fail", "blocked"]) {
+    for (const notBefore of ["invalid", "2026-11-24T12:00:00Z"]) {
+      assert.equal(
+        evaluateTask({ ...base, status, notBefore }, now).priority,
+        Infinity,
+      );
+    }
+  }
 });

@@ -70,6 +70,7 @@ function formatTaskDetails(task: EvaluatedTask): string {
   }
   lines.push(statusLine);
   lines.push(`  Created: ${task.created}`);
+  lines.push(`  Article value: ${task.articleValue ?? "normal"}`);
 
   if (task.targets.length > 0) {
     lines.push(`  Targets:`);
@@ -165,7 +166,7 @@ async function main() {
     for (let i = 0; i < Math.min(result.candidates.length, 15); i++) {
       const c = result.candidates[i];
       console.log(
-        `  ${(i + 1).toString().padStart(2)}. [P${c.priority}] ${c.filePath} (${c.status}, ${c.created}) - ${c.title}`,
+        `  ${(i + 1).toString().padStart(2)}. [P${c.priority}] ${c.filePath} (${c.status}, ${c.articleValue ?? "normal"}, ${c.created}) - ${c.title}`,
       );
     }
     if (result.futureDeferred.length > 0) {
@@ -179,15 +180,8 @@ async function main() {
 
   // Handle explicit query argument if supplied
   if (options.query) {
-    // Collect all loaded tasks (including futureDeferred, blocked, done)
-    const allLoaded = [
-      ...result.candidates,
-      ...result.futureDeferred,
-      ...result.blocked,
-      ...result.done,
-    ];
-    // Also include any tasks with metadata errors or done if needed
-    const queryResult = findTaskByQuery(allLoaded, options.query);
+    // Explicit queries also resolve tasks excluded from automatic selection.
+    const queryResult = findTaskByQuery(result.tasks, options.query);
 
     if (!queryResult.match && queryResult.ambiguous) {
       console.error(
