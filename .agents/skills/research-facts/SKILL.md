@@ -5,7 +5,7 @@ description: "Research and verify historical or genealogical claims about the pr
 
 # Research sourced local-history facts
 
-Find locally relevant facts without turning plausible stories, snippets, or weak citations into history. “Proved” means supported by inspectable evidence, not absolute certainty. The root contract governs scope, Ukrainian prose, user-established facts, and archival reading. Search-language requirements do not override source eligibility.
+Find locally relevant facts without turning plausible stories, snippets, or weak citations into history. “Proved” means supported by inspectable evidence, not absolute certainty. The root contract governs scope, Ukrainian prose, trusted user readings, user-supplied facts, publication privacy, and archival reading. A confirmed transcription establishes the reading, not the truth of the document's assertions. Search-language requirements do not override source eligibility.
 
 ## Start with existing evidence
 
@@ -31,6 +31,6 @@ A new investigation requires web searches and at least one inspected source docu
 
 ## Deliver evidence within scope
 
-Record each claim, supporting evidence and exact locator, source type and limits, conflicts, and confidence. Separate useful qualified inferences from explicit source assertions. Preserve source-supported local people, including obscure or single appearances; assess ordinary detail for reader value. Keep operational failures outside article prose.
+Record each claim, supporting evidence and exact locator, source type and limits, conflicts, and confidence. Distinguish reading confidence from historical-claim confidence and separate useful qualified inferences from explicit source assertions. Preserve source-supported local people, including obscure or single appearances, subject to the root contract's privacy assessment; assess ordinary detail for reader value. Record publication decisions in existing evidence sections. Keep operational failures outside article prose.
 
 For a task, save supported findings as `found`, inspect actual candidate articles even when `targets` is empty, and record each valuable finding's destination or specific exclusion. Verify article application before `done`; an unresolved valuable destination keeps `found`. Add relevant existing wikilinks and bold the article title at its natural first mention. A standalone research request returns evidence and suggested Ukrainian wording unless article editing is requested. Following `start-task` authorizes application to relevant existing articles, not creation of new ones.
