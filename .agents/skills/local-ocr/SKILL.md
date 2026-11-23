@@ -5,7 +5,7 @@ description: "Extract local OCR from scanned PDFs/images or make printed scans s
 
 # Local OCR workflow
 
-Keep source material on this machine for local OCR/HTR. Do not upload documents to a remote OCR service. The script-based LLM vision exception in `AGENTS.md` permits relevant passages reliably expected to use scripts other than Cyrillic or Latin; follow its routing and evidence requirements.
+Keep source material on this machine for local OCR/HTR. Do not upload documents to a remote OCR service. Load [llm-vision](../llm-vision/SKILL.md) for vision routing and the user-transcription handoff when OCR/HTR reaches its limit.
 
 ## Swift cache location
 
@@ -22,7 +22,7 @@ Run the commands below from the repository root. Always pass `-module-cache-path
    ```
 
    It processes PDFs page-by-page and common ImageIO image formats locally, defaults to `uk-UA`, `ru-RU`, and `pl-PL`, and prints page-labelled text. It disables language correction to avoid silently normalizing names or historical spelling. Use `--languages uk-UA,pl-PL` to narrow the languages or `--dpi 400` for a higher-resolution PDF render when small print is missed.
-3. For cursive or other handwriting, use the local specialist HTR workflow when it is available and appropriate (for example, the `read-case` skill and `nysh read`). Follow that workflow's scope and resource safeguards. LLM vision is prohibited for Cyrillic and Latin passages; for other scripts, follow the exception in `AGENTS.md`.
+3. For cursive or other handwriting, use Nysh HTR under [read-case](../read-case/SKILL.md). Follow that workflow's scope and resource safeguards.
 4. If the deliverable is a searchable PDF rather than plain text, use OCRmyPDF/Tesseract:
 
    ```sh
@@ -34,12 +34,11 @@ Run the commands below from the repository root. Always pass `-module-cache-path
 
 ## Accuracy and evidence
 
-- Never send Cyrillic or Latin scan passages to an LLM for reading or verification. For other scripts, use the exception in `AGENTS.md` only when metadata, existing text, or other tools reliably establish the expected script; record that basis and isolate the relevant passage on mixed-script pages. OCR/HTR and permitted vision output are reading aids, not user-confirmed source text; label machine readings and preserve uncertainty rather than silently repairing names, dates, numbers, or claims. If the user supplies or corrects a transcription, accept that reading as established and preserve only uncertainty the user marks; do not use conflicting machine output to cast doubt on it.
+- OCR/HTR output is a reading aid, not user-confirmed source text; label machine readings and preserve uncertainty rather than silently repairing names, dates, numbers, or claims. Follow `llm-vision` for user-supplied or user-confirmed readings.
 - Preserve PDF page numbers. The Vision utility labels pages starting at 1; a printed page number may differ.
-- The utility emits recognized lines in approximate top-to-bottom order. It is not a table/layout reconstruction tool; use local tools to recover structure where possible. LLM inspection of columns, tables, marginalia, or ambiguous reading order is subject to the same script-based restriction.
+- The utility emits recognized lines in approximate top-to-bottom order. It is not a table/layout reconstruction tool; use local tools to recover structure where possible. Follow `llm-vision` when columns, tables, marginalia, or ambiguous reading order remain unresolved.
 - General OCR is not specialist handwriting recognition. For cursive archival records, use local HTR suited to that script and period when available; do not present generic OCR or a fluent model guess as a faithful transcription.
-- Before requesting the user's reading of Cyrillic or Latin text, reuse existing OCR/HTR for the exact scan or passage, or make a bounded local attempt with a suitable engine when available; for handwriting, prefer suitable Nysh HTR under the `read-case` workflow and its resource safeguards. Follow the archival-reading handoff in `AGENTS.md`: accompany the request with the relevant raw machine text, clearly labelled as unverified OCR/HTR, and identify the engine/model when known. Preserve errors, gaps, and competing readings; ask the user to confirm or correct the needed passage or supply their own reading, without assuming human transcription is more accurate. User-confirmed machine text counts as a confirmed reading. The user cannot transcribe other scripts: use suitable OCR/HTR or permitted vision instead, and seek an existing transcription or a competent reader if unresolved.
-- For Cyrillic or Latin text, if local OCR/HTR is unavailable, fails, or leaves task-relevant text unresolved after that bounded attempt, ask the user to read the specific field or passage, including any available machine text. Name the case/path, exact image filename, PDF page (and printed page if known), and the data needed. Do not ask vaguely to "read the scan" or request more transcription than the task requires. If no useful machine text is available, state the specific limitation; if an OCR executable is missing, report which local path could not run and still make the request specific when the target scan and needed field are known. This user-reading fallback does not apply to other scripts.
+- Reuse existing OCR/HTR for the exact passage or make a bounded attempt with a suitable engine before requesting a user reading. Follow the specific handoff in `llm-vision`; report the exact executable or local path that could not run if tooling is unavailable.
 - Do not run OCR over an entire archive when a few representative pages can establish whether the engine/language works.
 
 ## Local helper tools
