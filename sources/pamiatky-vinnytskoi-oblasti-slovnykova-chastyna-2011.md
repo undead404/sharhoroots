@@ -7,8 +7,14 @@ date: "2011"
 language: українська
 url: "https://history.org.ua/LiberUA/978-617-533-042-5/978-617-533-042-5.pdf"
 local_copy: books/pamiatky-vinnytskoi-oblasti-slovnykova-chastyna-2011.pdf
-last_checked: "2026-11-16"
+last_checked: "2026-11-23"
 artifacts:
+  - path: sources/texts/pamiatky-vinnytskoi-oblasti-slovnykova-chastyna-2011/pdf-152-tesseract.txt
+    kind: ocr
+    locator: "Копія Інституту історії України, PDF-стор. 152, розділ Шаргородського району, рядок міста Шаргорода"
+    provenance: "2026-11-23: pdftoppm -scale-to 3600, поворот 180° через sips, локальний Tesseract ukr; сирий вивід без виправлень"
+    engine: "Tesseract ukr"
+    status: unverified
   - path: sources/texts/pamiatky-vinnytskoi-oblasti-slovnykova-chastyna-2011/pdf-070-tesseract.txt
     kind: ocr
     locator: "Копія Інституту історії України, PDF-стор. 70, рядок 15 Політанок у розділі Шаргородського району"
@@ -26,6 +32,9 @@ artifacts:
     engine: "Tesseract ukr"
     status: unverified
 inspected:
+  - locator: "Копія Інституту історії України, PDF-стор. 151–152; рядок Шаргорода на PDF-стор. 152"
+    basis: machine_only
+    note: "2026-11-23: локальний Tesseract ukr; початок розділу Шаргородського району. OCR не дав підтвердження імені О. Т. Меєра; це не доказ відсутності його могили. Людиною не звірено. Межі та пошук: tasks/research-sharhorod-meyer-partisan-grave.md"
   - locator: "Копія Інституту історії України, PDF-стор. 69–71; рядок Політанок на PDF-стор. 70"
     basis: machine_only
     note: "2026-11-16: локальний Tesseract ukr; OCR читає курганну групу (3) на південний схід від села з невстановленою культурною належністю. Людиною не звірено; для статті використано окремий текстовий запис каталогу 2015 року"
