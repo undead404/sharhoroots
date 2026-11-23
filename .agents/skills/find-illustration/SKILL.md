@@ -1,6 +1,6 @@
 ---
 name: find-illustration
-description: Find, visually evaluate, and insert a sourced illustration for a vault article, or report that no suitable image was found. Use for article photographs and other existing illustrations, not archival OCR/HTR or generated imagery.
+description: "Find and insert a visually checked, sourced article illustration; excludes archival reading and generated images."
 ---
 
 # Find an article illustration
@@ -19,7 +19,7 @@ Find an existing image that represents the article's own subject, then place it 
 
 For image-source eligibility, provenance claims, and potentially excluded article links, load and follow [evaluate-external-source](../evaluate-external-source/SKILL.md). Its mandatory replacement-task requirement takes precedence over the ordinary no-image/no-follow-up stopping rules below.
 
-1. Search the web in Ukrainian, using established name variants and location qualifiers to disambiguate. Use further languages appropriate to the image period and subject under `AGENTS.md`. Search by the desired scene as well as the entity name. Consider relevant image repositories, local publications, photographers' galleries, and accessible community/institutional pages; search results and captions are leads, not automatic acceptance.
+1. Search the web in Ukrainian, using established name variants and location qualifiers to disambiguate. Use further languages appropriate to the image period and subject under [the search language rules](../research-facts/references/search-procedure.md). Search by the desired scene as well as the entity name. Consider relevant image repositories, local publications, photographers' galleries, and accessible community/institutional pages; search results and captions are leads, not automatic acceptance.
 2. Inspect the source page or publication and the actual image. For PDFs, use the PDF skill and inspect the relevant illustrations rather than relying on captions alone. Check that extraction yields the photograph itself, not a mask, blank asset, thumbnail, or an unrelated neighbouring image. Inspect the final extracted/cropped file too. Keep exploratory downloads and extractions in `.agent-work/`.
 3. **Photograph evaluation is permitted.** Use vision to assess the depicted scene, composition, relevance, quality, and whether it competes with another article's subject. This includes historical photographs reproduced on scanned book pages and crops extracted from them. The archival text-reading/OCR/HTR prohibition does not apply to this evaluation. It still applies if the task shifts to reading or verifying archival names, dates, handwriting, or record entries. For source captions or bibliographic text, use available document text or local OCR and follow the repository's evidence rules.
 4. Establish the depicted identity through provenance, source context, and available evidence; appearance alone cannot identify an otherwise unidentified village or person. Separate what is visibly present from what the source identifies. A broad label such as «краєвиди» does not prove that every embedded image shows village habitation or supplies an individual date/photographer.

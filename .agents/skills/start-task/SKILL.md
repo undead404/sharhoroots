@@ -1,6 +1,6 @@
 ---
 name: start-task
-description: Find and begin or resume one unfinished research task in tasks/, optionally selected by path or title.
+description: "Select and begin or resume one unfinished research task, optionally by path or title."
 metadata:
   opencode/autoinvoke: "false"
 ---

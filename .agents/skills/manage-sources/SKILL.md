@@ -1,6 +1,6 @@
 ---
 name: manage-sources
-description: Find, create, normalize, and maintain reusable external-source records and their retained text artifacts in sources/. Use when registering a source, local copy, transcription, OCR/HTR output, or inspected passage, including during research.
+description: "Find and maintain source records, retained copies/texts, OCR/HTR provenance, and inspected passages in sources/."
 ---
 
 # Manage reusable external sources

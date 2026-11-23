@@ -1,6 +1,6 @@
 ---
 name: related-fonds-table
-description: Create or edit any article's «Дотичні фонди» table using its canonical columns and chronological ordering.
+description: "Edit canonical «Дотичні фонди» tables in chronological order."
 ---
 
 # Таблиці «Дотичні фонди»

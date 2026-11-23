@@ -1,6 +1,6 @@
 ---
 name: content-placement
-description: Choose primary article destinations, cross-references, and entity extraction for historical or genealogical information; distinguish settlement history from registrar and institutional history.
+description: "Choose article destinations, cross-references, and entity extraction for historical information."
 ---
 
 # Place content by historical entity

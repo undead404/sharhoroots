@@ -1,6 +1,6 @@
 ---
 name: article-gaps
-description: Review a vault article for worthwhile unanswered historical or genealogical questions and create focused, non-duplicate research tasks in tasks/.
+description: "Identify worthwhile unanswered article questions and create non-duplicate research tasks."
 metadata:
   opencode/autoinvoke: "false"
 ---

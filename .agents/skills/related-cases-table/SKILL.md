@@ -1,6 +1,6 @@
 ---
 name: related-cases-table
-description: Create or edit general «Дотичні справи» tables using the canonical five columns, complete archival codes, and chronological ordering.
+description: "Edit canonical general «Дотичні справи» tables with full archival codes and chronological order."
 ---
 
 # Таблиці «Дотичні справи»

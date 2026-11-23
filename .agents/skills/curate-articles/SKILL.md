@@ -1,6 +1,6 @@
 ---
 name: curate-articles
-description: Reorganize, move, split, merge, or rename Obsidian/Quartz articles while preserving links and updating content/_redirects whenever a published URL changes.
+description: "Move, rename, split, or merge vault articles while preserving links and published redirects."
 ---
 
 # Curate vault articles

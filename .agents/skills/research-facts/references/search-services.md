@@ -1,6 +1,6 @@
 # Search services and human search handoff
 
-Use these services when their coverage fits the research question. Search applicable databases directly rather than relying only on search-engine indexing of their public pages. This is routing guidance, not a requirement to search every service on every task. Preserve the territorial scope, language rules, local-source checks and Nysh discovery step in `AGENTS.md`. Person indexes support an explicit person/surname question or a person already relevant to the investigation; do not turn general settlement research into an unsolicited surname search.
+Use these services when their coverage fits the research question. Search applicable databases directly rather than relying only on search-engine indexing of their public pages. This is routing guidance, not a requirement to search every service on every task. Preserve the territorial scope in `AGENTS.md`; follow [search procedures](search-procedure.md) for languages/local checks and [Nysh discovery rules](nysh-archival.md) for the discovery step. Person indexes support an explicit person/surname question or a person already relevant to the investigation; do not turn general settlement research into an unsolicited surname search.
 
 ## Choose a service
 

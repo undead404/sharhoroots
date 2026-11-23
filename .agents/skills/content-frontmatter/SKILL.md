@@ -1,6 +1,6 @@
 ---
 name: content-frontmatter
-description: Define, review, and edit the semantic frontmatter fields used by articles under content/.
+description: "Define, review, and edit semantic YAML frontmatter under content/."
 ---
 
 # Maintain article frontmatter

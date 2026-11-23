@@ -1,6 +1,6 @@
 ---
 name: local-ocr
-description: Extract text locally from PDFs and images, especially Ukrainian, Russian, and Polish printed scans; use when asked to OCR, transcribe, or make a scanned PDF searchable.
+description: "Extract local OCR from scanned PDFs/images or make printed scans searchable."
 ---
 
 # Local OCR workflow

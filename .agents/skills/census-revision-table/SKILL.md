@@ -1,6 +1,6 @@
 ---
 name: census-revision-table
-description: Create or edit census and tax-revision tables in «Переписи та ревізії» sections using the canonical four columns and chronological ordering.
+description: "Edit canonical «Переписи та ревізії» tables in chronological order."
 ---
 
 # Таблиці «Переписи та ревізії»

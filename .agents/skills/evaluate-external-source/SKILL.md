@@ -1,11 +1,11 @@
 ---
 name: evaluate-external-source
-description: Evaluate an external source under the repository credibility policy, establish historical-document exceptions, and route excluded article links to replacement research tasks.
+description: "Evaluate source eligibility, historical-document exceptions, and mandatory replacement tasks."
 ---
 
 # Evaluate an external source
 
-The **Source credibility and replacement policy** in repository-root `AGENTS.md` is the single source of truth for exclusions, the age threshold, and mandatory replacement scheduling. Apply it to the exact item and passage being used. This skill determines eligibility under that policy; passing it does not establish a claim's truth or replace normal source criticism and document inspection under `research-facts`.
+Read the [Source credibility and replacement policy](references/credibility-policy.md) before evaluating any source or potentially excluded article link. It is the single source of truth for exclusions, the age threshold, and mandatory replacement scheduling. Apply it to the exact item and passage being used. This skill determines eligibility under that policy; passing it does not establish a claim's truth or replace normal source criticism and document inspection under `research-facts`.
 
 ## Identify the item
 
@@ -16,7 +16,7 @@ The **Source credibility and replacement policy** in repository-root `AGENTS.md`
 
 ## Establish any document exception
 
-For material from an excluded resource, check whether the relevant passage is an unchanged reproduction of a textual historical document meeting the age threshold in `AGENTS.md`.
+For material from an excluded resource, check whether the relevant passage is an unchanged reproduction of a textual historical document meeting the age threshold in [the credibility policy](references/credibility-policy.md).
 
 - Identify the original document, its creator when known, original date, and precise page, folio, entry, or other locator. Calculate age at the date of use from the original date. If only a year or date range is known, accept the age condition only when the whole possible range meets the threshold; otherwise leave it unresolved.
 - Prefer scans such as PDFs or JPEGs; faithful, unaltered textual transcriptions also qualify. Establish the basis for reproduction fidelity from the document and available provenance, within the permitted reading methods. A host's unsupported claim of authenticity does not establish this. Reuse established user readings within their stated scope; do not demand independent corroboration of them.

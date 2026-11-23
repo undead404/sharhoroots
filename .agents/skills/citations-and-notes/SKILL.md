@@ -1,6 +1,6 @@
 ---
 name: citations-and-notes
-description: Create or revise source citations, footnotes, quotations, and author/editor notes in vault articles, including when paraphrasing evidence or moving cited passages.
+description: "Edit article citations, quotations, footnotes, and notes, including paraphrased or moved evidence."
 ---
 
 # Citations and notes

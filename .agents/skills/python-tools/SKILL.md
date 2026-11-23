@@ -1,6 +1,6 @@
 ---
 name: python-tools
-description: Set up, run, test, or manage any Python code or dependencies in this repository. Load before every Python-related task; the uv project is isolated here so Cloudflare Pages does not detect Python at the vault root.
+description: "Set up, write, run, or test repository Python with the isolated uv project; load before any Python work."
 ---
 
 # Repository Python tooling

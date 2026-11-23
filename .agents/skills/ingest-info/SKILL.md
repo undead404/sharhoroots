@@ -2,7 +2,7 @@
 metadata:
   opencode/autoinvoke: "false"
 name: ingest-info
-description: Route user-provided historical or genealogical information into relevant existing vault articles, preserving evidence and leaving out material that is redundant or does not fit. Викликати для внесення наданих відомостей до статей.
+description: "Route user-provided historical or genealogical information into relevant existing vault articles."
 ---
 
 # Route user-provided information into articles

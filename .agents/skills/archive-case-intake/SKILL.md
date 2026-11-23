@@ -2,7 +2,7 @@
 metadata:
   opencode/autoinvoke: "false"
 name: archive-case-intake
-description: Add pasted archival case descriptions to the narrowest relevant existing vault article tables, preserving scan links, table structure, chronology, and duplicate-free references. Викликати для внесення описів архівних справ у статті.
+description: "Insert pasted archival case descriptions into existing vault tables, preserving links and avoiding duplicates."
 ---
 
 # Add an archival case to article tables
