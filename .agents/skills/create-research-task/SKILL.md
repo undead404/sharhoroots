@@ -19,6 +19,8 @@ Turn an already-vetted research question or follow-up lead into a task note in t
 
 ## Boundaries
 
+- Accept mandatory source-replacement inputs from [evaluate-external-source](../evaluate-external-source/SKILL.md) under the policy in `AGENTS.md`. These are evidence-replacement questions even when the encountered link serves navigation; the wording-only exclusion below does not waive them. Preserve the supplied eligibility decision and uncertainty without starting substantive research here.
+
 - Do not decide whether an editorial gap is worthwhile; follow the calling skill's relevance and value criteria.
 - Do not research the question, verify source leads, create source records, or treat a catalog description or search result as inspected source evidence.
 - Do not change the status or contents of an existing task, even if it is blocked, completed, or marked `no_result`.

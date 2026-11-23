@@ -9,6 +9,8 @@ Keep source identity, retrieval details, and the current state of inspected pass
 
 ## Find and identify
 
+- For source eligibility, document exceptions, and potentially excluded article links, load and follow [evaluate-external-source](../evaluate-external-source/SKILL.md). Store its source-specific decision and provenance within the existing record schema; source registration does not confer credibility.
+
 - Create a record only for a source likely to help another research task, and explain that reuse value in the body. Do not register every requested URL, search result, article citation, or failed retrieval. Keep one-off references in the current task/evidence record unless a concrete reuse reason emerges. A new URL for an existing source is an update, not a new source.
 
 - Search `sources/`, relevant `tasks/`, and local `books/` before creating a record or downloading. Match title, edition, archive/shelfmark, stable URL, and existing IDs, not just filenames.

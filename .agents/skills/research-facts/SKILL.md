@@ -5,6 +5,8 @@ description: Find, verify, reference, and write interesting historical or geneal
 
 # Research sourced local-history facts
 
+When evaluating an external source or encountering a potentially excluded article link, load and follow [evaluate-external-source](../evaluate-external-source/SKILL.md). Its replacement-task requirement applies during reuse-only work and takes precedence over ordinary reader-value and follow-up gates; search-language requirements do not override source eligibility.
+
 Load and follow `../manage-sources/SKILL.md` when finding or maintaining reusable source records, registering local copies or retained texts, or recording inspected passages. That skill owns the source schema and storage contract; keep research queries, access attempts, interpretations, and article application in this workflow's task/evidence record. Existing source metadata is a retrieval aid, not a substitute for inspecting the underlying evidence.
 
 When creating or revising quotations, source citations, footnotes, or author/editor notes, load and follow `../citations-and-notes/SKILL.md`. This includes paraphrasing evidence and moving cited passages; stay within this workflow’s editing scope.

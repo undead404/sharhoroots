@@ -17,6 +17,8 @@ Load this skill whenever creating or revising quotations, source citations, foot
 
 ## Source footnotes
 
+- For external-source eligibility and potentially excluded article links, load and follow [evaluate-external-source](../evaluate-external-source/SKILL.md), including during citation-formatting-only work. Formatting a citation does not verify its source or authorize unrelated article rewriting.
+
 - Use Markdown footnotes for source citations in new or revised article prose. Put the reference immediately after the supported sentence or paragraph: `Текст твердження.[^source-locator]`. Split references at claim boundaries when a paragraph contains claims supported by different evidence.
 - Define notes separately, normally together at the end of the article, following an existing suitable placement. Keep the reference and definition in the same article. Do not use inline footnote syntax or manually numbered superscripts.
 - Link the source title to the supplied or inspected source URL. Include known bibliographic details: author/editor, place, publisher, year, volume/issue, and ISBN when supplied. Add the exact supporting page, folio, entry, archival reference, section, or other locator. Distinguish printed page numbers from PDF/image numbers when necessary. Do not invent missing metadata, URLs, or locators; disclose a material missing locator rather than claiming precision.

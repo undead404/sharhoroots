@@ -36,7 +36,7 @@ This repository is an Obsidian vault published with Quartz 4. It serves genealog
 - Preserve citations and source links when editing claims. For claims from outside sources, recast unverified claims as evidence-based inferences when warranted, or flag what remains unknown; do not silently strengthen them.
 - **Reader-facing attribution:** In `content/`, omit routine workflow credits such as «текст надано…», «читання користувача», or «читання Віталія Перегончука» when the citation already suffices. Do not mechanically replace «користувач» with a name or author link. Name the project author only when attribution clarifies an interpretation, original contribution, or reading authorship: use «В.П.» or «Віталій Перегончук» (inflected as grammar requires); link to `/author` only when useful, without repeating it routinely. Never call him «користувач» or expose the chat relationship in published text. Preserve source attribution and evidence qualifications.
 - **Citations and notes:** Whenever creating or revising quotations, citations, footnotes, or notes in `content/`, load and follow `.agents/skills/citations-and-notes/SKILL.md`. Prefer Ukrainian paraphrases with precise Markdown source footnotes; use quotations only when wording matters.
-- Never cite or link to Russian-language Wikipedia. For navigation-only links, use a confirmed Ukrainian-language Wikipedia page only when no relevant local article exists; never use any Wikipedia page as historical or genealogical evidence.
+- Apply the **Source credibility and replacement policy** below whenever evaluating sources or encountering links in `content/`. For navigation-only Wikipedia links, use a confirmed Ukrainian-language page only when no relevant local article exists; never use Wikipedia editorial content as historical or genealogical evidence.
 - Keep reader-facing evidence qualifications separate from research-process notes: article prose explains what evidence establishes; failed access attempts, tool errors, and agent limitations belong in the relevant `tasks/` research log. Add supported qualified inferences to the target article.
 - Keep Ukrainian-script place-name forms, historical administrative units, and transliterations consistent with established Ukrainian usage and surrounding notes.
 - Whenever creating a research task in `tasks/`, load and follow `create-research-task`. For finding/sourcing facts, load `research-facts`. For reorganizing, moving, or renaming articles, load `curate-articles`.
@@ -47,6 +47,22 @@ This repository is an Obsidian vault published with Quartz 4. It serves genealog
 - When an article's published path changes, update `content/_redirects` and internal links in the same change.
 - Quartz builds `content/` and ignores `private`, `templates`, `.obsidian`, `**/*.excalidraw.md`. Keep tasks in `tasks/`, outside published output. Do not edit generated output or local Obsidian workspace state.
 - When choosing where information belongs, cross-referencing, or assessing extraction/merging, load and follow `.agents/skills/content-placement/SKILL.md`.
+
+## Source credibility and replacement policy
+
+The following publications have zero credibility as sources, regardless of author, institutional affiliation, apparent quality, or agreement with other accounts:
+
+- Publications on `ru.wikipedia.org`, including its subdomains.
+- Publications on any hostname in the `.ru` or `.su` zones.
+- Publications on `familio.org`, including its subdomains.
+- Publications on `beket.com.ua`, including its subdomains.
+- Anything published in Russian on or after **2014-02-20**, on any domain.
+
+**Sole exception:** unchanged textual historical documents at least **75 years old** may be used and cited, especially scans (PDF, JPEG, and similar formats); faithful, unaltered transcriptions also qualify. Age is measured from the original document's date to the date of use, not its upload date or the period described. Establish and record the original's identity, age, locator, and reproduction fidelity under the archival-reading rules. The host's commentary gains no credibility from this exception. Everything else from these resources is a hint for further research only, never evidence. Mirroring or translating excluded material does not restore credibility; Russian-language searches remain permitted.
+
+**Mandatory replacement tasks on encounter:** during any work, links encountered in `content/` under this policy must be scheduled for replacement through `create-research-task`, unless the document exception is established and recorded. This includes citations, navigation, tables, and image credits, even during editorial work. Unresolved publication dates or exceptions require verification/replacement tasks. A matching existing task satisfies scheduling. Do not waive this as a low-value gap or out-of-scope wording issue, silently delete supported information, or substitute an uninspected source. This does not require a vault-wide audit on every task.
+
+For the evaluation procedure, evidence records, and replacement-task handoff, load and follow [.agents/skills/evaluate-external-source/SKILL.md](.agents/skills/evaluate-external-source/SKILL.md) whenever evaluating an external source or encountering a potentially excluded link. These mandatory rules apply even when that skill has not yet been loaded.
 
 ## Historical administrative research reminder
 
