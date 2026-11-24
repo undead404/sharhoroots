@@ -1,4 +1,8 @@
 ---
+containedInPlace: Жмеринський район
+coordinates:
+  - 48.90923707921076
+  - 28.242769554367374
 tags:
   - village
 title: Бабина Долина

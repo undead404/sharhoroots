@@ -2,6 +2,10 @@
 aliases:
   - хутір Чапаєва
   - Чапаєве
+containedInPlace: Жмеринський район
+coordinates:
+  - 48.67623813635075
+  - 28.213861693921306
 tags:
   - hamlet
   - village

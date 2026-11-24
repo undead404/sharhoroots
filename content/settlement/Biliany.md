@@ -2,7 +2,7 @@
 aliases:
   - Біляни
   - Біляни-Шаргородські
-containedInPlace: Жмеринський район
+containedInPlace: Могилів-Подільський район
 coordinates:
   - 48.617102
   - 28.0120468

@@ -1,4 +1,8 @@
 ---
+containedInPlace: Тульчинський район
+coordinates:
+  - 48.715318914328286
+  - 28.50035202525901
 tags:
   - hamlet
 title: Юліямпільське

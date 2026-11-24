@@ -2,6 +2,9 @@
 aliases:
   - Владимирівка
 containedInPlace: Жмеринський район
+coordinates:
+  - 48.74890092098274
+  - 28.365139929955912
 tags:
   - village
 title: Володимирка

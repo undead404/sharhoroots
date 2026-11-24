@@ -1,5 +1,6 @@
 ---
 aliases:
+  - Мурафська Пеньківка
   - Пеньківка
 containedInPlace: Жмеринський район
 coordinates:

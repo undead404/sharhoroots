@@ -8,8 +8,8 @@ coordinates:
   - 48.72570364478022
   - 28.086181722628037
 tags:
-  - hamlet
   - defunct
+  - hamlet
   - suburb
 title: Барабаївка
 type: Place

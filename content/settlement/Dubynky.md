@@ -1,6 +1,10 @@
 ---
 aliases:
   - Дубинки
+containedInPlace: Жмеринський район
+coordinates:
+  - 48.679056848661595
+  - 28.172157884172048
 tags:
   - hamlet
 title: Дубинки (Шаргородські)

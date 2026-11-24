@@ -3,6 +3,9 @@ aliases:
   - Аристовка
   - Ариставка
 containedInPlace: Жмеринський район
+coordinates:
+  - 48.78302882322048
+  - 28.306309338329637
 tags:
   - village
 title: Аристівка
