@@ -9,8 +9,8 @@ description: "Шаргородський район у 1923–2020 роках: �
 dissolutionDate: 2020
 foundingDate: 1923
 tags:
-  - raion
   - defunct
+  - raion
 title: Шаргородський район
 type: AdministrativeArea
 ---

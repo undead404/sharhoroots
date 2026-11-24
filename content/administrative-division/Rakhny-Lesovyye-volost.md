@@ -8,8 +8,8 @@ coordinates:
 dissolutionDate: 1923
 foundingDate: 1912
 tags:
-  - volost
   - defunct
+  - volost
 title: Рахни-Лісівська волость
 type: AdministrativeArea
 ---

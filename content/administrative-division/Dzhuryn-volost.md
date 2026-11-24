@@ -6,8 +6,8 @@ coordinates:
   - 48.681271
   - 28.292053
 tags:
-  - volost
   - defunct
+  - volost
 title: Джуринська волость
 type: AdministrativeArea
 description: Історія Джуринської волості в Ямпільському повіті за архівним описом 1861–1871 років і довідником 1885 року.

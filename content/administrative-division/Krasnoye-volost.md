@@ -8,8 +8,8 @@ coordinates:
 description: "Краснянська волость Ямпільського повіту: її становище, поселення за довідником 1885 року та документовані межі адміністративної реформи 1923-го."
 dissolutionDate: 1923
 tags:
-  - volost
   - defunct
+  - volost
 title: Краснянська волость
 type: AdministrativeArea
 ---

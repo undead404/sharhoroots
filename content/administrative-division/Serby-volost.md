@@ -7,8 +7,8 @@ coordinates:
   - 28.0153025
 description: Сербівська волость Могилівського повіту — її поселення 1885 року, волосне управління та джерела про мешканців Шаргородщини.
 tags:
-  - volost
   - defunct
+  - volost
 title: Сербівська волость
 type: AdministrativeArea
 ---

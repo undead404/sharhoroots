@@ -10,8 +10,8 @@ description: "Історія Мурафського району: утворен
 dissolutionDate: 1930
 foundingDate: 1923
 tags:
-  - raion
   - defunct
+  - raion
 title: Мурафський район
 type: AdministrativeArea
 ---

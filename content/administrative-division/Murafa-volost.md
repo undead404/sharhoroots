@@ -8,8 +8,8 @@ coordinates:
 description: "Мурафська волость Ямпільського повіту: поселення Шаргородщини, волосне правління, перехід до районування 1923 року й архівні джерела."
 dissolutionDate: 1923
 tags:
-  - volost
   - defunct
+  - volost
 title: Мурафська волость
 type: AdministrativeArea
 ---

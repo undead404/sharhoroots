@@ -8,7 +8,7 @@ coordinates:
 dissolutionDate: 1923
 title: Мовчанська волость
 tags:
-  - volost
   - defunct
+  - volost
 type: AdministrativeArea
 ---

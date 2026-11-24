@@ -7,8 +7,8 @@ coordinates:
   - 28.347956
 dissolutionDate: 1923
 tags:
-  - volost
   - defunct
+  - volost
 title: Рожнятівська волость
 type: AdministrativeArea
 description: Склад Рожнятівської волості, місце правління у 1913 році та її поселення в схемах сільрад 1923 і 1926 років.

@@ -7,8 +7,8 @@ coordinates:
   - 28.084181691251786
 dissolutionDate: 1923
 tags:
-  - volost
   - defunct
+  - volost
 title: Шаргородська волость
 type: AdministrativeArea
 description: "Шаргородська волость Могилівського повіту: поселення Шаргородщини, волосні установи, родинні списки та реорганізація 1923 року."

@@ -8,8 +8,8 @@ coordinates:
 dissolutionDate: 1962
 foundingDate: 1923
 tags:
-  - raion
   - defunct
+  - raion
 title: Шпиківський район
 type: AdministrativeArea
 ---

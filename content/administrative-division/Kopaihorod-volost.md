@@ -2,7 +2,11 @@
 aliases:
   - Копайгородська волость
 containedInPlace: Могилівський повіт
+coordinates:
+  - 48.85426571404474
+  - 27.79948787239347
 tags:
+  - defunct
   - volost
 title: Копайгородська волость
 type: AdministrativeArea

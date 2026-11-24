@@ -10,8 +10,8 @@ dissolutionDate: 1959
 foundingDate: 1923
 title: Джуринський район
 tags:
-  - raion
   - defunct
+  - raion
 type: AdministrativeArea
 ---
 

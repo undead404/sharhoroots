@@ -9,8 +9,8 @@ description: "Історія Краснянського району 1923–1928
 dissolutionDate: 1928
 foundingDate: 1923
 tags:
-  - raion
   - defunct
+  - raion
 title: Краснянський район
 type: AdministrativeArea
 ---

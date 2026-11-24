@@ -8,8 +8,8 @@ coordinates:
 dissolutionDate: 1923
 title: Чернівецька волость
 tags:
-  - volost
   - defunct
+  - volost
 type: AdministrativeArea
 description: "Чернівецька волость Ямпільського повіту: її відомий склад 1885 року, волосний центр і свідчення про адміністративну реформу 1923 року."
 ---

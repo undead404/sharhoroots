@@ -8,8 +8,8 @@ coordinates:
 description: "Пеньківська волость Ямпільського повіту: поселення за 1885 рік, установи 1917–1920 років і джерела з генеалогії Шаргородщини."
 dissolutionDate: 1923
 tags:
-  - volost
   - defunct
+  - volost
 title: Пеньківська волость
 type: AdministrativeArea
 ---

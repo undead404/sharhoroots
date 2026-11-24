@@ -8,8 +8,8 @@ coordinates:
   - 27.7991124
 dissolutionDate: 1923
 tags:
-  - uezd
   - defunct
+  - uezd
 title: Могилівський повіт
 type: AdministrativeArea
 ---
