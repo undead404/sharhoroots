@@ -6,6 +6,8 @@ description: Брацлавський район і підпорядкуванн
 coordinates:
   - 48.8268749
   - 28.9379724
+dissolutionDate: 1962
+foundingDate: 1923
 tags:
   - raion
   - defunct
