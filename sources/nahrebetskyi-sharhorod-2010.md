@@ -8,8 +8,28 @@ type: secondary
 language: "російська"
 url: "https://library.vn.ua/downloads/nagrebeczkij-a.-shargorod.pdf"
 local_copy: "books/nahrebetskyi-sharhorod-2010.pdf"
-last_checked: "2026-11-24"
+last_checked: "2026-11-26"
 artifacts:
+  - path: sources/texts/nahrebetskyi-sharhorod-2010/p26-rabbis-text.txt
+    kind: extracted_text
+    locator: "С. 26 / PDF 26, перший абзац"
+    provenance: "2026-11-26 вилучено наявний текстовий шар локального PDF через pdftotext -layout; без виправлень"
+    status: source_text
+  - path: sources/texts/nahrebetskyi-sharhorod-2010/p47-rabbis-text.txt
+    kind: extracted_text
+    locator: "С. 47 / PDF 47, рабини XVIII століття"
+    provenance: "2026-11-26 вилучено наявний текстовий шар локального PDF через pdftotext -layout; без виправлень"
+    status: source_text
+  - path: sources/texts/nahrebetskyi-sharhorod-2010/p50-rabbis-text.txt
+    kind: extracted_text
+    locator: "С. 50 / PDF 50, шаргородські учні Бешта й Мордехай"
+    provenance: "2026-11-26 вилучено наявний текстовий шар локального PDF через pdftotext -layout; без виправлень"
+    status: source_text
+  - path: sources/texts/nahrebetskyi-sharhorod-2010/p58-59-rabbis-text.txt
+    kind: extracted_text
+    locator: "С. 58–59 / PDF 58–59, «Раввинистические авторитеты»"
+    provenance: "2026-11-26 вилучено наявний текстовий шар локального PDF через pdftotext -layout; без виправлень"
+    status: source_text
   - path: sources/texts/nahrebetskyi-sharhorod-2010/p37-39-ottoman-migration-text.txt
     kind: extracted_text
     locator: "С. 37–39 / PDF 37–39, османський період і початок «Новое заселение города»"
@@ -51,6 +71,9 @@ artifacts:
     provenance: "2026-11-23 вилучено наявний текстовий шар локальної PDF-копії командою pdftotext -layout; оригінальні форми й сторонні символи збережено"
     status: source_text
 inspected:
+  - locator: "С. 26, 47, 50, 58–59 / однойменні PDF-сторінки"
+    basis: source_text
+    note: "2026-11-26 прочитано текстовий шар: Моше Мах і Яков-Еліяху; Нафталі-Герц та Авраам бен Меїр (1760); Яков бен Авраам, Авраам-Ієхіель Фішель і Давид-Цві; Давид, Залман і Мордехай; Ханох га-Леві Крупник, Іосиф Штибман і Шая Шейнис. Це вторинна компіляція; видання XVIII ст., епітафії й акти призначень не оглянуто. Зіставлення та розбіжності з КЕЭ — у завданні про рабинську мережу."
   - locator: "С. 43 / PDF 43, перший абзац"
     basis: source_text
     note: "2026-11-24 прочитано наявний текстовий шар: напад 1734 року в контексті виступу Верлана, переказ показань заарештованих козаків про заборону грабувати до Шаргорода та кількох убитих євреїв у самому місті. Імен загиблих, точного числа, дня нападу й локатора допиту абзац не подає. Це пізній виклад, не читання оригіналу показань; перевірка у завданні про напад 1734 року."
