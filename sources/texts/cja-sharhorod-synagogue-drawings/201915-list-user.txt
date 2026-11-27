@@ -1,0 +1,25 @@
+Page,Title
+
+0,General information
+
+1,Plan of the first tier on the level + 0.80+ -100
+
+2,Plan of the second tier of the level +1.50+6.00
+
+3,The western facade
+
+4,The southern facade
+
+5,The eastern facade
+
+6,The northern facade
+
+7,Section I-I
+
+8,Section II-II
+
+9,Section III-III
+
+10,The architectural details
+
+11,The architectural details
