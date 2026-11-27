@@ -39,7 +39,7 @@ Take information supplied by the user and place its useful parts in the existing
 
 ## Verify and report
 
-After editing, re-read the changed passages in context. Confirm that only justified destination articles changed, retained user-provided facts and uncertainty remain intact, document assertions were not promoted to established events merely through transcription confidence, privacy decisions were applied, and no duplicate was introduced. Check links touched by the edit and inspect the diff for unrelated changes.
+After editing, re-read the changed passages in context. Confirm that only justified destination articles changed, retained user-provided facts and uncertainty remain intact, document assertions were not promoted to established events merely through transcription confidence, and privacy decisions were applied. Check that any cross-page summary serves its own readers and that newly identified genealogical records are reachable from the affected settlement pages under [content-placement](../content-placement/SKILL.md). Check links touched by the edit and inspect the diff for unrelated changes.
 Confirm that all added reader-facing text is Ukrainian and that foreign personal and place names are rendered in Ukrainian script, except when part of an exact publication title.
 
 Report:

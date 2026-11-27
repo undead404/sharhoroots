@@ -13,7 +13,7 @@ Make requested structural changes without losing an article's evidence, inbound 
 
 1. Confirm the requested scope. Do not infer permission to rewrite historical claims while reorganizing an article.
 2. Read the source note and nearby destination notes. Preserve YAML frontmatter, citations, Obsidian wikilinks, embeds, attachments, and the established folder/type conventions.
-   For extraction or merging, load and follow `../content-placement/SKILL.md` to assess entity boundaries and plan primary treatment and linked context in related articles.
+   For extraction or merging, load and follow [content-placement](../content-placement/SKILL.md). Identify the primary home for the detailed account and each settlement that needs a sourced chronological summary, a link to the detail, or a continuing route to records.
 3. Search the vault for links to the current note, its filename, aliases, and relevant headings. Include indexes, tables, and Markdown links—not only prose backlinks.
 4. Inspect `content/_redirects` before changing paths. Its format is one old route and one destination route per line. Preserve existing lines and their order; the file contains routes with different prefixes, so do not normalize routes by guesswork.
 5. Determine the actual old and new published routes from the repository's Quartz path rules and any relevant frontmatter/configuration. A content file path is not automatically a URL with a `content/` prefix. If a route cannot be determined confidently, stop and ask rather than writing a speculative redirect.
@@ -30,6 +30,7 @@ Make requested structural changes without losing an article's evidence, inbound 
 
 - The destination note exists and produces the intended public route.
 - Every changed internal link points to an existing note/heading or known asset.
+- After extraction or merging, significant events and their supported local effects remain in the affected settlement chronologies with citations and links to the detail. Each affected settlement still gives readers a direct route to the known relevant record categories.
 - For a URL change, exactly one applicable old-route mapping exists in `content/_redirects`, points to the final route, and does not create a self-redirect or cycle.
 - Existing redirects remain intact; do not treat mixed prefixes as errors without verifying their deployed routes.
 - Confirm `_redirects` is included in the site output when validating a build. Quartz's Assets emitter copies non-Markdown files from `content`; avoid hand-editing generated output.

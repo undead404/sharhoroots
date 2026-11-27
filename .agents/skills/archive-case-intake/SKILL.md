@@ -43,15 +43,15 @@ If the date field has no year, use a year stated in the case title when it dates
 
 ## Choose articles narrowly
 
-Route by the case's actual subject as expressed in its description, not by every place or institution named incidentally. Use existing notes only; do not create new articles or links to nonexistent notes.
+Load [content-placement](../content-placement/SKILL.md). Route by the case's actual subject as expressed in its description. Use existing notes only.
 
 - **Settlement article:** use it when the case describes an event that occurred in the settlement or directly concerns its residents or community—not merely because the settlement appears as an incidental administrative or geographic reference.
 - **Jewish community article:** add it when Jewish communal life or a Jewish communal institution/person is directly involved. For a case involving Jews and non-Jews, add it to both the settlement article and the relevant Jewish-community article. Do not infer that townspeople were Jewish or non-Jewish unless the description says so.
 - **Church article:** when the case concerns church affairs strictly (such as worship or internal church administration) and does not involve clergy in a non-clerical interaction, put it in the directly relevant church article, not automatically in the settlement article just because the settlement is named.
 - **Clergy in non-clerical affairs:** when clergy are directly involved with non-clergy in a non-clerical context—including conflicts, property affairs, transactions, or legal/civil matters—add it to both the directly relevant church article and the settlement article when the settlement can be identified from the title/description.
 - **Other institutions/communities:** if a school, local council, or other organization is directly involved, add the case to an existing article devoted to that body only when the case directly concerns it or its members. Do not add a row to an article merely because its subject is mentioned incidentally; apply the other routing rules independently.
-
 - **Censuses and tax revisions listing people:** when the case is a census or tax revision whose purpose is to list people, prefer the article's `## Переписи та ревізії` section over `## Дотичні справи`. Load and follow the `census-revision-table` skill; its four-column schema and rules take precedence over the general related-case template below. Route it only to articles whose settlement, community, or listed subgroup is directly covered, applying the routing rules above. Do not use this exception for a general archival case that merely mentions a census or revision.
+- **Settlement record access:** when a case identifies a genealogically useful record category held in an institutional inventory, check that each settlement the description directly covers can reach that category. If the route is missing, add a descriptive link to the existing inventory from the relevant part of the settlement page. Use the dates and coverage supported by the description. Repeat a case row only when the other routing rules independently warrant it.
 
 Confirm the place/entity against article titles, aliases, and content. Do not resolve ambiguous place names by guesswork. If the subject or target article remains genuinely ambiguous, ask one concise question before editing that entry; proceed with other unambiguous entries if the payload contains several.
 

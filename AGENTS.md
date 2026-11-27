@@ -2,6 +2,8 @@
 
 This Obsidian vault is published with Quartz 4. Its scope is the territory of Sharhorod raion immediately before the 2020 reform. External material belongs only when it directly documents that territory or its inhabitants. External record-keeping institutions whose coverage overlaps it and administrative areas that included it may have articles about that overlap. Proximity or an unrelated external role does not establish local relevance.
 
+Sharhoroots is a genealogy-first local history resource. Settlement pages are the primary research entry points. Keep their accounts of the place and its inhabitants meaningful on their own and make all known relevant genealogical record categories discoverable directly from the settlement page. Use [content-placement](.agents/skills/content-placement/SKILL.md) for institutional coverage, extraction, and cross-linking.
+
 ## Language and evidence
 
 - All authored reader-facing text under `content/` is Ukrainian, even when another language is requested. Render foreign personal and place names in Ukrainian script without adding original spellings. Exact publication titles and literal identifiers retain their forms. Use «РПЦ» or «Російська церква» for the church using the designations «УПЦ»/«Українська православна церква»; preserve «ПЦУ»/«Православна церква України».
