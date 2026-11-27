@@ -4,7 +4,7 @@ type: ResearchTask
 status: done
 created: 2026-10-18
 targets:
-  - content/organization/Sharhorod-orthodox-monastery.md
+  - content/organization/Sharhorod-basilian-monastery.md
   - content/registrar/Sharhorod-orthodox-John-Forerunner.md
   - content/settlement/Kalynivka.md
 ---

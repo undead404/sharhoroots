@@ -4,7 +4,7 @@ type: ResearchTask
 status: queued
 created: 2026-11-16
 targets:
-  - content/organization/Sharhorod-orthodox-monastery.md
+  - content/organization/Sharhorod-basilian-monastery.md
 ---
 
 # Хто й які предмети викладав у Шаргородському базиліанському колегіумі в 1754–1780 роках?

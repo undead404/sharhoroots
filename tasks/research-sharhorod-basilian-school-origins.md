@@ -4,7 +4,7 @@ type: ResearchTask
 status: done
 created: 2026-10-21
 targets:
-  - content/organization/Sharhorod-orthodox-monastery.md
+  - content/organization/Sharhorod-basilian-monastery.md
   - content/settlement/Kalynivka.md
   - content/settlement/Sharhorod.md
 ---
@@ -65,7 +65,7 @@ targets:
 
 ### Розміщення й застосування
 
-Основний історичний суб’єкт — школа при базиліанському осередку; повний ранній виклад та імена належать `content/organization/Sharhorod-orthodox-monastery.md`. Історія Калинівки потребує згадки про школу 1744 року, історія Шаргорода — про освітнє зобов’язання 1749 року й розмежування з фундацією 1752-го. Статті `content/registrar/Kalynivka-orthodox-Onuphrius.md` і `content/registrar/Sharhorod-orthodox-John-Forerunner.md` не є основними місцями історії учнів та навчання; нових тверджень про будівлі храмів або парафіяльну юрисдикцію не встановлено.
+Основний історичний суб’єкт — школа при базиліанському осередку. Повний ранній виклад та імена тепер у `content/organization/Sharhorod-basilian-monastery.md`. Історія Калинівки потребує згадки про школу 1744 року, історія Шаргорода — про освітнє зобов’язання 1749 року й розмежування з фундацією 1752-го. Статті `content/registrar/Kalynivka-orthodox-Onuphrius.md` і `content/registrar/Sharhorod-orthodox-John-Forerunner.md` не є основними місцями історії учнів та навчання; нових тверджень про будівлі храмів або парафіяльну юрисдикцію не встановлено.
 
 2026-11-16, після перевірки фактичного тексту й diff:
 
