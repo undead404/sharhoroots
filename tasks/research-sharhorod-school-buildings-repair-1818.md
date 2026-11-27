@@ -4,6 +4,7 @@ type: ResearchTask
 status: done
 created: 2026-10-18
 targets:
+  - content/organization/Sharhorod-theological-school.md
   - content/organization/Sharhorod-orthodox-monastery.md
 ---
 
@@ -183,3 +184,5 @@ targets:
 Нову загальну нотатку `28730352` та облік кадрів 46, 47, 80 віддано Супрязі після dry-run (3 записи, 6 частково переглянутих кадрів; ворота нічого не відхилили). Зображення не передавали. Реєстр перебудовано.
 
 Окрему суттєву зачіпку про особу непевно прочитаної мурафської поміщиці збережено в `tasks/research-murafa-ozylunska-brick-loan.md` (`queued`), після перевірки відсутності відповідного дубля. Повторне `note pull` підтвердило 3 записи в пулі. `git diff --check` пройшов; тести коду не запускали (лише Markdown).
+
+Під час виокремлення [статті про училище](../content/organization/Sharhorod-theological-school.md#заснування-й-управління) стислий виклад рішення 1821 року й підтверджених робіт додано до її історії. Розгорнутий виклад свідчень і використання монастирських матеріалів залишається в [розділі про стан будівель і ремонт училища](../content/organization/Sharhorod-orthodox-monastery.md#стан-будівель-і-ремонт-училища).
