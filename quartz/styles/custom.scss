@@ -18,16 +18,109 @@
       box-sizing: border-box;
     }
 
-    > .sidebar.left {
-      flex-wrap: wrap;
-      gap: 0.75rem 0.5rem;
+    > .sidebar.left:has(> .explorer) {
+      display: grid;
+      grid-template-columns: 44px minmax(0, 1fr);
+      gap: 0.5rem 0.75rem;
 
-      // Keep the title readable and leave a separate row for the controls.
       > .page-title {
-        flex-basis: 100%;
-        min-width: 0;
-        order: -2;
+        grid-area: 1 / 2;
+        font-size: clamp(1.125rem, 5vw, 1.5rem);
+        line-height: 1.2;
       }
+
+      > .flex-component {
+        grid-column: 1 / -1;
+      }
+
+      > .mobile-only:has(> .spacer) {
+        display: none;
+      }
+
+      > .explorer {
+        grid-area: 1 / 1;
+
+        > .mobile-explorer {
+          min-height: 44px;
+          justify-content: center;
+
+          .lucide-menu line {
+            transform-box: fill-box;
+            transform-origin: center;
+
+            @media (prefers-reduced-motion: no-preference) {
+              transition:
+                transform 220ms ease-in-out,
+                opacity 220ms ease-in-out;
+            }
+          }
+
+          &[aria-expanded="true"] .lucide-menu {
+            line:nth-of-type(1) {
+              opacity: 0;
+            }
+
+            line:nth-of-type(2) {
+              transform: translateY(6px) rotate(45deg);
+            }
+
+            line:nth-of-type(3) {
+              transform: translateY(-6px) rotate(-45deg);
+            }
+          }
+        }
+
+        > .explorer-content:not(.mobile-explorer-panel) {
+          display: none;
+        }
+      }
+    }
+  }
+
+  html:has(.mobile-explorer-panel) {
+    overflow: hidden;
+  }
+
+  .mobile-explorer-panel {
+    --panel-start: max(1.25rem, env(safe-area-inset-left));
+    --panel-end: max(1.25rem, env(safe-area-inset-right));
+    position: fixed;
+    inset: var(--mobile-explorer-top) 0 0;
+    box-sizing: border-box;
+    width: auto;
+    height: auto;
+    height: calc(100dvh - var(--mobile-explorer-top));
+    max-width: none;
+    max-height: none;
+    margin: 0;
+    padding: 0;
+    border-top: 1px solid var(--lightgray);
+    background: var(--light);
+    color: var(--dark);
+    transform: none;
+    transition: none;
+    visibility: visible;
+
+    > .explorer-ul {
+      box-sizing: border-box;
+      padding: 0.75rem var(--panel-end) max(1rem, env(safe-area-inset-bottom))
+        var(--panel-start);
+    }
+
+    .folder-icon {
+      box-sizing: border-box;
+      width: 44px;
+      height: 44px;
+      padding: 14px;
+      // Extend the tap area into the gutter while keeping the chevron aligned.
+      margin-inline: -14px 0;
+    }
+
+    a,
+    .folder-button {
+      min-height: 2.5rem;
+      display: inline-flex;
+      align-items: center;
     }
   }
 }

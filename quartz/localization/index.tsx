@@ -66,9 +66,6 @@ export function applyUkrainianLocalization(
         a.internal.tag-link { display: inline-block; overflow-wrap: anywhere; }
         .search .ghost-text { display: none; }
         .search .tag-suggestion-item { white-space: normal; overflow-wrap: anywhere; }
-        @media (max-width: 800px) {
-          .explorer .explorer-content { position: fixed; left: 0; right: 0; max-width: 100vw; box-sizing: border-box; }
-        }
       `,
           },
         ],
