@@ -10,6 +10,11 @@ url: "https://irbis-nbuv.gov.ua/ulib/item/ukr0000014912"
 local_copy: "books/ukr0006226.pdf"
 last_checked: "2026-11-27"
 artifacts:
+  - path: sources/texts/lukin-sokolova-khaimovich-podolia-2000/pdf-211-fig248-user.txt
+    kind: transcription
+    locator: "С. 420 / PDF 211, підпис до іл. 248"
+    provenance: "Користувач звірив підпис за кропом і надав читання 2026-11-27; текст збережено дослівно"
+    status: user_confirmed
   - path: sources/texts/lukin-sokolova-khaimovich-podolia-2000/pdf-213-col3-school-ocr.txt
     kind: ocr
     locator: "PDF 213, третя колонка розвороту / друк. с. 425, освіта й училище для хлопців"
@@ -79,6 +84,9 @@ artifacts:
     engine: Tesseract
     status: unverified
 inspected:
+  - locator: "С. 420 / PDF 211, підпис до іл. 248"
+    basis: user_reading
+    note: "Підпис відносить розміщення сокоморсового заводу у Великій синагозі до 1950-х і часу авторського опису. Року передачі, назви рішення й джерела ретроспективного датування в підписі немає. Зіставлення в завданні про заводський цех Великої синагоги."
   - locator: "С. 419–420 / PDF 210–211 і прим. 91 на с. 639 / PDF 320"
     basis: machine_only
     note: "Локальне Tesseract OCR по колонках виявило в початковому абзаці с. 420 оповідь про штендер, а в прим. 91 — посилання на два випуски праці Крупника. Для перевіреного викладу про штендер використано паралельний текстовий шар книги Нагребецького 2010 року. Деталі пошуку та межі машинного читання — у завданні про Бешта й синагогу."
