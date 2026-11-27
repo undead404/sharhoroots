@@ -2,7 +2,7 @@
 
 This Obsidian vault is published with Quartz 4. Its scope is the territory of Sharhorod raion immediately before the 2020 reform. External material belongs only when it directly documents that territory or its inhabitants. External record-keeping institutions whose coverage overlaps it and administrative areas that included it may have articles about that overlap. Proximity or an unrelated external role does not establish local relevance.
 
-Sharhoroots is a genealogy-first local history resource. Settlement pages are the primary research entry points. Keep their accounts of the place and its inhabitants meaningful on their own and make all known relevant genealogical record categories discoverable directly from the settlement page. Use [content-placement](.agents/skills/content-placement/SKILL.md) for institutional coverage, extraction, and cross-linking.
+Sharhoroots is a genealogy-first local history resource. Settlement pages are the primary research entry points. Keep their accounts of the place and all its inhabitants meaningful on their own and make all known relevant genealogical record categories discoverable directly from the settlement page. Use [content-placement](.agents/skills/content-placement/SKILL.md) to route material among settlements, communities, and institutions and to guide extraction and cross-linking.
 
 ## Language and evidence
 
@@ -28,6 +28,7 @@ Repository skills in `.agents/skills/` take precedence over global copies. Read 
 | Edit article YAML | [content-frontmatter](.agents/skills/content-frontmatter/SKILL.md) |
 | Edit citations, quotations, footnotes, notes, or cited passages | [citations-and-notes](.agents/skills/citations-and-notes/SKILL.md) |
 | Choose destinations or cross-references | [content-placement](.agents/skills/content-placement/SKILL.md) |
+| Choose placement for material involving Jewish people, communities, records, institutions, or Judaic practice | [jewish-content-placement](.agents/skills/jewish-content-placement/SKILL.md) |
 | Move, rename, split, or merge articles | [curate-articles](.agents/skills/curate-articles/SKILL.md); update redirects and internal links with published path changes |
 | Edit «Дотичні фонди» | [related-fonds-table](.agents/skills/related-fonds-table/SKILL.md) |
 | Edit «Переписи та ревізії» | [census-revision-table](.agents/skills/census-revision-table/SKILL.md), taking precedence over general cases |
