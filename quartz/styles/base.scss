@@ -189,6 +189,7 @@ a {
   }
 
   & > #quartz-body {
+    --top-spacing: #{$topSpacing};
     display: grid;
     grid-template-columns: #{map.get($desktopGrid, templateColumns)};
     grid-template-rows: #{map.get($desktopGrid, templateRows)};
@@ -196,6 +197,9 @@ a {
     row-gap: #{map.get($desktopGrid, rowGap)};
     grid-template-areas: #{map.get($desktopGrid, templateAreas)};
 
+    @media all and ($desktop) {
+      --top-spacing: 2rem;
+    }
     @media all and ($tablet) {
       grid-template-columns: #{map.get($tabletGrid, templateColumns)};
       grid-template-rows: #{map.get($tabletGrid, templateRows)};
@@ -222,7 +226,7 @@ a {
       gap: 1.2rem;
       top: 0;
       box-sizing: border-box;
-      padding: $topSpacing 2rem 2rem 2rem;
+      padding: var(--top-spacing) 2rem 2rem;
       display: flex;
       height: 100vh;
       position: sticky;
@@ -274,7 +278,7 @@ a {
 
     & .page-header {
       grid-area: grid-header;
-      margin: $topSpacing 0 0 0;
+      margin: var(--top-spacing) 0 0;
       @media all and ($mobile) {
         margin-top: 0;
         padding: 0;
