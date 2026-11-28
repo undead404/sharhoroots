@@ -1,8 +1,26 @@
 ---
+schema_version: 1
+id: SRC-horobets-rodynna-kolyska-dzhuryn
 title: "Олександр Горобець: «Родинна колиска — Джурин»"
+type: secondary
 creator: "Олександр Горобець"
 url: "https://library.vn.ua/elbooks/kray/gorobecz-o-rodinna-koliska.pdf"
-last_checked: 2026-11-05
+local_copy: "books/gorobecz-o-rodinna-koliska.pdf"
+last_checked: "2026-11-05"
+artifacts:
+  - path: books/gorobecz-o-rodinna-koliska.ocr.txt
+    kind: ocr
+    locator: "Усі 100 PDF-сторінок"
+    provenance: "Локальне розпізнавання Apple Vision 05.11.2026; порядок рядків на двосторінкових розворотах місцями перемішаний"
+    engine: "Apple Vision"
+    status: unverified
+inspected:
+  - locator: "PDF с. 63, друк. с. 102"
+    basis: user_reading
+    note: "Підтверджене читання с. 102 надано користувачем 05.11.2026"
+  - locator: "PDF с. 63, друк. с. 103"
+    basis: user_reading
+    note: "Підтверджене читання с. 103 і підпису до портрета надано користувачем 05.11.2026"
 ---
 
 # «Родинна колиска — Джурин»
